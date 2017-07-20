@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-ROWS=8
+ROWS=6
 # 获取 gitmoji
 echo "### gitmoji list" > README.md
 (curl https://gitmoji.carloscuesta.me/index.html 2> /dev/null|grep 'class="emoji-info"'|sed 's,class="emoji-info"><code>,\n,g'|grep -v 'header-buttons'|sed 's,</p></div></div></article>.*,,g'|sed 's,</code><p>,=,g;s,/ ,,'|awk -F= '{print " - "$1" `"$1"` "$2}') >> README.md
@@ -13,4 +13,7 @@ echo "### gitmoji list" > README.md
 # 对比 gogs & github
 #   (comm <(cd gogs;ls|sed 's,\..*,,'|sort) <(awk '{print $1}' github_api.txt|sort)|sed 's,\t,=,g') > comm.tmp
 echo "### github emoji list" >> README.md
-(LINE="";COUNT=0;cat github_api.txt|awk '{print ":"$1": `:"$1":` "}' |while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done) >> README.md
+echo >> README.md
+echo ' | | | | | | | | ' >> README.md
+echo '---|---|---|---|---|---|---|---|---|---|---' >> README.md
+(LINE="";COUNT=0;cat github_api.txt|awk '{print ":"$1": `:"$1":` "}' |while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo "$LINE | $line" ; LINE=""; } || { (( ! (COUNT % ROWS - (ROWS - 1)))) && LINE="$LINE $line" || LINE="$LINE $line |"; };done) >> README.md
