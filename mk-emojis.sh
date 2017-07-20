@@ -13,7 +13,7 @@ comm <(cd gogs;ls|sed 's,\..*,,'|sort) <(awk '{print $1}' github_api.txt|sort)|s
 echo "### gogs emoji list" >> README.md
 LINE="";COUNT=0;awk -F= '{print $1}' comm.tmp|grep -v '^$'|sed 's,\(.*\),![:\1:](gogs/\1.png) `:\1:` ,'|while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done >> README.md
 echo "### github emoji list" >> README.md
-LINE="";COUNT=0;awk -F= '{print $2}' comm.tmp|grep -v '^$'|sed 's,\(.*\),<img src="github/unicode/\1.png?v7" width="24" height="24" alt=":\1:" /> `:\1:`,'|while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done >> README.md
+LINE="";COUNT=0;awk -F= '{print $2}' comm.tmp|grep -v '^$'|sed 's,\(.*\),<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/\1.png?v7" width="24" height="24" alt=":\1:" /> `:\1:`,'|while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done >> README.md
 echo "### github & gogs emoji list" >> README.md
 LINE="";COUNT=0;awk -F= '{print $3}' comm.tmp|grep -v '^$'|sed 's,\(.*\),![:\1:](gogs/\1.png) `:\1:` ,'|while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done >> README.md
 rm comm.tmp
