@@ -1,5 +1,5 @@
 ### gitmoji list
- - :art: `:art:` Improving structure format of the code.
+ - :art: `:art:` Improving structure / format of the code.
  - :zap: `:zap:` Improving performance.
  - :fire: `:fire:` Removing code or files.
  - :bug: `:bug:` Fixing a bug.
@@ -45,7 +45,6 @@
  - :bulb: `:bulb:` Documenting source code.
  - :beers: `:beers:` Writing code drunkenly.
  - :speech_balloon: `:speech_balloon:` Updating text and literals.
- - :card_file_box: `:card_file_box:` Performing database related changes.
 ### gogs emoji list
  -  :+1: `:+1:` :-1: `:-1:` :100: `:100:` :1234: `:1234:` :8ball: `:8ball:` :a: `:a:` :ab: `:ab:`
  -  :abcd: `:abcd:` :accept: `:accept:` :aerial_tramway: `:aerial_tramway:` :airplane: `:airplane:` :alarm_clock: `:alarm_clock:` :alien: `:alien:` :ambulance: `:ambulance:`
