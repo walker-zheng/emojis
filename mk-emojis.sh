@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-ROWS=6
+ROWS=3
 # 获取 gitmoji
 echo "### gitmoji list" > README.md
 (curl https://gitmoji.carloscuesta.me/index.html 2> /dev/null|grep 'class="emoji-info"'|sed 's,class="emoji-info"><code>,\n,g'|grep -v 'header-buttons'|sed 's,</p></div></div></article>.*,,g'|sed 's,</code><p>,=,g;s,/ ,,'|awk -F= '{print " - "$1" `"$1"` "$2}') >> README.md
