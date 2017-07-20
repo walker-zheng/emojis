@@ -1,5 +1,5 @@
 ### gitmoji list
- - :art: `:art:` Improving structure / format of the code.
+ - :art: `:art:` Improving structure format of the code.
  - :zap: `:zap:` Improving performance.
  - :fire: `:fire:` Removing code or files.
  - :bug: `:bug:` Fixing a bug.
@@ -16,7 +16,7 @@
  - :checkered_flag: `:checkered_flag:` Fixing something on Windows.
  - :robot: `:robot:` Fixing something on Android.
  - :green_apple: `:green_apple:` Fixing something on iOS.
- - :bookmark: `:bookmark:` Releasing / Version tags.
+ - :bookmark: `:bookmark:` Releasing Version tags.
  - :rotating_light: `:rotating_light:` Removing linter warnings.
  - :construction: `:construction:` Work in progress.
  - :green_heart: `:green_heart:` Fixing CI Build.
