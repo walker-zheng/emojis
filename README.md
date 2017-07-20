@@ -158,1511 +158,1511 @@
  -  :wind_chime: `:wind_chime:` :wine_glass: `:wine_glass:` :wink: `:wink:` :wolf: `:wolf:` :woman: `:woman:` :womans_clothes: `:womans_clothes:` :womans_hat: `:womans_hat:`
  -  :worried: `:worried:` :wrench: `:wrench:` :x: `:x:` :yellow_heart: `:yellow_heart:` :yen: `:yen:` :yum: `:yum:` :zap: `:zap:`
 ### github emoji list
- - ![:+1:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v7) `:+1:` 
- - ![:-1:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44e.png?v7) `:-1:` 
- - ![:100:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4af.png?v7) `:100:` 
- - ![:1234:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f522.png?v7) `:1234:` 
- - ![:1st_place_medal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f947.png?v7) `:1st_place_medal:` 
- - ![:2nd_place_medal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f948.png?v7) `:2nd_place_medal:` 
- - ![:3rd_place_medal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f949.png?v7) `:3rd_place_medal:` 
- - ![:8ball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b1.png?v7) `:8ball:` 
- - ![:a:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f170.png?v7) `:a:` 
- - ![:ab:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f18e.png?v7) `:ab:` 
- - ![:abc:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f524.png?v7) `:abc:` 
- - ![:abcd:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f521.png?v7) `:abcd:` 
- - ![:accept:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f251.png?v7) `:accept:` 
- - ![:aerial_tramway:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a1.png?v7) `:aerial_tramway:` 
- - ![:afghanistan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1eb.png?v7) `:afghanistan:` 
- - ![:airplane:](https://assets-cdn.github.com/images/icons/emoji/unicode/2708.png?v7) `:airplane:` 
- - ![:aland_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1fd.png?v7) `:aland_islands:` 
- - ![:alarm_clock:](https://assets-cdn.github.com/images/icons/emoji/unicode/23f0.png?v7) `:alarm_clock:` 
- - ![:albania:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f1.png?v7) `:albania:` 
- - ![:alembic:](https://assets-cdn.github.com/images/icons/emoji/unicode/2697.png?v7) `:alembic:` 
- - ![:algeria:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ff.png?v7) `:algeria:` 
- - ![:alien:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f47d.png?v7) `:alien:` 
- - ![:ambulance:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f691.png?v7) `:ambulance:` 
- - ![:american_samoa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f8.png?v7) `:american_samoa:` 
- - ![:amphora:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3fa.png?v7) `:amphora:` 
- - ![:anchor:](https://assets-cdn.github.com/images/icons/emoji/unicode/2693.png?v7) `:anchor:` 
- - ![:andorra:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1e9.png?v7) `:andorra:` 
- - ![:angel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f47c.png?v7) `:angel:` 
- - ![:anger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a2.png?v7) `:anger:` 
- - ![:angola:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f4.png?v7) `:angola:` 
- - ![:angry:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f620.png?v7) `:angry:` 
- - ![:anguilla:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ee.png?v7) `:anguilla:` 
- - ![:anguished:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f627.png?v7) `:anguished:` 
- - ![:ant:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41c.png?v7) `:ant:` 
- - ![:antarctica:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f6.png?v7) `:antarctica:` 
- - ![:antigua_barbuda:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ec.png?v7) `:antigua_barbuda:` 
- - ![:apple:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34e.png?v7) `:apple:` 
- - ![:aquarius:](https://assets-cdn.github.com/images/icons/emoji/unicode/2652.png?v7) `:aquarius:` 
- - ![:argentina:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f7.png?v7) `:argentina:` 
- - ![:aries:](https://assets-cdn.github.com/images/icons/emoji/unicode/2648.png?v7) `:aries:` 
- - ![:armenia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f2.png?v7) `:armenia:` 
- - ![:arrow_backward:](https://assets-cdn.github.com/images/icons/emoji/unicode/25c0.png?v7) `:arrow_backward:` 
- - ![:arrow_double_down:](https://assets-cdn.github.com/images/icons/emoji/unicode/23ec.png?v7) `:arrow_double_down:` 
- - ![:arrow_double_up:](https://assets-cdn.github.com/images/icons/emoji/unicode/23eb.png?v7) `:arrow_double_up:` 
- - ![:arrow_down:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b07.png?v7) `:arrow_down:` 
- - ![:arrow_down_small:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f53d.png?v7) `:arrow_down_small:` 
- - ![:arrow_forward:](https://assets-cdn.github.com/images/icons/emoji/unicode/25b6.png?v7) `:arrow_forward:` 
- - ![:arrow_heading_down:](https://assets-cdn.github.com/images/icons/emoji/unicode/2935.png?v7) `:arrow_heading_down:` 
- - ![:arrow_heading_up:](https://assets-cdn.github.com/images/icons/emoji/unicode/2934.png?v7) `:arrow_heading_up:` 
- - ![:arrow_left:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b05.png?v7) `:arrow_left:` 
- - ![:arrow_lower_left:](https://assets-cdn.github.com/images/icons/emoji/unicode/2199.png?v7) `:arrow_lower_left:` 
- - ![:arrow_lower_right:](https://assets-cdn.github.com/images/icons/emoji/unicode/2198.png?v7) `:arrow_lower_right:` 
- - ![:arrow_right:](https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png?v7) `:arrow_right:` 
- - ![:arrow_right_hook:](https://assets-cdn.github.com/images/icons/emoji/unicode/21aa.png?v7) `:arrow_right_hook:` 
- - ![:arrow_up:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png?v7) `:arrow_up:` 
- - ![:arrow_up_down:](https://assets-cdn.github.com/images/icons/emoji/unicode/2195.png?v7) `:arrow_up_down:` 
- - ![:arrow_up_small:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f53c.png?v7) `:arrow_up_small:` 
- - ![:arrow_upper_left:](https://assets-cdn.github.com/images/icons/emoji/unicode/2196.png?v7) `:arrow_upper_left:` 
- - ![:arrow_upper_right:](https://assets-cdn.github.com/images/icons/emoji/unicode/2197.png?v7) `:arrow_upper_right:` 
- - ![:arrows_clockwise:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f503.png?v7) `:arrows_clockwise:` 
- - ![:arrows_counterclockwise:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f504.png?v7) `:arrows_counterclockwise:` 
- - ![:art:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png?v7) `:art:` 
- - ![:articulated_lorry:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f69b.png?v7) `:articulated_lorry:` 
- - ![:artificial_satellite:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f0.png?v7) `:artificial_satellite:` 
- - ![:aruba:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1fc.png?v7) `:aruba:` 
- - ![:asterisk:](https://assets-cdn.github.com/images/icons/emoji/unicode/002a-20e3.png?v7) `:asterisk:` 
- - ![:astonished:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f632.png?v7) `:astonished:` 
- - ![:athletic_shoe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45f.png?v7) `:athletic_shoe:` 
- - ![:atm:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e7.png?v7) `:atm:` 
- - ![:atom:](https://assets-cdn.github.com/images/icons/emoji/atom.png?v7) `:atom:` 
- - ![:atom_symbol:](https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png?v7) `:atom_symbol:` 
- - ![:australia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1fa.png?v7) `:australia:` 
- - ![:austria:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f9.png?v7) `:austria:` 
- - ![:avocado:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f951.png?v7) `:avocado:` 
- - ![:azerbaijan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ff.png?v7) `:azerbaijan:` 
- - ![:b:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f171.png?v7) `:b:` 
- - ![:baby:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f476.png?v7) `:baby:` 
- - ![:baby_bottle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37c.png?v7) `:baby_bottle:` 
- - ![:baby_chick:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f424.png?v7) `:baby_chick:` 
- - ![:baby_symbol:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bc.png?v7) `:baby_symbol:` 
- - ![:back:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f519.png?v7) `:back:` 
- - ![:bacon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f953.png?v7) `:bacon:` 
- - ![:badminton:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f8.png?v7) `:badminton:` 
- - ![:baggage_claim:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c4.png?v7) `:baggage_claim:` 
- - ![:baguette_bread:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f956.png?v7) `:baguette_bread:` 
- - ![:bahamas:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f8.png?v7) `:bahamas:` 
- - ![:bahrain:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ed.png?v7) `:bahrain:` 
- - ![:balance_scale:](https://assets-cdn.github.com/images/icons/emoji/unicode/2696.png?v7) `:balance_scale:` 
- - ![:balloon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v7) `:balloon:` 
- - ![:ballot_box:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5f3.png?v7) `:ballot_box:` 
- - ![:ballot_box_with_check:](https://assets-cdn.github.com/images/icons/emoji/unicode/2611.png?v7) `:ballot_box_with_check:` 
- - ![:bamboo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f38d.png?v7) `:bamboo:` 
- - ![:banana:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34c.png?v7) `:banana:` 
- - ![:bangbang:](https://assets-cdn.github.com/images/icons/emoji/unicode/203c.png?v7) `:bangbang:` 
- - ![:bangladesh:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1e9.png?v7) `:bangladesh:` 
- - ![:bank:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e6.png?v7) `:bank:` 
- - ![:bar_chart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ca.png?v7) `:bar_chart:` 
- - ![:barbados:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1e7.png?v7) `:barbados:` 
- - ![:barber:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f488.png?v7) `:barber:` 
- - ![:baseball:](https://assets-cdn.github.com/images/icons/emoji/unicode/26be.png?v7) `:baseball:` 
- - ![:basecamp:](https://assets-cdn.github.com/images/icons/emoji/basecamp.png?v7) `:basecamp:` 
- - ![:basecampy:](https://assets-cdn.github.com/images/icons/emoji/basecampy.png?v7) `:basecampy:` 
- - ![:basketball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c0.png?v7) `:basketball:` 
- - ![:basketball_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f9.png?v7) `:basketball_man:` 
- - ![:basketball_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f9-2640.png?v7) `:basketball_woman:` 
- - ![:bat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f987.png?v7) `:bat:` 
- - ![:bath:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c0.png?v7) `:bath:` 
- - ![:bathtub:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c1.png?v7) `:bathtub:` 
- - ![:battery:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f50b.png?v7) `:battery:` 
- - ![:beach_umbrella:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d6.png?v7) `:beach_umbrella:` 
- - ![:bear:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43b.png?v7) `:bear:` 
- - ![:bed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cf.png?v7) `:bed:` 
- - ![:bee:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41d.png?v7) `:bee:` 
- - ![:beer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37a.png?v7) `:beer:` 
- - ![:beers:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37b.png?v7) `:beers:` 
- - ![:beetle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41e.png?v7) `:beetle:` 
- - ![:beginner:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f530.png?v7) `:beginner:` 
- - ![:belarus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1fe.png?v7) `:belarus:` 
- - ![:belgium:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ea.png?v7) `:belgium:` 
- - ![:belize:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ff.png?v7) `:belize:` 
- - ![:bell:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f514.png?v7) `:bell:` 
- - ![:bellhop_bell:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ce.png?v7) `:bellhop_bell:` 
- - ![:benin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ef.png?v7) `:benin:` 
- - ![:bento:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f371.png?v7) `:bento:` 
- - ![:bermuda:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f2.png?v7) `:bermuda:` 
- - ![:bhutan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f9.png?v7) `:bhutan:` 
- - ![:bicyclist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b4.png?v7) `:bicyclist:` 
- - ![:bike:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b2.png?v7) `:bike:` 
- - ![:biking_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b4.png?v7) `:biking_man:` 
- - ![:biking_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b4-2640.png?v7) `:biking_woman:` 
- - ![:bikini:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f459.png?v7) `:bikini:` 
- - ![:biohazard:](https://assets-cdn.github.com/images/icons/emoji/unicode/2623.png?v7) `:biohazard:` 
- - ![:bird:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f426.png?v7) `:bird:` 
- - ![:birthday:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f382.png?v7) `:birthday:` 
- - ![:black_circle:](https://assets-cdn.github.com/images/icons/emoji/unicode/26ab.png?v7) `:black_circle:` 
- - ![:black_flag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f4.png?v7) `:black_flag:` 
- - ![:black_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5a4.png?v7) `:black_heart:` 
- - ![:black_joker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f0cf.png?v7) `:black_joker:` 
- - ![:black_large_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b1b.png?v7) `:black_large_square:` 
- - ![:black_medium_small_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/25fe.png?v7) `:black_medium_small_square:` 
- - ![:black_medium_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/25fc.png?v7) `:black_medium_square:` 
- - ![:black_nib:](https://assets-cdn.github.com/images/icons/emoji/unicode/2712.png?v7) `:black_nib:` 
- - ![:black_small_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/25aa.png?v7) `:black_small_square:` 
- - ![:black_square_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f532.png?v7) `:black_square_button:` 
- - ![:blonde_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f471.png?v7) `:blonde_man:` 
- - ![:blonde_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f471-2640.png?v7) `:blonde_woman:` 
- - ![:blossom:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f33c.png?v7) `:blossom:` 
- - ![:blowfish:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f421.png?v7) `:blowfish:` 
- - ![:blue_book:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d8.png?v7) `:blue_book:` 
- - ![:blue_car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f699.png?v7) `:blue_car:` 
- - ![:blue_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f499.png?v7) `:blue_heart:` 
- - ![:blush:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f60a.png?v7) `:blush:` 
- - ![:boar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f417.png?v7) `:boar:` 
- - ![:boat:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f5.png?v7) `:boat:` 
- - ![:bolivia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f4.png?v7) `:bolivia:` 
- - ![:bomb:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a3.png?v7) `:bomb:` 
- - ![:book:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png?v7) `:book:` 
- - ![:bookmark:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f516.png?v7) `:bookmark:` 
- - ![:bookmark_tabs:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d1.png?v7) `:bookmark_tabs:` 
- - ![:books:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png?v7) `:books:` 
- - ![:boom:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a5.png?v7) `:boom:` 
- - ![:boot:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f462.png?v7) `:boot:` 
- - ![:bosnia_herzegovina:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1e6.png?v7) `:bosnia_herzegovina:` 
- - ![:botswana:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1fc.png?v7) `:botswana:` 
- - ![:bouquet:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f490.png?v7) `:bouquet:` 
- - ![:bow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f647.png?v7) `:bow:` 
- - ![:bow_and_arrow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f9.png?v7) `:bow_and_arrow:` 
- - ![:bowing_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f647.png?v7) `:bowing_man:` 
- - ![:bowing_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f647-2640.png?v7) `:bowing_woman:` 
- - ![:bowling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b3.png?v7) `:bowling:` 
- - ![:bowtie:](https://assets-cdn.github.com/images/icons/emoji/bowtie.png?v7) `:bowtie:` 
- - ![:boxing_glove:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f94a.png?v7) `:boxing_glove:` 
- - ![:boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f466.png?v7) `:boy:` 
- - ![:brazil:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v7) `:brazil:` 
- - ![:bread:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f35e.png?v7) `:bread:` 
- - ![:bride_with_veil:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f470.png?v7) `:bride_with_veil:` 
- - ![:bridge_at_night:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f309.png?v7) `:bridge_at_night:` 
- - ![:briefcase:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bc.png?v7) `:briefcase:` 
- - ![:british_indian_ocean_territory:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f4.png?v7) `:british_indian_ocean_territory:` 
- - ![:british_virgin_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1ec.png?v7) `:british_virgin_islands:` 
- - ![:broken_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f494.png?v7) `:broken_heart:` 
- - ![:brunei:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f3.png?v7) `:brunei:` 
- - ![:bug:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41b.png?v7) `:bug:` 
- - ![:building_construction:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d7.png?v7) `:building_construction:` 
- - ![:bulb:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a1.png?v7) `:bulb:` 
- - ![:bulgaria:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ec.png?v7) `:bulgaria:` 
- - ![:bullettrain_front:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f685.png?v7) `:bullettrain_front:` 
- - ![:bullettrain_side:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f684.png?v7) `:bullettrain_side:` 
- - ![:burkina_faso:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1eb.png?v7) `:burkina_faso:` 
- - ![:burrito:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f32f.png?v7) `:burrito:` 
- - ![:burundi:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ee.png?v7) `:burundi:` 
- - ![:bus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f68c.png?v7) `:bus:` 
- - ![:business_suit_levitating:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f574.png?v7) `:business_suit_levitating:` 
- - ![:busstop:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f68f.png?v7) `:busstop:` 
- - ![:bust_in_silhouette:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f464.png?v7) `:bust_in_silhouette:` 
- - ![:busts_in_silhouette:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f465.png?v7) `:busts_in_silhouette:` 
- - ![:butterfly:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f98b.png?v7) `:butterfly:` 
- - ![:cactus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f335.png?v7) `:cactus:` 
- - ![:cake:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f370.png?v7) `:cake:` 
- - ![:calendar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c6.png?v7) `:calendar:` 
- - ![:call_me_hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f919.png?v7) `:call_me_hand:` 
- - ![:calling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f2.png?v7) `:calling:` 
- - ![:cambodia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ed.png?v7) `:cambodia:` 
- - ![:camel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42b.png?v7) `:camel:` 
- - ![:camera:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f7.png?v7) `:camera:` 
- - ![:camera_flash:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f8.png?v7) `:camera_flash:` 
- - ![:cameroon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f2.png?v7) `:cameroon:` 
- - ![:camping:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d5.png?v7) `:camping:` 
- - ![:canada:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1e6.png?v7) `:canada:` 
- - ![:canary_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1e8.png?v7) `:canary_islands:` 
- - ![:cancer:](https://assets-cdn.github.com/images/icons/emoji/unicode/264b.png?v7) `:cancer:` 
- - ![:candle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f56f.png?v7) `:candle:` 
- - ![:candy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36c.png?v7) `:candy:` 
- - ![:canoe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f6.png?v7) `:canoe:` 
- - ![:cape_verde:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fb.png?v7) `:cape_verde:` 
- - ![:capital_abcd:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f520.png?v7) `:capital_abcd:` 
- - ![:capricorn:](https://assets-cdn.github.com/images/icons/emoji/unicode/2651.png?v7) `:capricorn:` 
- - ![:car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f697.png?v7) `:car:` 
- - ![:card_file_box:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5c3.png?v7) `:card_file_box:` 
- - ![:card_index:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c7.png?v7) `:card_index:` 
- - ![:card_index_dividers:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5c2.png?v7) `:card_index_dividers:` 
- - ![:caribbean_netherlands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f6.png?v7) `:caribbean_netherlands:` 
- - ![:carousel_horse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a0.png?v7) `:carousel_horse:` 
- - ![:carrot:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f955.png?v7) `:carrot:` 
- - ![:cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f431.png?v7) `:cat:` 
- - ![:cat2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f408.png?v7) `:cat2:` 
- - ![:cayman_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1fe.png?v7) `:cayman_islands:` 
- - ![:cd:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bf.png?v7) `:cd:` 
- - ![:central_african_republic:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1eb.png?v7) `:central_african_republic:` 
- - ![:chad:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1e9.png?v7) `:chad:` 
- - ![:chains:](https://assets-cdn.github.com/images/icons/emoji/unicode/26d3.png?v7) `:chains:` 
- - ![:champagne:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37e.png?v7) `:champagne:` 
- - ![:chart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b9.png?v7) `:chart:` 
- - ![:chart_with_downwards_trend:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c9.png?v7) `:chart_with_downwards_trend:` 
- - ![:chart_with_upwards_trend:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c8.png?v7) `:chart_with_upwards_trend:` 
- - ![:checkered_flag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c1.png?v7) `:checkered_flag:` 
- - ![:cheese:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f9c0.png?v7) `:cheese:` 
- - ![:cherries:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f352.png?v7) `:cherries:` 
- - ![:cherry_blossom:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f338.png?v7) `:cherry_blossom:` 
- - ![:chestnut:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f330.png?v7) `:chestnut:` 
- - ![:chicken:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f414.png?v7) `:chicken:` 
- - ![:children_crossing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b8.png?v7) `:children_crossing:` 
- - ![:chile:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f1.png?v7) `:chile:` 
- - ![:chipmunk:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43f.png?v7) `:chipmunk:` 
- - ![:chocolate_bar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36b.png?v7) `:chocolate_bar:` 
- - ![:christmas_island:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fd.png?v7) `:christmas_island:` 
- - ![:christmas_tree:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f384.png?v7) `:christmas_tree:` 
- - ![:church:](https://assets-cdn.github.com/images/icons/emoji/unicode/26ea.png?v7) `:church:` 
- - ![:cinema:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a6.png?v7) `:cinema:` 
- - ![:circus_tent:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3aa.png?v7) `:circus_tent:` 
- - ![:city_sunrise:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f307.png?v7) `:city_sunrise:` 
- - ![:city_sunset:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f306.png?v7) `:city_sunset:` 
- - ![:cityscape:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d9.png?v7) `:cityscape:` 
- - ![:cl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f191.png?v7) `:cl:` 
- - ![:clamp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5dc.png?v7) `:clamp:` 
- - ![:clap:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44f.png?v7) `:clap:` 
- - ![:clapper:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ac.png?v7) `:clapper:` 
- - ![:classical_building:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3db.png?v7) `:classical_building:` 
- - ![:clinking_glasses:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f942.png?v7) `:clinking_glasses:` 
- - ![:clipboard:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cb.png?v7) `:clipboard:` 
- - ![:clock1:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f550.png?v7) `:clock1:` 
- - ![:clock10:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f559.png?v7) `:clock10:` 
- - ![:clock1030:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f565.png?v7) `:clock1030:` 
- - ![:clock11:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f55a.png?v7) `:clock11:` 
- - ![:clock1130:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f566.png?v7) `:clock1130:` 
- - ![:clock12:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f55b.png?v7) `:clock12:` 
- - ![:clock1230:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f567.png?v7) `:clock1230:` 
- - ![:clock130:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f55c.png?v7) `:clock130:` 
- - ![:clock2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f551.png?v7) `:clock2:` 
- - ![:clock230:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f55d.png?v7) `:clock230:` 
- - ![:clock3:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f552.png?v7) `:clock3:` 
- - ![:clock330:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f55e.png?v7) `:clock330:` 
- - ![:clock4:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f553.png?v7) `:clock4:` 
- - ![:clock430:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f55f.png?v7) `:clock430:` 
- - ![:clock5:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f554.png?v7) `:clock5:` 
- - ![:clock530:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f560.png?v7) `:clock530:` 
- - ![:clock6:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f555.png?v7) `:clock6:` 
- - ![:clock630:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f561.png?v7) `:clock630:` 
- - ![:clock7:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f556.png?v7) `:clock7:` 
- - ![:clock730:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f562.png?v7) `:clock730:` 
- - ![:clock8:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f557.png?v7) `:clock8:` 
- - ![:clock830:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f563.png?v7) `:clock830:` 
- - ![:clock9:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f558.png?v7) `:clock9:` 
- - ![:clock930:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f564.png?v7) `:clock930:` 
- - ![:closed_book:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d5.png?v7) `:closed_book:` 
- - ![:closed_lock_with_key:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f510.png?v7) `:closed_lock_with_key:` 
- - ![:closed_umbrella:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f302.png?v7) `:closed_umbrella:` 
- - ![:cloud:](https://assets-cdn.github.com/images/icons/emoji/unicode/2601.png?v7) `:cloud:` 
- - ![:cloud_with_lightning:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f329.png?v7) `:cloud_with_lightning:` 
- - ![:cloud_with_lightning_and_rain:](https://assets-cdn.github.com/images/icons/emoji/unicode/26c8.png?v7) `:cloud_with_lightning_and_rain:` 
- - ![:cloud_with_rain:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f327.png?v7) `:cloud_with_rain:` 
- - ![:cloud_with_snow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f328.png?v7) `:cloud_with_snow:` 
- - ![:clown_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f921.png?v7) `:clown_face:` 
- - ![:clubs:](https://assets-cdn.github.com/images/icons/emoji/unicode/2663.png?v7) `:clubs:` 
- - ![:cn:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png?v7) `:cn:` 
- - ![:cocktail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f378.png?v7) `:cocktail:` 
- - ![:cocos_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1e8.png?v7) `:cocos_islands:` 
- - ![:coffee:](https://assets-cdn.github.com/images/icons/emoji/unicode/2615.png?v7) `:coffee:` 
- - ![:coffin:](https://assets-cdn.github.com/images/icons/emoji/unicode/26b0.png?v7) `:coffin:` 
- - ![:cold_sweat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f630.png?v7) `:cold_sweat:` 
- - ![:collision:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a5.png?v7) `:collision:` 
- - ![:colombia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f4.png?v7) `:colombia:` 
- - ![:comet:](https://assets-cdn.github.com/images/icons/emoji/unicode/2604.png?v7) `:comet:` 
- - ![:comoros:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f2.png?v7) `:comoros:` 
- - ![:computer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png?v7) `:computer:` 
- - ![:computer_mouse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5b1.png?v7) `:computer_mouse:` 
- - ![:confetti_ball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f38a.png?v7) `:confetti_ball:` 
- - ![:confounded:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f616.png?v7) `:confounded:` 
- - ![:confused:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f615.png?v7) `:confused:` 
- - ![:congo_brazzaville:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ec.png?v7) `:congo_brazzaville:` 
- - ![:congo_kinshasa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1e9.png?v7) `:congo_kinshasa:` 
- - ![:congratulations:](https://assets-cdn.github.com/images/icons/emoji/unicode/3297.png?v7) `:congratulations:` 
- - ![:construction:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a7.png?v7) `:construction:` 
- - ![:construction_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f477.png?v7) `:construction_worker:` 
- - ![:construction_worker_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f477.png?v7) `:construction_worker_man:` 
- - ![:construction_worker_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f477-2640.png?v7) `:construction_worker_woman:` 
- - ![:control_knobs:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f39b.png?v7) `:control_knobs:` 
- - ![:convenience_store:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ea.png?v7) `:convenience_store:` 
- - ![:cook_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f0.png?v7) `:cook_islands:` 
- - ![:cookie:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36a.png?v7) `:cookie:` 
- - ![:cool:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f192.png?v7) `:cool:` 
- - ![:cop:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46e.png?v7) `:cop:` 
- - ![:copyright:](https://assets-cdn.github.com/images/icons/emoji/unicode/00a9.png?v7) `:copyright:` 
- - ![:corn:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f33d.png?v7) `:corn:` 
- - ![:costa_rica:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f7.png?v7) `:costa_rica:` 
- - ![:cote_divoire:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ee.png?v7) `:cote_divoire:` 
- - ![:couch_and_lamp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cb.png?v7) `:couch_and_lamp:` 
- - ![:couple:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46b.png?v7) `:couple:` 
- - ![:couple_with_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f491.png?v7) `:couple_with_heart:` 
- - ![:couple_with_heart_man_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2764-1f468.png?v7) `:couple_with_heart_man_man:` 
- - ![:couple_with_heart_woman_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f491.png?v7) `:couple_with_heart_woman_man:` 
- - ![:couple_with_heart_woman_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2764-1f469.png?v7) `:couple_with_heart_woman_woman:` 
- - ![:couplekiss_man_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2764-1f48b-1f468.png?v7) `:couplekiss_man_man:` 
- - ![:couplekiss_man_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f48f.png?v7) `:couplekiss_man_woman:` 
- - ![:couplekiss_woman_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2764-1f48b-1f469.png?v7) `:couplekiss_woman_woman:` 
- - ![:cow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42e.png?v7) `:cow:` 
- - ![:cow2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f404.png?v7) `:cow2:` 
- - ![:cowboy_hat_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f920.png?v7) `:cowboy_hat_face:` 
- - ![:crab:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f980.png?v7) `:crab:` 
- - ![:crayon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f58d.png?v7) `:crayon:` 
- - ![:credit_card:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b3.png?v7) `:credit_card:` 
- - ![:crescent_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f319.png?v7) `:crescent_moon:` 
- - ![:cricket:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cf.png?v7) `:cricket:` 
- - ![:croatia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f7.png?v7) `:croatia:` 
- - ![:crocodile:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f40a.png?v7) `:crocodile:` 
- - ![:croissant:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f950.png?v7) `:croissant:` 
- - ![:crossed_fingers:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f91e.png?v7) `:crossed_fingers:` 
- - ![:crossed_flags:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f38c.png?v7) `:crossed_flags:` 
- - ![:crossed_swords:](https://assets-cdn.github.com/images/icons/emoji/unicode/2694.png?v7) `:crossed_swords:` 
- - ![:crown:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f451.png?v7) `:crown:` 
- - ![:cry:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f622.png?v7) `:cry:` 
- - ![:crying_cat_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f63f.png?v7) `:crying_cat_face:` 
- - ![:crystal_ball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52e.png?v7) `:crystal_ball:` 
- - ![:cuba:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fa.png?v7) `:cuba:` 
- - ![:cucumber:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f952.png?v7) `:cucumber:` 
- - ![:cupid:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f498.png?v7) `:cupid:` 
- - ![:curacao:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fc.png?v7) `:curacao:` 
- - ![:curly_loop:](https://assets-cdn.github.com/images/icons/emoji/unicode/27b0.png?v7) `:curly_loop:` 
- - ![:currency_exchange:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b1.png?v7) `:currency_exchange:` 
- - ![:curry:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f35b.png?v7) `:curry:` 
- - ![:custard:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36e.png?v7) `:custard:` 
- - ![:customs:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c3.png?v7) `:customs:` 
- - ![:cyclone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f300.png?v7) `:cyclone:` 
- - ![:cyprus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fe.png?v7) `:cyprus:` 
- - ![:czech_republic:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ff.png?v7) `:czech_republic:` 
- - ![:dagger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5e1.png?v7) `:dagger:` 
- - ![:dancer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f483.png?v7) `:dancer:` 
- - ![:dancers:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46f.png?v7) `:dancers:` 
- - ![:dancing_men:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46f-2642.png?v7) `:dancing_men:` 
- - ![:dancing_women:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46f.png?v7) `:dancing_women:` 
- - ![:dango:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f361.png?v7) `:dango:` 
- - ![:dark_sunglasses:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f576.png?v7) `:dark_sunglasses:` 
- - ![:dart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3af.png?v7) `:dart:` 
- - ![:dash:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a8.png?v7) `:dash:` 
- - ![:date:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c5.png?v7) `:date:` 
- - ![:de:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ea.png?v7) `:de:` 
- - ![:deciduous_tree:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f333.png?v7) `:deciduous_tree:` 
- - ![:deer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f98c.png?v7) `:deer:` 
- - ![:denmark:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1f0.png?v7) `:denmark:` 
- - ![:department_store:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ec.png?v7) `:department_store:` 
- - ![:derelict_house:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3da.png?v7) `:derelict_house:` 
- - ![:desert:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3dc.png?v7) `:desert:` 
- - ![:desert_island:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3dd.png?v7) `:desert_island:` 
- - ![:desktop_computer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5a5.png?v7) `:desktop_computer:` 
- - ![:detective:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f575.png?v7) `:detective:` 
- - ![:diamond_shape_with_a_dot_inside:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a0.png?v7) `:diamond_shape_with_a_dot_inside:` 
- - ![:diamonds:](https://assets-cdn.github.com/images/icons/emoji/unicode/2666.png?v7) `:diamonds:` 
- - ![:disappointed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61e.png?v7) `:disappointed:` 
- - ![:disappointed_relieved:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f625.png?v7) `:disappointed_relieved:` 
- - ![:dizzy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ab.png?v7) `:dizzy:` 
- - ![:dizzy_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f635.png?v7) `:dizzy_face:` 
- - ![:djibouti:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ef.png?v7) `:djibouti:` 
- - ![:do_not_litter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6af.png?v7) `:do_not_litter:` 
- - ![:dog:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f436.png?v7) `:dog:` 
- - ![:dog2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f415.png?v7) `:dog2:` 
- - ![:dollar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b5.png?v7) `:dollar:` 
- - ![:dolls:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f38e.png?v7) `:dolls:` 
- - ![:dolphin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42c.png?v7) `:dolphin:` 
- - ![:dominica:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1f2.png?v7) `:dominica:` 
- - ![:dominican_republic:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1f4.png?v7) `:dominican_republic:` 
- - ![:door:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6aa.png?v7) `:door:` 
- - ![:doughnut:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f369.png?v7) `:doughnut:` 
- - ![:dove:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f54a.png?v7) `:dove:` 
- - ![:dragon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f409.png?v7) `:dragon:` 
- - ![:dragon_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f432.png?v7) `:dragon_face:` 
- - ![:dress:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f457.png?v7) `:dress:` 
- - ![:dromedary_camel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42a.png?v7) `:dromedary_camel:` 
- - ![:drooling_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f924.png?v7) `:drooling_face:` 
- - ![:droplet:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png?v7) `:droplet:` 
- - ![:drum:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f941.png?v7) `:drum:` 
- - ![:duck:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f986.png?v7) `:duck:` 
- - ![:dvd:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c0.png?v7) `:dvd:` 
- - ![:e-mail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e7.png?v7) `:e-mail:` 
- - ![:eagle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f985.png?v7) `:eagle:` 
- - ![:ear:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f442.png?v7) `:ear:` 
- - ![:ear_of_rice:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f33e.png?v7) `:ear_of_rice:` 
- - ![:earth_africa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f30d.png?v7) `:earth_africa:` 
- - ![:earth_americas:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f30e.png?v7) `:earth_americas:` 
- - ![:earth_asia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f30f.png?v7) `:earth_asia:` 
- - ![:ecuador:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1e8.png?v7) `:ecuador:` 
- - ![:egg:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f95a.png?v7) `:egg:` 
- - ![:eggplant:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f346.png?v7) `:eggplant:` 
- - ![:egypt:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1ec.png?v7) `:egypt:` 
- - ![:eight:](https://assets-cdn.github.com/images/icons/emoji/unicode/0038-20e3.png?v7) `:eight:` 
- - ![:eight_pointed_black_star:](https://assets-cdn.github.com/images/icons/emoji/unicode/2734.png?v7) `:eight_pointed_black_star:` 
- - ![:eight_spoked_asterisk:](https://assets-cdn.github.com/images/icons/emoji/unicode/2733.png?v7) `:eight_spoked_asterisk:` 
- - ![:el_salvador:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1fb.png?v7) `:el_salvador:` 
- - ![:electric_plug:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f50c.png?v7) `:electric_plug:` 
- - ![:electron:](https://assets-cdn.github.com/images/icons/emoji/electron.png?v7) `:electron:` 
- - ![:elephant:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f418.png?v7) `:elephant:` 
- - ![:email:](https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png?v7) `:email:` 
- - ![:end:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f51a.png?v7) `:end:` 
- - ![:envelope:](https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png?v7) `:envelope:` 
- - ![:envelope_with_arrow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e9.png?v7) `:envelope_with_arrow:` 
- - ![:equatorial_guinea:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f6.png?v7) `:equatorial_guinea:` 
- - ![:eritrea:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f7.png?v7) `:eritrea:` 
- - ![:es:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v7) `:es:` 
- - ![:estonia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1ea.png?v7) `:estonia:` 
- - ![:ethiopia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v7) `:ethiopia:` 
- - ![:eu:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v7) `:eu:` 
- - ![:euro:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b6.png?v7) `:euro:` 
- - ![:european_castle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f0.png?v7) `:european_castle:` 
- - ![:european_post_office:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e4.png?v7) `:european_post_office:` 
- - ![:european_union:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v7) `:european_union:` 
- - ![:evergreen_tree:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f332.png?v7) `:evergreen_tree:` 
- - ![:exclamation:](https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png?v7) `:exclamation:` 
- - ![:expressionless:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f611.png?v7) `:expressionless:` 
- - ![:eye:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f441.png?v7) `:eye:` 
- - ![:eye_speech_bubble:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f441-1f5e8.png?v7) `:eye_speech_bubble:` 
- - ![:eyeglasses:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f453.png?v7) `:eyeglasses:` 
- - ![:eyes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f440.png?v7) `:eyes:` 
- - ![:face_with_head_bandage:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f915.png?v7) `:face_with_head_bandage:` 
- - ![:face_with_thermometer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f912.png?v7) `:face_with_thermometer:` 
- - ![:facepunch:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v7) `:facepunch:` 
- - ![:factory:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ed.png?v7) `:factory:` 
- - ![:falkland_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f0.png?v7) `:falkland_islands:` 
- - ![:fallen_leaf:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f342.png?v7) `:fallen_leaf:` 
- - ![:family:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46a.png?v7) `:family:` 
- - ![:family_man_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f466.png?v7) `:family_man_boy:` 
- - ![:family_man_boy_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f466-1f466.png?v7) `:family_man_boy_boy:` 
- - ![:family_man_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f467.png?v7) `:family_man_girl:` 
- - ![:family_man_girl_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f467-1f466.png?v7) `:family_man_girl_boy:` 
- - ![:family_man_girl_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f467-1f467.png?v7) `:family_man_girl_girl:` 
- - ![:family_man_man_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f466.png?v7) `:family_man_man_boy:` 
- - ![:family_man_man_boy_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f466-1f466.png?v7) `:family_man_man_boy_boy:` 
- - ![:family_man_man_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f467.png?v7) `:family_man_man_girl:` 
- - ![:family_man_man_girl_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f466.png?v7) `:family_man_man_girl_boy:` 
- - ![:family_man_man_girl_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f467.png?v7) `:family_man_man_girl_girl:` 
- - ![:family_man_woman_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46a.png?v7) `:family_man_woman_boy:` 
- - ![:family_man_woman_boy_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f466-1f466.png?v7) `:family_man_woman_boy_boy:` 
- - ![:family_man_woman_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f467.png?v7) `:family_man_woman_girl:` 
- - ![:family_man_woman_girl_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f466.png?v7) `:family_man_woman_girl_boy:` 
- - ![:family_man_woman_girl_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f467.png?v7) `:family_man_woman_girl_girl:` 
- - ![:family_woman_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f466.png?v7) `:family_woman_boy:` 
- - ![:family_woman_boy_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f466-1f466.png?v7) `:family_woman_boy_boy:` 
- - ![:family_woman_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f467.png?v7) `:family_woman_girl:` 
- - ![:family_woman_girl_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f467-1f466.png?v7) `:family_woman_girl_boy:` 
- - ![:family_woman_girl_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f467-1f467.png?v7) `:family_woman_girl_girl:` 
- - ![:family_woman_woman_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f466.png?v7) `:family_woman_woman_boy:` 
- - ![:family_woman_woman_boy_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f466-1f466.png?v7) `:family_woman_woman_boy_boy:` 
- - ![:family_woman_woman_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f467.png?v7) `:family_woman_woman_girl:` 
- - ![:family_woman_woman_girl_boy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f466.png?v7) `:family_woman_woman_girl_boy:` 
- - ![:family_woman_woman_girl_girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f467.png?v7) `:family_woman_woman_girl_girl:` 
- - ![:faroe_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f4.png?v7) `:faroe_islands:` 
- - ![:fast_forward:](https://assets-cdn.github.com/images/icons/emoji/unicode/23e9.png?v7) `:fast_forward:` 
- - ![:fax:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e0.png?v7) `:fax:` 
- - ![:fearful:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f628.png?v7) `:fearful:` 
- - ![:feelsgood:](https://assets-cdn.github.com/images/icons/emoji/feelsgood.png?v7) `:feelsgood:` 
- - ![:feet:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43e.png?v7) `:feet:` 
- - ![:female_detective:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f575-2640.png?v7) `:female_detective:` 
- - ![:ferris_wheel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a1.png?v7) `:ferris_wheel:` 
- - ![:ferry:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f4.png?v7) `:ferry:` 
- - ![:field_hockey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d1.png?v7) `:field_hockey:` 
- - ![:fiji:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1ef.png?v7) `:fiji:` 
- - ![:file_cabinet:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5c4.png?v7) `:file_cabinet:` 
- - ![:file_folder:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c1.png?v7) `:file_folder:` 
- - ![:film_projector:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fd.png?v7) `:film_projector:` 
- - ![:film_strip:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f39e.png?v7) `:film_strip:` 
- - ![:finland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1ee.png?v7) `:finland:` 
- - ![:finnadie:](https://assets-cdn.github.com/images/icons/emoji/finnadie.png?v7) `:finnadie:` 
- - ![:fire:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png?v7) `:fire:` 
- - ![:fire_engine:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f692.png?v7) `:fire_engine:` 
- - ![:fireworks:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f386.png?v7) `:fireworks:` 
- - ![:first_quarter_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f313.png?v7) `:first_quarter_moon:` 
- - ![:first_quarter_moon_with_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f31b.png?v7) `:first_quarter_moon_with_face:` 
- - ![:fish:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41f.png?v7) `:fish:` 
- - ![:fish_cake:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f365.png?v7) `:fish_cake:` 
- - ![:fishing_pole_and_fish:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a3.png?v7) `:fishing_pole_and_fish:` 
- - ![:fist:](https://assets-cdn.github.com/images/icons/emoji/unicode/270a.png?v7) `:fist:` 
- - ![:fist_left:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f91b.png?v7) `:fist_left:` 
- - ![:fist_oncoming:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v7) `:fist_oncoming:` 
- - ![:fist_raised:](https://assets-cdn.github.com/images/icons/emoji/unicode/270a.png?v7) `:fist_raised:` 
- - ![:fist_right:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f91c.png?v7) `:fist_right:` 
- - ![:five:](https://assets-cdn.github.com/images/icons/emoji/unicode/0035-20e3.png?v7) `:five:` 
- - ![:flags:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f38f.png?v7) `:flags:` 
- - ![:flashlight:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f526.png?v7) `:flashlight:` 
- - ![:fleur_de_lis:](https://assets-cdn.github.com/images/icons/emoji/unicode/269c.png?v7) `:fleur_de_lis:` 
- - ![:flight_arrival:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ec.png?v7) `:flight_arrival:` 
- - ![:flight_departure:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6eb.png?v7) `:flight_departure:` 
- - ![:flipper:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42c.png?v7) `:flipper:` 
- - ![:floppy_disk:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png?v7) `:floppy_disk:` 
- - ![:flower_playing_cards:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b4.png?v7) `:flower_playing_cards:` 
- - ![:flushed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png?v7) `:flushed:` 
- - ![:fog:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f32b.png?v7) `:fog:` 
- - ![:foggy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f301.png?v7) `:foggy:` 
- - ![:football:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c8.png?v7) `:football:` 
- - ![:footprints:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f463.png?v7) `:footprints:` 
- - ![:fork_and_knife:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f374.png?v7) `:fork_and_knife:` 
- - ![:fountain:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f2.png?v7) `:fountain:` 
- - ![:fountain_pen:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f58b.png?v7) `:fountain_pen:` 
- - ![:four:](https://assets-cdn.github.com/images/icons/emoji/unicode/0034-20e3.png?v7) `:four:` 
- - ![:four_leaf_clover:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f340.png?v7) `:four_leaf_clover:` 
- - ![:fox_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f98a.png?v7) `:fox_face:` 
- - ![:fr:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v7) `:fr:` 
- - ![:framed_picture:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5bc.png?v7) `:framed_picture:` 
- - ![:free:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f193.png?v7) `:free:` 
- - ![:french_guiana:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1eb.png?v7) `:french_guiana:` 
- - ![:french_polynesia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1eb.png?v7) `:french_polynesia:` 
- - ![:french_southern_territories:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1eb.png?v7) `:french_southern_territories:` 
- - ![:fried_egg:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f373.png?v7) `:fried_egg:` 
- - ![:fried_shrimp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f364.png?v7) `:fried_shrimp:` 
- - ![:fries:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f35f.png?v7) `:fries:` 
- - ![:frog:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f438.png?v7) `:frog:` 
- - ![:frowning:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f626.png?v7) `:frowning:` 
- - ![:frowning_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/2639.png?v7) `:frowning_face:` 
- - ![:frowning_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d-2642.png?v7) `:frowning_man:` 
- - ![:frowning_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d.png?v7) `:frowning_woman:` 
- - ![:fu:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f595.png?v7) `:fu:` 
- - ![:fuelpump:](https://assets-cdn.github.com/images/icons/emoji/unicode/26fd.png?v7) `:fuelpump:` 
- - ![:full_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f315.png?v7) `:full_moon:` 
- - ![:full_moon_with_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f31d.png?v7) `:full_moon_with_face:` 
- - ![:funeral_urn:](https://assets-cdn.github.com/images/icons/emoji/unicode/26b1.png?v7) `:funeral_urn:` 
- - ![:gabon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e6.png?v7) `:gabon:` 
- - ![:gambia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f2.png?v7) `:gambia:` 
- - ![:game_die:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v7) `:game_die:` 
- - ![:gb:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v7) `:gb:` 
- - ![:gear:](https://assets-cdn.github.com/images/icons/emoji/unicode/2699.png?v7) `:gear:` 
- - ![:gem:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f48e.png?v7) `:gem:` 
- - ![:gemini:](https://assets-cdn.github.com/images/icons/emoji/unicode/264a.png?v7) `:gemini:` 
- - ![:georgia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ea.png?v7) `:georgia:` 
- - ![:ghana:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ed.png?v7) `:ghana:` 
- - ![:ghost:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f47b.png?v7) `:ghost:` 
- - ![:gibraltar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ee.png?v7) `:gibraltar:` 
- - ![:gift:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f381.png?v7) `:gift:` 
- - ![:gift_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49d.png?v7) `:gift_heart:` 
- - ![:girl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f467.png?v7) `:girl:` 
- - ![:globe_with_meridians:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f310.png?v7) `:globe_with_meridians:` 
- - ![:goal_net:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f945.png?v7) `:goal_net:` 
- - ![:goat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f410.png?v7) `:goat:` 
- - ![:goberserk:](https://assets-cdn.github.com/images/icons/emoji/goberserk.png?v7) `:goberserk:` 
- - ![:godmode:](https://assets-cdn.github.com/images/icons/emoji/godmode.png?v7) `:godmode:` 
- - ![:golf:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f3.png?v7) `:golf:` 
- - ![:golfing_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cc.png?v7) `:golfing_man:` 
- - ![:golfing_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cc-2640.png?v7) `:golfing_woman:` 
- - ![:gorilla:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f98d.png?v7) `:gorilla:` 
- - ![:grapes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f347.png?v7) `:grapes:` 
- - ![:greece:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f7.png?v7) `:greece:` 
- - ![:green_apple:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34f.png?v7) `:green_apple:` 
- - ![:green_book:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d7.png?v7) `:green_book:` 
- - ![:green_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49a.png?v7) `:green_heart:` 
- - ![:green_salad:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f957.png?v7) `:green_salad:` 
- - ![:greenland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f1.png?v7) `:greenland:` 
- - ![:grenada:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e9.png?v7) `:grenada:` 
- - ![:grey_exclamation:](https://assets-cdn.github.com/images/icons/emoji/unicode/2755.png?v7) `:grey_exclamation:` 
- - ![:grey_question:](https://assets-cdn.github.com/images/icons/emoji/unicode/2754.png?v7) `:grey_question:` 
- - ![:grimacing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f62c.png?v7) `:grimacing:` 
- - ![:grin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png?v7) `:grin:` 
- - ![:grinning:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png?v7) `:grinning:` 
- - ![:guadeloupe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f5.png?v7) `:guadeloupe:` 
- - ![:guam:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1fa.png?v7) `:guam:` 
- - ![:guardsman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f482.png?v7) `:guardsman:` 
- - ![:guardswoman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f482-2640.png?v7) `:guardswoman:` 
- - ![:guatemala:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f9.png?v7) `:guatemala:` 
- - ![:guernsey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ec.png?v7) `:guernsey:` 
- - ![:guinea:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f3.png?v7) `:guinea:` 
- - ![:guinea_bissau:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1fc.png?v7) `:guinea_bissau:` 
- - ![:guitar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b8.png?v7) `:guitar:` 
- - ![:gun:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52b.png?v7) `:gun:` 
- - ![:guyana:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1fe.png?v7) `:guyana:` 
- - ![:haircut:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f487.png?v7) `:haircut:` 
- - ![:haircut_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f487-2642.png?v7) `:haircut_man:` 
- - ![:haircut_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f487.png?v7) `:haircut_woman:` 
- - ![:haiti:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f9.png?v7) `:haiti:` 
- - ![:hamburger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f354.png?v7) `:hamburger:` 
- - ![:hammer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f528.png?v7) `:hammer:` 
- - ![:hammer_and_pick:](https://assets-cdn.github.com/images/icons/emoji/unicode/2692.png?v7) `:hammer_and_pick:` 
- - ![:hammer_and_wrench:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e0.png?v7) `:hammer_and_wrench:` 
- - ![:hamster:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f439.png?v7) `:hamster:` 
- - ![:hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/270b.png?v7) `:hand:` 
- - ![:handbag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45c.png?v7) `:handbag:` 
- - ![:handshake:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f91d.png?v7) `:handshake:` 
- - ![:hankey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png?v7) `:hankey:` 
- - ![:hash:](https://assets-cdn.github.com/images/icons/emoji/unicode/0023-20e3.png?v7) `:hash:` 
- - ![:hatched_chick:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f425.png?v7) `:hatched_chick:` 
- - ![:hatching_chick:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f423.png?v7) `:hatching_chick:` 
- - ![:headphones:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a7.png?v7) `:headphones:` 
- - ![:hear_no_evil:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f649.png?v7) `:hear_no_evil:` 
- - ![:heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png?v7) `:heart:` 
- - ![:heart_decoration:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49f.png?v7) `:heart_decoration:` 
- - ![:heart_eyes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f60d.png?v7) `:heart_eyes:` 
- - ![:heart_eyes_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f63b.png?v7) `:heart_eyes_cat:` 
- - ![:heartbeat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f493.png?v7) `:heartbeat:` 
- - ![:heartpulse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f497.png?v7) `:heartpulse:` 
- - ![:hearts:](https://assets-cdn.github.com/images/icons/emoji/unicode/2665.png?v7) `:hearts:` 
- - ![:heavy_check_mark:](https://assets-cdn.github.com/images/icons/emoji/unicode/2714.png?v7) `:heavy_check_mark:` 
- - ![:heavy_division_sign:](https://assets-cdn.github.com/images/icons/emoji/unicode/2797.png?v7) `:heavy_division_sign:` 
- - ![:heavy_dollar_sign:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b2.png?v7) `:heavy_dollar_sign:` 
- - ![:heavy_exclamation_mark:](https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png?v7) `:heavy_exclamation_mark:` 
- - ![:heavy_heart_exclamation:](https://assets-cdn.github.com/images/icons/emoji/unicode/2763.png?v7) `:heavy_heart_exclamation:` 
- - ![:heavy_minus_sign:](https://assets-cdn.github.com/images/icons/emoji/unicode/2796.png?v7) `:heavy_minus_sign:` 
- - ![:heavy_multiplication_x:](https://assets-cdn.github.com/images/icons/emoji/unicode/2716.png?v7) `:heavy_multiplication_x:` 
- - ![:heavy_plus_sign:](https://assets-cdn.github.com/images/icons/emoji/unicode/2795.png?v7) `:heavy_plus_sign:` 
- - ![:helicopter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f681.png?v7) `:helicopter:` 
- - ![:herb:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f33f.png?v7) `:herb:` 
- - ![:hibiscus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f33a.png?v7) `:hibiscus:` 
- - ![:high_brightness:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f506.png?v7) `:high_brightness:` 
- - ![:high_heel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f460.png?v7) `:high_heel:` 
- - ![:hocho:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52a.png?v7) `:hocho:` 
- - ![:hole:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f573.png?v7) `:hole:` 
- - ![:honduras:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f3.png?v7) `:honduras:` 
- - ![:honey_pot:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36f.png?v7) `:honey_pot:` 
- - ![:honeybee:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41d.png?v7) `:honeybee:` 
- - ![:hong_kong:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f0.png?v7) `:hong_kong:` 
- - ![:horse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f434.png?v7) `:horse:` 
- - ![:horse_racing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c7.png?v7) `:horse_racing:` 
- - ![:hospital:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e5.png?v7) `:hospital:` 
- - ![:hot_pepper:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f336.png?v7) `:hot_pepper:` 
- - ![:hotdog:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f32d.png?v7) `:hotdog:` 
- - ![:hotel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e8.png?v7) `:hotel:` 
- - ![:hotsprings:](https://assets-cdn.github.com/images/icons/emoji/unicode/2668.png?v7) `:hotsprings:` 
- - ![:hourglass:](https://assets-cdn.github.com/images/icons/emoji/unicode/231b.png?v7) `:hourglass:` 
- - ![:hourglass_flowing_sand:](https://assets-cdn.github.com/images/icons/emoji/unicode/23f3.png?v7) `:hourglass_flowing_sand:` 
- - ![:house:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png?v7) `:house:` 
- - ![:house_with_garden:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e1.png?v7) `:house_with_garden:` 
- - ![:houses:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d8.png?v7) `:houses:` 
- - ![:hugs:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f917.png?v7) `:hugs:` 
- - ![:hungary:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1fa.png?v7) `:hungary:` 
- - ![:hurtrealbad:](https://assets-cdn.github.com/images/icons/emoji/hurtrealbad.png?v7) `:hurtrealbad:` 
- - ![:hushed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f62f.png?v7) `:hushed:` 
- - ![:ice_cream:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f368.png?v7) `:ice_cream:` 
- - ![:ice_hockey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d2.png?v7) `:ice_hockey:` 
- - ![:ice_skate:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f8.png?v7) `:ice_skate:` 
- - ![:icecream:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f366.png?v7) `:icecream:` 
- - ![:iceland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f8.png?v7) `:iceland:` 
- - ![:id:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f194.png?v7) `:id:` 
- - ![:ideograph_advantage:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f250.png?v7) `:ideograph_advantage:` 
- - ![:imp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f47f.png?v7) `:imp:` 
- - ![:inbox_tray:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e5.png?v7) `:inbox_tray:` 
- - ![:incoming_envelope:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e8.png?v7) `:incoming_envelope:` 
- - ![:india:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v7) `:india:` 
- - ![:indonesia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v7) `:indonesia:` 
- - ![:information_desk_person:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f481.png?v7) `:information_desk_person:` 
- - ![:information_source:](https://assets-cdn.github.com/images/icons/emoji/unicode/2139.png?v7) `:information_source:` 
- - ![:innocent:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png?v7) `:innocent:` 
- - ![:interrobang:](https://assets-cdn.github.com/images/icons/emoji/unicode/2049.png?v7) `:interrobang:` 
- - ![:iphone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f1.png?v7) `:iphone:` 
- - ![:iran:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f7.png?v7) `:iran:` 
- - ![:iraq:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f6.png?v7) `:iraq:` 
- - ![:ireland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1ea.png?v7) `:ireland:` 
- - ![:isle_of_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f2.png?v7) `:isle_of_man:` 
- - ![:israel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f1.png?v7) `:israel:` 
- - ![:it:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f9.png?v7) `:it:` 
- - ![:izakaya_lantern:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ee.png?v7) `:izakaya_lantern:` 
- - ![:jack_o_lantern:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f383.png?v7) `:jack_o_lantern:` 
- - ![:jamaica:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f2.png?v7) `:jamaica:` 
- - ![:japan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fe.png?v7) `:japan:` 
- - ![:japanese_castle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ef.png?v7) `:japanese_castle:` 
- - ![:japanese_goblin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f47a.png?v7) `:japanese_goblin:` 
- - ![:japanese_ogre:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f479.png?v7) `:japanese_ogre:` 
- - ![:jeans:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f456.png?v7) `:jeans:` 
- - ![:jersey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1ea.png?v7) `:jersey:` 
- - ![:jordan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f4.png?v7) `:jordan:` 
- - ![:joy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7) `:joy:` 
- - ![:joy_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f639.png?v7) `:joy_cat:` 
- - ![:joystick:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f579.png?v7) `:joystick:` 
- - ![:jp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f5.png?v7) `:jp:` 
- - ![:kaaba:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f54b.png?v7) `:kaaba:` 
- - ![:kazakhstan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ff.png?v7) `:kazakhstan:` 
- - ![:kenya:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ea.png?v7) `:kenya:` 
- - ![:key:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f511.png?v7) `:key:` 
- - ![:keyboard:](https://assets-cdn.github.com/images/icons/emoji/unicode/2328.png?v7) `:keyboard:` 
- - ![:keycap_ten:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f51f.png?v7) `:keycap_ten:` 
- - ![:kick_scooter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f4.png?v7) `:kick_scooter:` 
- - ![:kimono:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f458.png?v7) `:kimono:` 
- - ![:kiribati:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ee.png?v7) `:kiribati:` 
- - ![:kiss:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f48b.png?v7) `:kiss:` 
- - ![:kissing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f617.png?v7) `:kissing:` 
- - ![:kissing_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f63d.png?v7) `:kissing_cat:` 
- - ![:kissing_closed_eyes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61a.png?v7) `:kissing_closed_eyes:` 
- - ![:kissing_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png?v7) `:kissing_heart:` 
- - ![:kissing_smiling_eyes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f619.png?v7) `:kissing_smiling_eyes:` 
- - ![:kiwi_fruit:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f95d.png?v7) `:kiwi_fruit:` 
- - ![:knife:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52a.png?v7) `:knife:` 
- - ![:koala:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f428.png?v7) `:koala:` 
- - ![:koko:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f201.png?v7) `:koko:` 
- - ![:kosovo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fd-1f1f0.png?v7) `:kosovo:` 
- - ![:kr:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f7.png?v7) `:kr:` 
- - ![:kuwait:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1fc.png?v7) `:kuwait:` 
- - ![:kyrgyzstan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ec.png?v7) `:kyrgyzstan:` 
- - ![:label:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f7.png?v7) `:label:` 
- - ![:lantern:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ee.png?v7) `:lantern:` 
- - ![:laos:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1e6.png?v7) `:laos:` 
- - ![:large_blue_circle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f535.png?v7) `:large_blue_circle:` 
- - ![:large_blue_diamond:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f537.png?v7) `:large_blue_diamond:` 
- - ![:large_orange_diamond:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f536.png?v7) `:large_orange_diamond:` 
- - ![:last_quarter_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f317.png?v7) `:last_quarter_moon:` 
- - ![:last_quarter_moon_with_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f31c.png?v7) `:last_quarter_moon_with_face:` 
- - ![:latin_cross:](https://assets-cdn.github.com/images/icons/emoji/unicode/271d.png?v7) `:latin_cross:` 
- - ![:latvia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1fb.png?v7) `:latvia:` 
- - ![:laughing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png?v7) `:laughing:` 
- - ![:leaves:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f343.png?v7) `:leaves:` 
- - ![:lebanon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1e7.png?v7) `:lebanon:` 
- - ![:ledger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d2.png?v7) `:ledger:` 
- - ![:left_luggage:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c5.png?v7) `:left_luggage:` 
- - ![:left_right_arrow:](https://assets-cdn.github.com/images/icons/emoji/unicode/2194.png?v7) `:left_right_arrow:` 
- - ![:leftwards_arrow_with_hook:](https://assets-cdn.github.com/images/icons/emoji/unicode/21a9.png?v7) `:leftwards_arrow_with_hook:` 
- - ![:lemon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34b.png?v7) `:lemon:` 
- - ![:leo:](https://assets-cdn.github.com/images/icons/emoji/unicode/264c.png?v7) `:leo:` 
- - ![:leopard:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f406.png?v7) `:leopard:` 
- - ![:lesotho:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f8.png?v7) `:lesotho:` 
- - ![:level_slider:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f39a.png?v7) `:level_slider:` 
- - ![:liberia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f7.png?v7) `:liberia:` 
- - ![:libra:](https://assets-cdn.github.com/images/icons/emoji/unicode/264e.png?v7) `:libra:` 
- - ![:libya:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1fe.png?v7) `:libya:` 
- - ![:liechtenstein:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1ee.png?v7) `:liechtenstein:` 
- - ![:light_rail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f688.png?v7) `:light_rail:` 
- - ![:link:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f517.png?v7) `:link:` 
- - ![:lion:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f981.png?v7) `:lion:` 
- - ![:lips:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f444.png?v7) `:lips:` 
- - ![:lipstick:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f484.png?v7) `:lipstick:` 
- - ![:lithuania:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f9.png?v7) `:lithuania:` 
- - ![:lizard:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f98e.png?v7) `:lizard:` 
- - ![:lock:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f512.png?v7) `:lock:` 
- - ![:lock_with_ink_pen:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f50f.png?v7) `:lock_with_ink_pen:` 
- - ![:lollipop:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36d.png?v7) `:lollipop:` 
- - ![:loop:](https://assets-cdn.github.com/images/icons/emoji/unicode/27bf.png?v7) `:loop:` 
- - ![:loud_sound:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f50a.png?v7) `:loud_sound:` 
- - ![:loudspeaker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e2.png?v7) `:loudspeaker:` 
- - ![:love_hotel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e9.png?v7) `:love_hotel:` 
- - ![:love_letter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f48c.png?v7) `:love_letter:` 
- - ![:low_brightness:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f505.png?v7) `:low_brightness:` 
- - ![:luxembourg:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1fa.png?v7) `:luxembourg:` 
- - ![:lying_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f925.png?v7) `:lying_face:` 
- - ![:m:](https://assets-cdn.github.com/images/icons/emoji/unicode/24c2.png?v7) `:m:` 
- - ![:macau:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f4.png?v7) `:macau:` 
- - ![:macedonia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f0.png?v7) `:macedonia:` 
- - ![:madagascar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ec.png?v7) `:madagascar:` 
- - ![:mag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f50d.png?v7) `:mag:` 
- - ![:mag_right:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f50e.png?v7) `:mag_right:` 
- - ![:mahjong:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f004.png?v7) `:mahjong:` 
- - ![:mailbox:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4eb.png?v7) `:mailbox:` 
- - ![:mailbox_closed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ea.png?v7) `:mailbox_closed:` 
- - ![:mailbox_with_mail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ec.png?v7) `:mailbox_with_mail:` 
- - ![:mailbox_with_no_mail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ed.png?v7) `:mailbox_with_no_mail:` 
- - ![:malawi:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fc.png?v7) `:malawi:` 
- - ![:malaysia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fe.png?v7) `:malaysia:` 
- - ![:maldives:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fb.png?v7) `:maldives:` 
- - ![:male_detective:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f575.png?v7) `:male_detective:` 
- - ![:mali:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f1.png?v7) `:mali:` 
- - ![:malta:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f9.png?v7) `:malta:` 
- - ![:man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468.png?v7) `:man:` 
- - ![:man_artist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3a8.png?v7) `:man_artist:` 
- - ![:man_astronaut:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f680.png?v7) `:man_astronaut:` 
- - ![:man_cartwheeling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f938-2642.png?v7) `:man_cartwheeling:` 
- - ![:man_cook:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f373.png?v7) `:man_cook:` 
- - ![:man_dancing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f57a.png?v7) `:man_dancing:` 
- - ![:man_facepalming:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f926-2642.png?v7) `:man_facepalming:` 
- - ![:man_factory_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3ed.png?v7) `:man_factory_worker:` 
- - ![:man_farmer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f33e.png?v7) `:man_farmer:` 
- - ![:man_firefighter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f692.png?v7) `:man_firefighter:` 
- - ![:man_health_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2695.png?v7) `:man_health_worker:` 
- - ![:man_in_tuxedo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f935.png?v7) `:man_in_tuxedo:` 
- - ![:man_judge:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2696.png?v7) `:man_judge:` 
- - ![:man_juggling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f939-2642.png?v7) `:man_juggling:` 
- - ![:man_mechanic:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f527.png?v7) `:man_mechanic:` 
- - ![:man_office_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f4bc.png?v7) `:man_office_worker:` 
- - ![:man_pilot:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2708.png?v7) `:man_pilot:` 
- - ![:man_playing_handball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93e-2642.png?v7) `:man_playing_handball:` 
- - ![:man_playing_water_polo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93d-2642.png?v7) `:man_playing_water_polo:` 
- - ![:man_scientist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f52c.png?v7) `:man_scientist:` 
- - ![:man_shrugging:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f937-2642.png?v7) `:man_shrugging:` 
- - ![:man_singer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3a4.png?v7) `:man_singer:` 
- - ![:man_student:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f393.png?v7) `:man_student:` 
- - ![:man_teacher:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3eb.png?v7) `:man_teacher:` 
- - ![:man_technologist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f4bb.png?v7) `:man_technologist:` 
- - ![:man_with_gua_pi_mao:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f472.png?v7) `:man_with_gua_pi_mao:` 
- - ![:man_with_turban:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f473.png?v7) `:man_with_turban:` 
- - ![:mandarin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v7) `:mandarin:` 
- - ![:mans_shoe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45e.png?v7) `:mans_shoe:` 
- - ![:mantelpiece_clock:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f570.png?v7) `:mantelpiece_clock:` 
- - ![:maple_leaf:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f341.png?v7) `:maple_leaf:` 
- - ![:marshall_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ed.png?v7) `:marshall_islands:` 
- - ![:martial_arts_uniform:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f94b.png?v7) `:martial_arts_uniform:` 
- - ![:martinique:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f6.png?v7) `:martinique:` 
- - ![:mask:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f637.png?v7) `:mask:` 
- - ![:massage:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f486.png?v7) `:massage:` 
- - ![:massage_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f486-2642.png?v7) `:massage_man:` 
- - ![:massage_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f486.png?v7) `:massage_woman:` 
- - ![:mauritania:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f7.png?v7) `:mauritania:` 
- - ![:mauritius:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fa.png?v7) `:mauritius:` 
- - ![:mayotte:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fe-1f1f9.png?v7) `:mayotte:` 
- - ![:meat_on_bone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f356.png?v7) `:meat_on_bone:` 
- - ![:medal_military:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f396.png?v7) `:medal_military:` 
- - ![:medal_sports:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c5.png?v7) `:medal_sports:` 
- - ![:mega:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e3.png?v7) `:mega:` 
- - ![:melon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f348.png?v7) `:melon:` 
- - ![:memo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png?v7) `:memo:` 
- - ![:men_wrestling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93c-2642.png?v7) `:men_wrestling:` 
- - ![:menorah:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f54e.png?v7) `:menorah:` 
- - ![:mens:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b9.png?v7) `:mens:` 
- - ![:metal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f918.png?v7) `:metal:` 
- - ![:metro:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f687.png?v7) `:metro:` 
- - ![:mexico:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fd.png?v7) `:mexico:` 
- - ![:micronesia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f2.png?v7) `:micronesia:` 
- - ![:microphone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a4.png?v7) `:microphone:` 
- - ![:microscope:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52c.png?v7) `:microscope:` 
- - ![:middle_finger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f595.png?v7) `:middle_finger:` 
- - ![:milk_glass:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f95b.png?v7) `:milk_glass:` 
- - ![:milky_way:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f30c.png?v7) `:milky_way:` 
- - ![:minibus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f690.png?v7) `:minibus:` 
- - ![:minidisc:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bd.png?v7) `:minidisc:` 
- - ![:mobile_phone_off:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f4.png?v7) `:mobile_phone_off:` 
- - ![:moldova:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1e9.png?v7) `:moldova:` 
- - ![:monaco:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1e8.png?v7) `:monaco:` 
- - ![:money_mouth_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f911.png?v7) `:money_mouth_face:` 
- - ![:money_with_wings:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b8.png?v7) `:money_with_wings:` 
- - ![:moneybag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b0.png?v7) `:moneybag:` 
- - ![:mongolia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f3.png?v7) `:mongolia:` 
- - ![:monkey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f412.png?v7) `:monkey:` 
- - ![:monkey_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f435.png?v7) `:monkey_face:` 
- - ![:monorail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f69d.png?v7) `:monorail:` 
- - ![:montenegro:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ea.png?v7) `:montenegro:` 
- - ![:montserrat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f8.png?v7) `:montserrat:` 
- - ![:moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f314.png?v7) `:moon:` 
- - ![:morocco:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1e6.png?v7) `:morocco:` 
- - ![:mortar_board:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png?v7) `:mortar_board:` 
- - ![:mosque:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f54c.png?v7) `:mosque:` 
- - ![:motor_boat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e5.png?v7) `:motor_boat:` 
- - ![:motor_scooter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f5.png?v7) `:motor_scooter:` 
- - ![:motorcycle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cd.png?v7) `:motorcycle:` 
- - ![:motorway:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e3.png?v7) `:motorway:` 
- - ![:mount_fuji:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fb.png?v7) `:mount_fuji:` 
- - ![:mountain:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f0.png?v7) `:mountain:` 
- - ![:mountain_bicyclist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5.png?v7) `:mountain_bicyclist:` 
- - ![:mountain_biking_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5.png?v7) `:mountain_biking_man:` 
- - ![:mountain_biking_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5-2640.png?v7) `:mountain_biking_woman:` 
- - ![:mountain_cableway:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a0.png?v7) `:mountain_cableway:` 
- - ![:mountain_railway:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f69e.png?v7) `:mountain_railway:` 
- - ![:mountain_snow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d4.png?v7) `:mountain_snow:` 
- - ![:mouse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42d.png?v7) `:mouse:` 
- - ![:mouse2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f401.png?v7) `:mouse2:` 
- - ![:movie_camera:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a5.png?v7) `:movie_camera:` 
- - ![:moyai:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5ff.png?v7) `:moyai:` 
- - ![:mozambique:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ff.png?v7) `:mozambique:` 
- - ![:mrs_claus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f936.png?v7) `:mrs_claus:` 
- - ![:muscle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4aa.png?v7) `:muscle:` 
- - ![:mushroom:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f344.png?v7) `:mushroom:` 
- - ![:musical_keyboard:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b9.png?v7) `:musical_keyboard:` 
- - ![:musical_note:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b5.png?v7) `:musical_note:` 
- - ![:musical_score:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bc.png?v7) `:musical_score:` 
- - ![:mute:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f507.png?v7) `:mute:` 
- - ![:myanmar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f2.png?v7) `:myanmar:` 
- - ![:nail_care:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f485.png?v7) `:nail_care:` 
- - ![:name_badge:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4db.png?v7) `:name_badge:` 
- - ![:namibia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1e6.png?v7) `:namibia:` 
- - ![:national_park:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3de.png?v7) `:national_park:` 
- - ![:nauru:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f7.png?v7) `:nauru:` 
- - ![:nauseated_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f922.png?v7) `:nauseated_face:` 
- - ![:neckbeard:](https://assets-cdn.github.com/images/icons/emoji/neckbeard.png?v7) `:neckbeard:` 
- - ![:necktie:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f454.png?v7) `:necktie:` 
- - ![:negative_squared_cross_mark:](https://assets-cdn.github.com/images/icons/emoji/unicode/274e.png?v7) `:negative_squared_cross_mark:` 
- - ![:nepal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f5.png?v7) `:nepal:` 
- - ![:nerd_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f913.png?v7) `:nerd_face:` 
- - ![:netherlands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f1.png?v7) `:netherlands:` 
- - ![:neutral_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f610.png?v7) `:neutral_face:` 
- - ![:new:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f195.png?v7) `:new:` 
- - ![:new_caledonia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1e8.png?v7) `:new_caledonia:` 
- - ![:new_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f311.png?v7) `:new_moon:` 
- - ![:new_moon_with_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7) `:new_moon_with_face:` 
- - ![:new_zealand:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ff.png?v7) `:new_zealand:` 
- - ![:newspaper:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f0.png?v7) `:newspaper:` 
- - ![:newspaper_roll:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5de.png?v7) `:newspaper_roll:` 
- - ![:next_track_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/23ed.png?v7) `:next_track_button:` 
- - ![:ng:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f196.png?v7) `:ng:` 
- - ![:ng_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f645-2642.png?v7) `:ng_man:` 
- - ![:ng_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v7) `:ng_woman:` 
- - ![:nicaragua:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ee.png?v7) `:nicaragua:` 
- - ![:niger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ea.png?v7) `:niger:` 
- - ![:nigeria:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ec.png?v7) `:nigeria:` 
- - ![:night_with_stars:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f303.png?v7) `:night_with_stars:` 
- - ![:nine:](https://assets-cdn.github.com/images/icons/emoji/unicode/0039-20e3.png?v7) `:nine:` 
- - ![:niue:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1fa.png?v7) `:niue:` 
- - ![:no_bell:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f515.png?v7) `:no_bell:` 
- - ![:no_bicycles:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b3.png?v7) `:no_bicycles:` 
- - ![:no_entry:](https://assets-cdn.github.com/images/icons/emoji/unicode/26d4.png?v7) `:no_entry:` 
- - ![:no_entry_sign:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ab.png?v7) `:no_entry_sign:` 
- - ![:no_good:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v7) `:no_good:` 
- - ![:no_good_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f645-2642.png?v7) `:no_good_man:` 
- - ![:no_good_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v7) `:no_good_woman:` 
- - ![:no_mobile_phones:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f5.png?v7) `:no_mobile_phones:` 
- - ![:no_mouth:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f636.png?v7) `:no_mouth:` 
- - ![:no_pedestrians:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b7.png?v7) `:no_pedestrians:` 
- - ![:no_smoking:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ad.png?v7) `:no_smoking:` 
- - ![:non-potable_water:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b1.png?v7) `:non-potable_water:` 
- - ![:norfolk_island:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1eb.png?v7) `:norfolk_island:` 
- - ![:north_korea:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f5.png?v7) `:north_korea:` 
- - ![:northern_mariana_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f5.png?v7) `:northern_mariana_islands:` 
- - ![:norway:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f4.png?v7) `:norway:` 
- - ![:nose:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f443.png?v7) `:nose:` 
- - ![:notebook:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d3.png?v7) `:notebook:` 
- - ![:notebook_with_decorative_cover:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d4.png?v7) `:notebook_with_decorative_cover:` 
- - ![:notes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b6.png?v7) `:notes:` 
- - ![:nut_and_bolt:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f529.png?v7) `:nut_and_bolt:` 
- - ![:o:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b55.png?v7) `:o:` 
- - ![:o2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f17e.png?v7) `:o2:` 
- - ![:ocean:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f30a.png?v7) `:ocean:` 
- - ![:octocat:](https://assets-cdn.github.com/images/icons/emoji/octocat.png?v7) `:octocat:` 
- - ![:octopus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f419.png?v7) `:octopus:` 
- - ![:oden:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f362.png?v7) `:oden:` 
- - ![:office:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e2.png?v7) `:office:` 
- - ![:oil_drum:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e2.png?v7) `:oil_drum:` 
- - ![:ok:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f197.png?v7) `:ok:` 
- - ![:ok_hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44c.png?v7) `:ok_hand:` 
- - ![:ok_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f646-2642.png?v7) `:ok_man:` 
- - ![:ok_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f646.png?v7) `:ok_woman:` 
- - ![:old_key:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5dd.png?v7) `:old_key:` 
- - ![:older_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f474.png?v7) `:older_man:` 
- - ![:older_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f475.png?v7) `:older_woman:` 
- - ![:om:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f549.png?v7) `:om:` 
- - ![:oman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f4-1f1f2.png?v7) `:oman:` 
- - ![:on:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f51b.png?v7) `:on:` 
- - ![:oncoming_automobile:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f698.png?v7) `:oncoming_automobile:` 
- - ![:oncoming_bus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f68d.png?v7) `:oncoming_bus:` 
- - ![:oncoming_police_car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f694.png?v7) `:oncoming_police_car:` 
- - ![:oncoming_taxi:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f696.png?v7) `:oncoming_taxi:` 
- - ![:one:](https://assets-cdn.github.com/images/icons/emoji/unicode/0031-20e3.png?v7) `:one:` 
- - ![:open_book:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png?v7) `:open_book:` 
- - ![:open_file_folder:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c2.png?v7) `:open_file_folder:` 
- - ![:open_hands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f450.png?v7) `:open_hands:` 
- - ![:open_mouth:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f62e.png?v7) `:open_mouth:` 
- - ![:open_umbrella:](https://assets-cdn.github.com/images/icons/emoji/unicode/2602.png?v7) `:open_umbrella:` 
- - ![:ophiuchus:](https://assets-cdn.github.com/images/icons/emoji/unicode/26ce.png?v7) `:ophiuchus:` 
- - ![:orange:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v7) `:orange:` 
- - ![:orange_book:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d9.png?v7) `:orange_book:` 
- - ![:orthodox_cross:](https://assets-cdn.github.com/images/icons/emoji/unicode/2626.png?v7) `:orthodox_cross:` 
- - ![:outbox_tray:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e4.png?v7) `:outbox_tray:` 
- - ![:owl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f989.png?v7) `:owl:` 
- - ![:ox:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f402.png?v7) `:ox:` 
- - ![:package:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png?v7) `:package:` 
- - ![:page_facing_up:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c4.png?v7) `:page_facing_up:` 
- - ![:page_with_curl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c3.png?v7) `:page_with_curl:` 
- - ![:pager:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4df.png?v7) `:pager:` 
- - ![:paintbrush:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f58c.png?v7) `:paintbrush:` 
- - ![:pakistan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f0.png?v7) `:pakistan:` 
- - ![:palau:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1fc.png?v7) `:palau:` 
- - ![:palestinian_territories:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f8.png?v7) `:palestinian_territories:` 
- - ![:palm_tree:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f334.png?v7) `:palm_tree:` 
- - ![:panama:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1e6.png?v7) `:panama:` 
- - ![:pancakes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f95e.png?v7) `:pancakes:` 
- - ![:panda_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43c.png?v7) `:panda_face:` 
- - ![:paperclip:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ce.png?v7) `:paperclip:` 
- - ![:paperclips:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f587.png?v7) `:paperclips:` 
- - ![:papua_new_guinea:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1ec.png?v7) `:papua_new_guinea:` 
- - ![:paraguay:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1fe.png?v7) `:paraguay:` 
- - ![:parasol_on_ground:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f1.png?v7) `:parasol_on_ground:` 
- - ![:parking:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f17f.png?v7) `:parking:` 
- - ![:part_alternation_mark:](https://assets-cdn.github.com/images/icons/emoji/unicode/303d.png?v7) `:part_alternation_mark:` 
- - ![:partly_sunny:](https://assets-cdn.github.com/images/icons/emoji/unicode/26c5.png?v7) `:partly_sunny:` 
- - ![:passenger_ship:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f3.png?v7) `:passenger_ship:` 
- - ![:passport_control:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c2.png?v7) `:passport_control:` 
- - ![:pause_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/23f8.png?v7) `:pause_button:` 
- - ![:paw_prints:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43e.png?v7) `:paw_prints:` 
- - ![:peace_symbol:](https://assets-cdn.github.com/images/icons/emoji/unicode/262e.png?v7) `:peace_symbol:` 
- - ![:peach:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f351.png?v7) `:peach:` 
- - ![:peanuts:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f95c.png?v7) `:peanuts:` 
- - ![:pear:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f350.png?v7) `:pear:` 
- - ![:pen:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f58a.png?v7) `:pen:` 
- - ![:pencil:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png?v7) `:pencil:` 
- - ![:pencil2:](https://assets-cdn.github.com/images/icons/emoji/unicode/270f.png?v7) `:pencil2:` 
- - ![:penguin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f427.png?v7) `:penguin:` 
- - ![:pensive:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f614.png?v7) `:pensive:` 
- - ![:performing_arts:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ad.png?v7) `:performing_arts:` 
- - ![:persevere:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f623.png?v7) `:persevere:` 
- - ![:person_fencing:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93a.png?v7) `:person_fencing:` 
- - ![:person_frowning:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d.png?v7) `:person_frowning:` 
- - ![:person_with_blond_hair:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f471.png?v7) `:person_with_blond_hair:` 
- - ![:person_with_pouting_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64e.png?v7) `:person_with_pouting_face:` 
- - ![:peru:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1ea.png?v7) `:peru:` 
- - ![:philippines:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1ed.png?v7) `:philippines:` 
- - ![:phone:](https://assets-cdn.github.com/images/icons/emoji/unicode/260e.png?v7) `:phone:` 
- - ![:pick:](https://assets-cdn.github.com/images/icons/emoji/unicode/26cf.png?v7) `:pick:` 
- - ![:pig:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f437.png?v7) `:pig:` 
- - ![:pig2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f416.png?v7) `:pig2:` 
- - ![:pig_nose:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43d.png?v7) `:pig_nose:` 
- - ![:pill:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f48a.png?v7) `:pill:` 
- - ![:pineapple:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34d.png?v7) `:pineapple:` 
- - ![:ping_pong:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d3.png?v7) `:ping_pong:` 
- - ![:pisces:](https://assets-cdn.github.com/images/icons/emoji/unicode/2653.png?v7) `:pisces:` 
- - ![:pitcairn_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f3.png?v7) `:pitcairn_islands:` 
- - ![:pizza:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f355.png?v7) `:pizza:` 
- - ![:place_of_worship:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6d0.png?v7) `:place_of_worship:` 
- - ![:plate_with_cutlery:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37d.png?v7) `:plate_with_cutlery:` 
- - ![:play_or_pause_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/23ef.png?v7) `:play_or_pause_button:` 
- - ![:point_down:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f447.png?v7) `:point_down:` 
- - ![:point_left:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f448.png?v7) `:point_left:` 
- - ![:point_right:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png?v7) `:point_right:` 
- - ![:point_up:](https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png?v7) `:point_up:` 
- - ![:point_up_2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f446.png?v7) `:point_up_2:` 
- - ![:poland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f1.png?v7) `:poland:` 
- - ![:police_car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f693.png?v7) `:police_car:` 
- - ![:policeman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46e.png?v7) `:policeman:` 
- - ![:policewoman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46e-2640.png?v7) `:policewoman:` 
- - ![:poodle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f429.png?v7) `:poodle:` 
- - ![:poop:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png?v7) `:poop:` 
- - ![:popcorn:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37f.png?v7) `:popcorn:` 
- - ![:portugal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f9.png?v7) `:portugal:` 
- - ![:post_office:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e3.png?v7) `:post_office:` 
- - ![:postal_horn:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ef.png?v7) `:postal_horn:` 
- - ![:postbox:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ee.png?v7) `:postbox:` 
- - ![:potable_water:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b0.png?v7) `:potable_water:` 
- - ![:potato:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f954.png?v7) `:potato:` 
- - ![:pouch:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45d.png?v7) `:pouch:` 
- - ![:poultry_leg:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f357.png?v7) `:poultry_leg:` 
- - ![:pound:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b7.png?v7) `:pound:` 
- - ![:pout:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f621.png?v7) `:pout:` 
- - ![:pouting_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f63e.png?v7) `:pouting_cat:` 
- - ![:pouting_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64e-2642.png?v7) `:pouting_man:` 
- - ![:pouting_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64e.png?v7) `:pouting_woman:` 
- - ![:pray:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64f.png?v7) `:pray:` 
- - ![:prayer_beads:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ff.png?v7) `:prayer_beads:` 
- - ![:pregnant_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f930.png?v7) `:pregnant_woman:` 
- - ![:previous_track_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/23ee.png?v7) `:previous_track_button:` 
- - ![:prince:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f934.png?v7) `:prince:` 
- - ![:princess:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f478.png?v7) `:princess:` 
- - ![:printer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5a8.png?v7) `:printer:` 
- - ![:puerto_rico:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f7.png?v7) `:puerto_rico:` 
- - ![:punch:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v7) `:punch:` 
- - ![:purple_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49c.png?v7) `:purple_heart:` 
- - ![:purse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45b.png?v7) `:purse:` 
- - ![:pushpin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cc.png?v7) `:pushpin:` 
- - ![:put_litter_in_its_place:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ae.png?v7) `:put_litter_in_its_place:` 
- - ![:qatar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f6-1f1e6.png?v7) `:qatar:` 
- - ![:question:](https://assets-cdn.github.com/images/icons/emoji/unicode/2753.png?v7) `:question:` 
- - ![:rabbit:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f430.png?v7) `:rabbit:` 
- - ![:rabbit2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f407.png?v7) `:rabbit2:` 
- - ![:racehorse:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f40e.png?v7) `:racehorse:` 
- - ![:racing_car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ce.png?v7) `:racing_car:` 
- - ![:radio:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fb.png?v7) `:radio:` 
- - ![:radio_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f518.png?v7) `:radio_button:` 
- - ![:radioactive:](https://assets-cdn.github.com/images/icons/emoji/unicode/2622.png?v7) `:radioactive:` 
- - ![:rage:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f621.png?v7) `:rage:` 
- - ![:rage1:](https://assets-cdn.github.com/images/icons/emoji/rage1.png?v7) `:rage1:` 
- - ![:rage2:](https://assets-cdn.github.com/images/icons/emoji/rage2.png?v7) `:rage2:` 
- - ![:rage3:](https://assets-cdn.github.com/images/icons/emoji/rage3.png?v7) `:rage3:` 
- - ![:rage4:](https://assets-cdn.github.com/images/icons/emoji/rage4.png?v7) `:rage4:` 
- - ![:railway_car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f683.png?v7) `:railway_car:` 
- - ![:railway_track:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e4.png?v7) `:railway_track:` 
- - ![:rainbow:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f308.png?v7) `:rainbow:` 
- - ![:rainbow_flag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f3-1f308.png?v7) `:rainbow_flag:` 
- - ![:raised_back_of_hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f91a.png?v7) `:raised_back_of_hand:` 
- - ![:raised_hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/270b.png?v7) `:raised_hand:` 
- - ![:raised_hand_with_fingers_splayed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f590.png?v7) `:raised_hand_with_fingers_splayed:` 
- - ![:raised_hands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png?v7) `:raised_hands:` 
- - ![:raising_hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b.png?v7) `:raising_hand:` 
- - ![:raising_hand_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b-2642.png?v7) `:raising_hand_man:` 
- - ![:raising_hand_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b.png?v7) `:raising_hand_woman:` 
- - ![:ram:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f40f.png?v7) `:ram:` 
- - ![:ramen:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f35c.png?v7) `:ramen:` 
- - ![:rat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f400.png?v7) `:rat:` 
- - ![:record_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/23fa.png?v7) `:record_button:` 
- - ![:recycle:](https://assets-cdn.github.com/images/icons/emoji/unicode/267b.png?v7) `:recycle:` 
- - ![:red_car:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f697.png?v7) `:red_car:` 
- - ![:red_circle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png?v7) `:red_circle:` 
- - ![:registered:](https://assets-cdn.github.com/images/icons/emoji/unicode/00ae.png?v7) `:registered:` 
- - ![:relaxed:](https://assets-cdn.github.com/images/icons/emoji/unicode/263a.png?v7) `:relaxed:` 
- - ![:relieved:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f60c.png?v7) `:relieved:` 
- - ![:reminder_ribbon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f397.png?v7) `:reminder_ribbon:` 
- - ![:repeat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f501.png?v7) `:repeat:` 
- - ![:repeat_one:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f502.png?v7) `:repeat_one:` 
- - ![:rescue_worker_helmet:](https://assets-cdn.github.com/images/icons/emoji/unicode/26d1.png?v7) `:rescue_worker_helmet:` 
- - ![:restroom:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bb.png?v7) `:restroom:` 
- - ![:reunion:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1ea.png?v7) `:reunion:` 
- - ![:revolving_hearts:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49e.png?v7) `:revolving_hearts:` 
- - ![:rewind:](https://assets-cdn.github.com/images/icons/emoji/unicode/23ea.png?v7) `:rewind:` 
- - ![:rhinoceros:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f98f.png?v7) `:rhinoceros:` 
- - ![:ribbon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f380.png?v7) `:ribbon:` 
- - ![:rice:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f35a.png?v7) `:rice:` 
- - ![:rice_ball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f359.png?v7) `:rice_ball:` 
- - ![:rice_cracker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f358.png?v7) `:rice_cracker:` 
- - ![:rice_scene:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f391.png?v7) `:rice_scene:` 
- - ![:right_anger_bubble:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5ef.png?v7) `:right_anger_bubble:` 
- - ![:ring:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f48d.png?v7) `:ring:` 
- - ![:robot:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png?v7) `:robot:` 
- - ![:rocket:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png?v7) `:rocket:` 
- - ![:rofl:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f923.png?v7) `:rofl:` 
- - ![:roll_eyes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f644.png?v7) `:roll_eyes:` 
- - ![:roller_coaster:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a2.png?v7) `:roller_coaster:` 
- - ![:romania:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1f4.png?v7) `:romania:` 
- - ![:rooster:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f413.png?v7) `:rooster:` 
- - ![:rose:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f339.png?v7) `:rose:` 
- - ![:rosette:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f5.png?v7) `:rosette:` 
- - ![:rotating_light:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a8.png?v7) `:rotating_light:` 
- - ![:round_pushpin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cd.png?v7) `:round_pushpin:` 
- - ![:rowboat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a3.png?v7) `:rowboat:` 
- - ![:rowing_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a3.png?v7) `:rowing_man:` 
- - ![:rowing_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a3-2640.png?v7) `:rowing_woman:` 
- - ![:ru:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1fa.png?v7) `:ru:` 
- - ![:rugby_football:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c9.png?v7) `:rugby_football:` 
- - ![:runner:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3.png?v7) `:runner:` 
- - ![:running:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3.png?v7) `:running:` 
- - ![:running_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3.png?v7) `:running_man:` 
- - ![:running_shirt_with_sash:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bd.png?v7) `:running_shirt_with_sash:` 
- - ![:running_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3-2640.png?v7) `:running_woman:` 
- - ![:rwanda:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v7) `:rwanda:` 
- - ![:sa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f202.png?v7) `:sa:` 
- - ![:sagittarius:](https://assets-cdn.github.com/images/icons/emoji/unicode/2650.png?v7) `:sagittarius:` 
- - ![:sailboat:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f5.png?v7) `:sailboat:` 
- - ![:sake:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f376.png?v7) `:sake:` 
- - ![:samoa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fc-1f1f8.png?v7) `:samoa:` 
- - ![:san_marino:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f2.png?v7) `:san_marino:` 
- - ![:sandal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f461.png?v7) `:sandal:` 
- - ![:santa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f385.png?v7) `:santa:` 
- - ![:sao_tome_principe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f9.png?v7) `:sao_tome_principe:` 
- - ![:satellite:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e1.png?v7) `:satellite:` 
- - ![:satisfied:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png?v7) `:satisfied:` 
- - ![:saudi_arabia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e6.png?v7) `:saudi_arabia:` 
- - ![:saxophone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b7.png?v7) `:saxophone:` 
- - ![:school:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3eb.png?v7) `:school:` 
- - ![:school_satchel:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f392.png?v7) `:school_satchel:` 
- - ![:scissors:](https://assets-cdn.github.com/images/icons/emoji/unicode/2702.png?v7) `:scissors:` 
- - ![:scorpion:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f982.png?v7) `:scorpion:` 
- - ![:scorpius:](https://assets-cdn.github.com/images/icons/emoji/unicode/264f.png?v7) `:scorpius:` 
- - ![:scream:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f631.png?v7) `:scream:` 
- - ![:scream_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f640.png?v7) `:scream_cat:` 
- - ![:scroll:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dc.png?v7) `:scroll:` 
- - ![:seat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ba.png?v7) `:seat:` 
- - ![:secret:](https://assets-cdn.github.com/images/icons/emoji/unicode/3299.png?v7) `:secret:` 
- - ![:see_no_evil:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f648.png?v7) `:see_no_evil:` 
- - ![:seedling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f331.png?v7) `:seedling:` 
- - ![:selfie:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f933.png?v7) `:selfie:` 
- - ![:senegal:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f3.png?v7) `:senegal:` 
- - ![:serbia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1f8.png?v7) `:serbia:` 
- - ![:seven:](https://assets-cdn.github.com/images/icons/emoji/unicode/0037-20e3.png?v7) `:seven:` 
- - ![:seychelles:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e8.png?v7) `:seychelles:` 
- - ![:shallow_pan_of_food:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f958.png?v7) `:shallow_pan_of_food:` 
- - ![:shamrock:](https://assets-cdn.github.com/images/icons/emoji/unicode/2618.png?v7) `:shamrock:` 
- - ![:shark:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f988.png?v7) `:shark:` 
- - ![:shaved_ice:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f367.png?v7) `:shaved_ice:` 
- - ![:sheep:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f411.png?v7) `:sheep:` 
- - ![:shell:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f41a.png?v7) `:shell:` 
- - ![:shield:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e1.png?v7) `:shield:` 
- - ![:shinto_shrine:](https://assets-cdn.github.com/images/icons/emoji/unicode/26e9.png?v7) `:shinto_shrine:` 
- - ![:ship:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a2.png?v7) `:ship:` 
- - ![:shipit:](https://assets-cdn.github.com/images/icons/emoji/shipit.png?v7) `:shipit:` 
- - ![:shirt:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f455.png?v7) `:shirt:` 
- - ![:shit:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png?v7) `:shit:` 
- - ![:shoe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45e.png?v7) `:shoe:` 
- - ![:shopping:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cd.png?v7) `:shopping:` 
- - ![:shopping_cart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6d2.png?v7) `:shopping_cart:` 
- - ![:shower:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bf.png?v7) `:shower:` 
- - ![:shrimp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f990.png?v7) `:shrimp:` 
- - ![:sierra_leone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f1.png?v7) `:sierra_leone:` 
- - ![:signal_strength:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f6.png?v7) `:signal_strength:` 
- - ![:singapore:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ec.png?v7) `:singapore:` 
- - ![:sint_maarten:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1fd.png?v7) `:sint_maarten:` 
- - ![:six:](https://assets-cdn.github.com/images/icons/emoji/unicode/0036-20e3.png?v7) `:six:` 
- - ![:six_pointed_star:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52f.png?v7) `:six_pointed_star:` 
- - ![:ski:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bf.png?v7) `:ski:` 
- - ![:skier:](https://assets-cdn.github.com/images/icons/emoji/unicode/26f7.png?v7) `:skier:` 
- - ![:skull:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f480.png?v7) `:skull:` 
- - ![:skull_and_crossbones:](https://assets-cdn.github.com/images/icons/emoji/unicode/2620.png?v7) `:skull_and_crossbones:` 
- - ![:sleeping:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f634.png?v7) `:sleeping:` 
- - ![:sleeping_bed:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cc.png?v7) `:sleeping_bed:` 
- - ![:sleepy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f62a.png?v7) `:sleepy:` 
- - ![:slightly_frowning_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f641.png?v7) `:slightly_frowning_face:` 
- - ![:slightly_smiling_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f642.png?v7) `:slightly_smiling_face:` 
- - ![:slot_machine:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b0.png?v7) `:slot_machine:` 
- - ![:slovakia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f0.png?v7) `:slovakia:` 
- - ![:slovenia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ee.png?v7) `:slovenia:` 
- - ![:small_airplane:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e9.png?v7) `:small_airplane:` 
- - ![:small_blue_diamond:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f539.png?v7) `:small_blue_diamond:` 
- - ![:small_orange_diamond:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f538.png?v7) `:small_orange_diamond:` 
- - ![:small_red_triangle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f53a.png?v7) `:small_red_triangle:` 
- - ![:small_red_triangle_down:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f53b.png?v7) `:small_red_triangle_down:` 
- - ![:smile:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png?v7) `:smile:` 
- - ![:smile_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f638.png?v7) `:smile_cat:` 
- - ![:smiley:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png?v7) `:smiley:` 
- - ![:smiley_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f63a.png?v7) `:smiley_cat:` 
- - ![:smiling_imp:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f608.png?v7) `:smiling_imp:` 
- - ![:smirk:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f60f.png?v7) `:smirk:` 
- - ![:smirk_cat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png?v7) `:smirk_cat:` 
- - ![:smoking:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ac.png?v7) `:smoking:` 
- - ![:snail:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f40c.png?v7) `:snail:` 
- - ![:snake:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f40d.png?v7) `:snake:` 
- - ![:sneezing_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f927.png?v7) `:sneezing_face:` 
- - ![:snowboarder:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c2.png?v7) `:snowboarder:` 
- - ![:snowflake:](https://assets-cdn.github.com/images/icons/emoji/unicode/2744.png?v7) `:snowflake:` 
- - ![:snowman:](https://assets-cdn.github.com/images/icons/emoji/unicode/26c4.png?v7) `:snowman:` 
- - ![:snowman_with_snow:](https://assets-cdn.github.com/images/icons/emoji/unicode/2603.png?v7) `:snowman_with_snow:` 
- - ![:sob:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png?v7) `:sob:` 
- - ![:soccer:](https://assets-cdn.github.com/images/icons/emoji/unicode/26bd.png?v7) `:soccer:` 
- - ![:solomon_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e7.png?v7) `:solomon_islands:` 
- - ![:somalia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f4.png?v7) `:somalia:` 
- - ![:soon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f51c.png?v7) `:soon:` 
- - ![:sos:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f198.png?v7) `:sos:` 
- - ![:sound:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f509.png?v7) `:sound:` 
- - ![:south_africa:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ff-1f1e6.png?v7) `:south_africa:` 
- - ![:south_georgia_south_sandwich_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f8.png?v7) `:south_georgia_south_sandwich_islands:` 
- - ![:south_sudan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f8.png?v7) `:south_sudan:` 
- - ![:space_invader:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f47e.png?v7) `:space_invader:` 
- - ![:spades:](https://assets-cdn.github.com/images/icons/emoji/unicode/2660.png?v7) `:spades:` 
- - ![:spaghetti:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f35d.png?v7) `:spaghetti:` 
- - ![:sparkle:](https://assets-cdn.github.com/images/icons/emoji/unicode/2747.png?v7) `:sparkle:` 
- - ![:sparkler:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f387.png?v7) `:sparkler:` 
- - ![:sparkles:](https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png?v7) `:sparkles:` 
- - ![:sparkling_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f496.png?v7) `:sparkling_heart:` 
- - ![:speak_no_evil:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f64a.png?v7) `:speak_no_evil:` 
- - ![:speaker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f508.png?v7) `:speaker:` 
- - ![:speaking_head:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5e3.png?v7) `:speaking_head:` 
- - ![:speech_balloon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ac.png?v7) `:speech_balloon:` 
- - ![:speedboat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a4.png?v7) `:speedboat:` 
- - ![:spider:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f577.png?v7) `:spider:` 
- - ![:spider_web:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f578.png?v7) `:spider_web:` 
- - ![:spiral_calendar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5d3.png?v7) `:spiral_calendar:` 
- - ![:spiral_notepad:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5d2.png?v7) `:spiral_notepad:` 
- - ![:spoon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f944.png?v7) `:spoon:` 
- - ![:squid:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f991.png?v7) `:squid:` 
- - ![:squirrel:](https://assets-cdn.github.com/images/icons/emoji/shipit.png?v7) `:squirrel:` 
- - ![:sri_lanka:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f0.png?v7) `:sri_lanka:` 
- - ![:st_barthelemy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f1.png?v7) `:st_barthelemy:` 
- - ![:st_helena:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ed.png?v7) `:st_helena:` 
- - ![:st_kitts_nevis:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f3.png?v7) `:st_kitts_nevis:` 
- - ![:st_lucia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1e8.png?v7) `:st_lucia:` 
- - ![:st_pierre_miquelon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f2.png?v7) `:st_pierre_miquelon:` 
- - ![:st_vincent_grenadines:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1e8.png?v7) `:st_vincent_grenadines:` 
- - ![:stadium:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3df.png?v7) `:stadium:` 
- - ![:star:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b50.png?v7) `:star:` 
- - ![:star2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f31f.png?v7) `:star2:` 
- - ![:star_and_crescent:](https://assets-cdn.github.com/images/icons/emoji/unicode/262a.png?v7) `:star_and_crescent:` 
- - ![:star_of_david:](https://assets-cdn.github.com/images/icons/emoji/unicode/2721.png?v7) `:star_of_david:` 
- - ![:stars:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f320.png?v7) `:stars:` 
- - ![:station:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f689.png?v7) `:station:` 
- - ![:statue_of_liberty:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fd.png?v7) `:statue_of_liberty:` 
- - ![:steam_locomotive:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f682.png?v7) `:steam_locomotive:` 
- - ![:stew:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f372.png?v7) `:stew:` 
- - ![:stop_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/23f9.png?v7) `:stop_button:` 
- - ![:stop_sign:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6d1.png?v7) `:stop_sign:` 
- - ![:stopwatch:](https://assets-cdn.github.com/images/icons/emoji/unicode/23f1.png?v7) `:stopwatch:` 
- - ![:straight_ruler:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cf.png?v7) `:straight_ruler:` 
- - ![:strawberry:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f353.png?v7) `:strawberry:` 
- - ![:stuck_out_tongue:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61b.png?v7) `:stuck_out_tongue:` 
- - ![:stuck_out_tongue_closed_eyes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61d.png?v7) `:stuck_out_tongue_closed_eyes:` 
- - ![:stuck_out_tongue_winking_eye:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png?v7) `:stuck_out_tongue_winking_eye:` 
- - ![:studio_microphone:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f399.png?v7) `:studio_microphone:` 
- - ![:stuffed_flatbread:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f959.png?v7) `:stuffed_flatbread:` 
- - ![:sudan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e9.png?v7) `:sudan:` 
- - ![:sun_behind_large_cloud:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f325.png?v7) `:sun_behind_large_cloud:` 
- - ![:sun_behind_rain_cloud:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f326.png?v7) `:sun_behind_rain_cloud:` 
- - ![:sun_behind_small_cloud:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f324.png?v7) `:sun_behind_small_cloud:` 
- - ![:sun_with_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f31e.png?v7) `:sun_with_face:` 
- - ![:sunflower:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f33b.png?v7) `:sunflower:` 
- - ![:sunglasses:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png?v7) `:sunglasses:` 
- - ![:sunny:](https://assets-cdn.github.com/images/icons/emoji/unicode/2600.png?v7) `:sunny:` 
- - ![:sunrise:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f305.png?v7) `:sunrise:` 
- - ![:sunrise_over_mountains:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f304.png?v7) `:sunrise_over_mountains:` 
- - ![:surfer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c4.png?v7) `:surfer:` 
- - ![:surfing_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c4.png?v7) `:surfing_man:` 
- - ![:surfing_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c4-2640.png?v7) `:surfing_woman:` 
- - ![:suriname:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f7.png?v7) `:suriname:` 
- - ![:sushi:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f363.png?v7) `:sushi:` 
- - ![:suspect:](https://assets-cdn.github.com/images/icons/emoji/suspect.png?v7) `:suspect:` 
- - ![:suspension_railway:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f69f.png?v7) `:suspension_railway:` 
- - ![:swaziland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ff.png?v7) `:swaziland:` 
- - ![:sweat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f613.png?v7) `:sweat:` 
- - ![:sweat_drops:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a6.png?v7) `:sweat_drops:` 
- - ![:sweat_smile:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png?v7) `:sweat_smile:` 
- - ![:sweden:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ea.png?v7) `:sweden:` 
- - ![:sweet_potato:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f360.png?v7) `:sweet_potato:` 
- - ![:swimmer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ca.png?v7) `:swimmer:` 
- - ![:swimming_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ca.png?v7) `:swimming_man:` 
- - ![:swimming_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ca-2640.png?v7) `:swimming_woman:` 
- - ![:switzerland:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ed.png?v7) `:switzerland:` 
- - ![:symbols:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f523.png?v7) `:symbols:` 
- - ![:synagogue:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f54d.png?v7) `:synagogue:` 
- - ![:syria:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1fe.png?v7) `:syria:` 
- - ![:syringe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f489.png?v7) `:syringe:` 
- - ![:taco:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f32e.png?v7) `:taco:` 
- - ![:tada:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png?v7) `:tada:` 
- - ![:taiwan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1fc.png?v7) `:taiwan:` 
- - ![:tajikistan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ef.png?v7) `:tajikistan:` 
- - ![:tanabata_tree:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f38b.png?v7) `:tanabata_tree:` 
- - ![:tangerine:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v7) `:tangerine:` 
- - ![:tanzania:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ff.png?v7) `:tanzania:` 
- - ![:taurus:](https://assets-cdn.github.com/images/icons/emoji/unicode/2649.png?v7) `:taurus:` 
- - ![:taxi:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f695.png?v7) `:taxi:` 
- - ![:tea:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f375.png?v7) `:tea:` 
- - ![:telephone:](https://assets-cdn.github.com/images/icons/emoji/unicode/260e.png?v7) `:telephone:` 
- - ![:telephone_receiver:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4de.png?v7) `:telephone_receiver:` 
- - ![:telescope:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f52d.png?v7) `:telescope:` 
- - ![:tennis:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3be.png?v7) `:tennis:` 
- - ![:tent:](https://assets-cdn.github.com/images/icons/emoji/unicode/26fa.png?v7) `:tent:` 
- - ![:thailand:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ed.png?v7) `:thailand:` 
- - ![:thermometer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f321.png?v7) `:thermometer:` 
- - ![:thinking:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f914.png?v7) `:thinking:` 
- - ![:thought_balloon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ad.png?v7) `:thought_balloon:` 
- - ![:three:](https://assets-cdn.github.com/images/icons/emoji/unicode/0033-20e3.png?v7) `:three:` 
- - ![:thumbsdown:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44e.png?v7) `:thumbsdown:` 
- - ![:thumbsup:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v7) `:thumbsup:` 
- - ![:ticket:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ab.png?v7) `:ticket:` 
- - ![:tickets:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f39f.png?v7) `:tickets:` 
- - ![:tiger:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f42f.png?v7) `:tiger:` 
- - ![:tiger2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f405.png?v7) `:tiger2:` 
- - ![:timer_clock:](https://assets-cdn.github.com/images/icons/emoji/unicode/23f2.png?v7) `:timer_clock:` 
- - ![:timor_leste:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f1.png?v7) `:timor_leste:` 
- - ![:tipping_hand_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f481-2642.png?v7) `:tipping_hand_man:` 
- - ![:tipping_hand_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f481.png?v7) `:tipping_hand_woman:` 
- - ![:tired_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f62b.png?v7) `:tired_face:` 
- - ![:tm:](https://assets-cdn.github.com/images/icons/emoji/unicode/2122.png?v7) `:tm:` 
- - ![:togo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ec.png?v7) `:togo:` 
- - ![:toilet:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bd.png?v7) `:toilet:` 
- - ![:tokelau:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f0.png?v7) `:tokelau:` 
- - ![:tokyo_tower:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fc.png?v7) `:tokyo_tower:` 
- - ![:tomato:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f345.png?v7) `:tomato:` 
- - ![:tonga:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f4.png?v7) `:tonga:` 
- - ![:tongue:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f445.png?v7) `:tongue:` 
- - ![:top:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f51d.png?v7) `:top:` 
- - ![:tophat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a9.png?v7) `:tophat:` 
- - ![:tornado:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f32a.png?v7) `:tornado:` 
- - ![:tr:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f7.png?v7) `:tr:` 
- - ![:trackball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5b2.png?v7) `:trackball:` 
- - ![:tractor:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f69c.png?v7) `:tractor:` 
- - ![:traffic_light:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a5.png?v7) `:traffic_light:` 
- - ![:train:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f68b.png?v7) `:train:` 
- - ![:train2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f686.png?v7) `:train2:` 
- - ![:tram:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f68a.png?v7) `:tram:` 
- - ![:triangular_flag_on_post:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a9.png?v7) `:triangular_flag_on_post:` 
- - ![:triangular_ruler:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d0.png?v7) `:triangular_ruler:` 
- - ![:trident:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f531.png?v7) `:trident:` 
- - ![:trinidad_tobago:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f9.png?v7) `:trinidad_tobago:` 
- - ![:triumph:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f624.png?v7) `:triumph:` 
- - ![:trolleybus:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f68e.png?v7) `:trolleybus:` 
- - ![:trollface:](https://assets-cdn.github.com/images/icons/emoji/trollface.png?v7) `:trollface:` 
- - ![:trophy:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c6.png?v7) `:trophy:` 
- - ![:tropical_drink:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f379.png?v7) `:tropical_drink:` 
- - ![:tropical_fish:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f420.png?v7) `:tropical_fish:` 
- - ![:truck:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f69a.png?v7) `:truck:` 
- - ![:trumpet:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ba.png?v7) `:trumpet:` 
- - ![:tshirt:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f455.png?v7) `:tshirt:` 
- - ![:tulip:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f337.png?v7) `:tulip:` 
- - ![:tumbler_glass:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f943.png?v7) `:tumbler_glass:` 
- - ![:tunisia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f3.png?v7) `:tunisia:` 
- - ![:turkey:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f983.png?v7) `:turkey:` 
- - ![:turkmenistan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f2.png?v7) `:turkmenistan:` 
- - ![:turks_caicos_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1e8.png?v7) `:turks_caicos_islands:` 
- - ![:turtle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png?v7) `:turtle:` 
- - ![:tuvalu:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1fb.png?v7) `:tuvalu:` 
- - ![:tv:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fa.png?v7) `:tv:` 
- - ![:twisted_rightwards_arrows:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f500.png?v7) `:twisted_rightwards_arrows:` 
- - ![:two:](https://assets-cdn.github.com/images/icons/emoji/unicode/0032-20e3.png?v7) `:two:` 
- - ![:two_hearts:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f495.png?v7) `:two_hearts:` 
- - ![:two_men_holding_hands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46c.png?v7) `:two_men_holding_hands:` 
- - ![:two_women_holding_hands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f46d.png?v7) `:two_women_holding_hands:` 
- - ![:u5272:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f239.png?v7) `:u5272:` 
- - ![:u5408:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f234.png?v7) `:u5408:` 
- - ![:u55b6:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f23a.png?v7) `:u55b6:` 
- - ![:u6307:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f22f.png?v7) `:u6307:` 
- - ![:u6708:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f237.png?v7) `:u6708:` 
- - ![:u6709:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f236.png?v7) `:u6709:` 
- - ![:u6e80:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f235.png?v7) `:u6e80:` 
- - ![:u7121:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f21a.png?v7) `:u7121:` 
- - ![:u7533:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f238.png?v7) `:u7533:` 
- - ![:u7981:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f232.png?v7) `:u7981:` 
- - ![:u7a7a:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f233.png?v7) `:u7a7a:` 
- - ![:uganda:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1ec.png?v7) `:uganda:` 
- - ![:uk:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v7) `:uk:` 
- - ![:ukraine:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1e6.png?v7) `:ukraine:` 
- - ![:umbrella:](https://assets-cdn.github.com/images/icons/emoji/unicode/2614.png?v7) `:umbrella:` 
- - ![:unamused:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f612.png?v7) `:unamused:` 
- - ![:underage:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f51e.png?v7) `:underage:` 
- - ![:unicorn:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f984.png?v7) `:unicorn:` 
- - ![:united_arab_emirates:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ea.png?v7) `:united_arab_emirates:` 
- - ![:unlock:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f513.png?v7) `:unlock:` 
- - ![:up:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f199.png?v7) `:up:` 
- - ![:upside_down_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f643.png?v7) `:upside_down_face:` 
- - ![:uruguay:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1fe.png?v7) `:uruguay:` 
- - ![:us:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v7) `:us:` 
- - ![:us_virgin_islands:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1ee.png?v7) `:us_virgin_islands:` 
- - ![:uzbekistan:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1ff.png?v7) `:uzbekistan:` 
- - ![:v:](https://assets-cdn.github.com/images/icons/emoji/unicode/270c.png?v7) `:v:` 
- - ![:vanuatu:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1fa.png?v7) `:vanuatu:` 
- - ![:vatican_city:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1e6.png?v7) `:vatican_city:` 
- - ![:venezuela:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1ea.png?v7) `:venezuela:` 
- - ![:vertical_traffic_light:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a6.png?v7) `:vertical_traffic_light:` 
- - ![:vhs:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fc.png?v7) `:vhs:` 
- - ![:vibration_mode:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f3.png?v7) `:vibration_mode:` 
- - ![:video_camera:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png?v7) `:video_camera:` 
- - ![:video_game:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png?v7) `:video_game:` 
- - ![:vietnam:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1f3.png?v7) `:vietnam:` 
- - ![:violin:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bb.png?v7) `:violin:` 
- - ![:virgo:](https://assets-cdn.github.com/images/icons/emoji/unicode/264d.png?v7) `:virgo:` 
- - ![:volcano:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f30b.png?v7) `:volcano:` 
- - ![:volleyball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d0.png?v7) `:volleyball:` 
- - ![:vs:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f19a.png?v7) `:vs:` 
- - ![:vulcan_salute:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png?v7) `:vulcan_salute:` 
- - ![:walking:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b6.png?v7) `:walking:` 
- - ![:walking_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b6.png?v7) `:walking_man:` 
- - ![:walking_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b6-2640.png?v7) `:walking_woman:` 
- - ![:wallis_futuna:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fc-1f1eb.png?v7) `:wallis_futuna:` 
- - ![:waning_crescent_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f318.png?v7) `:waning_crescent_moon:` 
- - ![:waning_gibbous_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f316.png?v7) `:waning_gibbous_moon:` 
- - ![:warning:](https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png?v7) `:warning:` 
- - ![:wastebasket:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5d1.png?v7) `:wastebasket:` 
- - ![:watch:](https://assets-cdn.github.com/images/icons/emoji/unicode/231a.png?v7) `:watch:` 
- - ![:water_buffalo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f403.png?v7) `:water_buffalo:` 
- - ![:watermelon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f349.png?v7) `:watermelon:` 
- - ![:wave:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44b.png?v7) `:wave:` 
- - ![:wavy_dash:](https://assets-cdn.github.com/images/icons/emoji/unicode/3030.png?v7) `:wavy_dash:` 
- - ![:waxing_crescent_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f312.png?v7) `:waxing_crescent_moon:` 
- - ![:waxing_gibbous_moon:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f314.png?v7) `:waxing_gibbous_moon:` 
- - ![:wc:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6be.png?v7) `:wc:` 
- - ![:weary:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f629.png?v7) `:weary:` 
- - ![:wedding:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f492.png?v7) `:wedding:` 
- - ![:weight_lifting_man:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cb.png?v7) `:weight_lifting_man:` 
- - ![:weight_lifting_woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cb-2640.png?v7) `:weight_lifting_woman:` 
- - ![:western_sahara:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1ed.png?v7) `:western_sahara:` 
- - ![:whale:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f433.png?v7) `:whale:` 
- - ![:whale2:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f40b.png?v7) `:whale2:` 
- - ![:wheel_of_dharma:](https://assets-cdn.github.com/images/icons/emoji/unicode/2638.png?v7) `:wheel_of_dharma:` 
- - ![:wheelchair:](https://assets-cdn.github.com/images/icons/emoji/unicode/267f.png?v7) `:wheelchair:` 
- - ![:white_check_mark:](https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png?v7) `:white_check_mark:` 
- - ![:white_circle:](https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png?v7) `:white_circle:` 
- - ![:white_flag:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f3.png?v7) `:white_flag:` 
- - ![:white_flower:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ae.png?v7) `:white_flower:` 
- - ![:white_large_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/2b1c.png?v7) `:white_large_square:` 
- - ![:white_medium_small_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/25fd.png?v7) `:white_medium_small_square:` 
- - ![:white_medium_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/25fb.png?v7) `:white_medium_square:` 
- - ![:white_small_square:](https://assets-cdn.github.com/images/icons/emoji/unicode/25ab.png?v7) `:white_small_square:` 
- - ![:white_square_button:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f533.png?v7) `:white_square_button:` 
- - ![:wilted_flower:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f940.png?v7) `:wilted_flower:` 
- - ![:wind_chime:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f390.png?v7) `:wind_chime:` 
- - ![:wind_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f32c.png?v7) `:wind_face:` 
- - ![:wine_glass:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f377.png?v7) `:wine_glass:` 
- - ![:wink:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png?v7) `:wink:` 
- - ![:wolf:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f43a.png?v7) `:wolf:` 
- - ![:woman:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469.png?v7) `:woman:` 
- - ![:woman_artist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3a8.png?v7) `:woman_artist:` 
- - ![:woman_astronaut:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f680.png?v7) `:woman_astronaut:` 
- - ![:woman_cartwheeling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f938-2640.png?v7) `:woman_cartwheeling:` 
- - ![:woman_cook:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f373.png?v7) `:woman_cook:` 
- - ![:woman_facepalming:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f926-2640.png?v7) `:woman_facepalming:` 
- - ![:woman_factory_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3ed.png?v7) `:woman_factory_worker:` 
- - ![:woman_farmer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f33e.png?v7) `:woman_farmer:` 
- - ![:woman_firefighter:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f692.png?v7) `:woman_firefighter:` 
- - ![:woman_health_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2695.png?v7) `:woman_health_worker:` 
- - ![:woman_judge:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2696.png?v7) `:woman_judge:` 
- - ![:woman_juggling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f939-2640.png?v7) `:woman_juggling:` 
- - ![:woman_mechanic:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f527.png?v7) `:woman_mechanic:` 
- - ![:woman_office_worker:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f4bc.png?v7) `:woman_office_worker:` 
- - ![:woman_pilot:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2708.png?v7) `:woman_pilot:` 
- - ![:woman_playing_handball:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93e-2640.png?v7) `:woman_playing_handball:` 
- - ![:woman_playing_water_polo:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93d-2640.png?v7) `:woman_playing_water_polo:` 
- - ![:woman_scientist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f52c.png?v7) `:woman_scientist:` 
- - ![:woman_shrugging:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f937-2640.png?v7) `:woman_shrugging:` 
- - ![:woman_singer:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3a4.png?v7) `:woman_singer:` 
- - ![:woman_student:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f393.png?v7) `:woman_student:` 
- - ![:woman_teacher:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3eb.png?v7) `:woman_teacher:` 
- - ![:woman_technologist:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f4bb.png?v7) `:woman_technologist:` 
- - ![:woman_with_turban:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f473-2640.png?v7) `:woman_with_turban:` 
- - ![:womans_clothes:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f45a.png?v7) `:womans_clothes:` 
- - ![:womans_hat:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f452.png?v7) `:womans_hat:` 
- - ![:women_wrestling:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f93c-2640.png?v7) `:women_wrestling:` 
- - ![:womens:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ba.png?v7) `:womens:` 
- - ![:world_map:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fa.png?v7) `:world_map:` 
- - ![:worried:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f61f.png?v7) `:worried:` 
- - ![:wrench:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f527.png?v7) `:wrench:` 
- - ![:writing_hand:](https://assets-cdn.github.com/images/icons/emoji/unicode/270d.png?v7) `:writing_hand:` 
- - ![:x:](https://assets-cdn.github.com/images/icons/emoji/unicode/274c.png?v7) `:x:` 
- - ![:yellow_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49b.png?v7) `:yellow_heart:` 
- - ![:yemen:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fe-1f1ea.png?v7) `:yemen:` 
- - ![:yen:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b4.png?v7) `:yen:` 
- - ![:yin_yang:](https://assets-cdn.github.com/images/icons/emoji/unicode/262f.png?v7) `:yin_yang:` 
- - ![:yum:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f60b.png?v7) `:yum:` 
- - ![:zambia:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ff-1f1f2.png?v7) `:zambia:` 
- - ![:zap:](https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png?v7) `:zap:` 
- - ![:zero:](https://assets-cdn.github.com/images/icons/emoji/unicode/0030-20e3.png?v7) `:zero:` 
- - ![:zimbabwe:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ff-1f1fc.png?v7) `:zimbabwe:` 
- - ![:zipper_mouth_face:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f910.png?v7) `:zipper_mouth_face:` 
- - ![:zzz:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a4.png?v7) `:zzz:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v7" width="24" height="24" alt=":+1:" /> `:+1:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44e.png?v7" width="24" height="24" alt=":-1:" /> `:-1:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4af.png?v7" width="24" height="24" alt=":100:" /> `:100:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f522.png?v7" width="24" height="24" alt=":1234:" /> `:1234:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f947.png?v7" width="24" height="24" alt=":1st_place_medal:" /> `:1st_place_medal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f948.png?v7" width="24" height="24" alt=":2nd_place_medal:" /> `:2nd_place_medal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f949.png?v7" width="24" height="24" alt=":3rd_place_medal:" /> `:3rd_place_medal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b1.png?v7" width="24" height="24" alt=":8ball:" /> `:8ball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f170.png?v7" width="24" height="24" alt=":a:" /> `:a:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f18e.png?v7" width="24" height="24" alt=":ab:" /> `:ab:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f524.png?v7" width="24" height="24" alt=":abc:" /> `:abc:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f521.png?v7" width="24" height="24" alt=":abcd:" /> `:abcd:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f251.png?v7" width="24" height="24" alt=":accept:" /> `:accept:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a1.png?v7" width="24" height="24" alt=":aerial_tramway:" /> `:aerial_tramway:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1eb.png?v7" width="24" height="24" alt=":afghanistan:" /> `:afghanistan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2708.png?v7" width="24" height="24" alt=":airplane:" /> `:airplane:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1fd.png?v7" width="24" height="24" alt=":aland_islands:" /> `:aland_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23f0.png?v7" width="24" height="24" alt=":alarm_clock:" /> `:alarm_clock:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f1.png?v7" width="24" height="24" alt=":albania:" /> `:albania:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2697.png?v7" width="24" height="24" alt=":alembic:" /> `:alembic:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ff.png?v7" width="24" height="24" alt=":algeria:" /> `:algeria:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47d.png?v7" width="24" height="24" alt=":alien:" /> `:alien:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f691.png?v7" width="24" height="24" alt=":ambulance:" /> `:ambulance:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f8.png?v7" width="24" height="24" alt=":american_samoa:" /> `:american_samoa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3fa.png?v7" width="24" height="24" alt=":amphora:" /> `:amphora:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2693.png?v7" width="24" height="24" alt=":anchor:" /> `:anchor:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1e9.png?v7" width="24" height="24" alt=":andorra:" /> `:andorra:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47c.png?v7" width="24" height="24" alt=":angel:" /> `:angel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a2.png?v7" width="24" height="24" alt=":anger:" /> `:anger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f4.png?v7" width="24" height="24" alt=":angola:" /> `:angola:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f620.png?v7" width="24" height="24" alt=":angry:" /> `:angry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ee.png?v7" width="24" height="24" alt=":anguilla:" /> `:anguilla:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f627.png?v7" width="24" height="24" alt=":anguished:" /> `:anguished:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41c.png?v7" width="24" height="24" alt=":ant:" /> `:ant:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f6.png?v7" width="24" height="24" alt=":antarctica:" /> `:antarctica:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ec.png?v7" width="24" height="24" alt=":antigua_barbuda:" /> `:antigua_barbuda:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34e.png?v7" width="24" height="24" alt=":apple:" /> `:apple:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2652.png?v7" width="24" height="24" alt=":aquarius:" /> `:aquarius:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f7.png?v7" width="24" height="24" alt=":argentina:" /> `:argentina:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2648.png?v7" width="24" height="24" alt=":aries:" /> `:aries:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f2.png?v7" width="24" height="24" alt=":armenia:" /> `:armenia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25c0.png?v7" width="24" height="24" alt=":arrow_backward:" /> `:arrow_backward:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23ec.png?v7" width="24" height="24" alt=":arrow_double_down:" /> `:arrow_double_down:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23eb.png?v7" width="24" height="24" alt=":arrow_double_up:" /> `:arrow_double_up:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b07.png?v7" width="24" height="24" alt=":arrow_down:" /> `:arrow_down:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f53d.png?v7" width="24" height="24" alt=":arrow_down_small:" /> `:arrow_down_small:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25b6.png?v7" width="24" height="24" alt=":arrow_forward:" /> `:arrow_forward:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2935.png?v7" width="24" height="24" alt=":arrow_heading_down:" /> `:arrow_heading_down:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2934.png?v7" width="24" height="24" alt=":arrow_heading_up:" /> `:arrow_heading_up:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b05.png?v7" width="24" height="24" alt=":arrow_left:" /> `:arrow_left:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2199.png?v7" width="24" height="24" alt=":arrow_lower_left:" /> `:arrow_lower_left:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2198.png?v7" width="24" height="24" alt=":arrow_lower_right:" /> `:arrow_lower_right:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/27a1.png?v7" width="24" height="24" alt=":arrow_right:" /> `:arrow_right:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/21aa.png?v7" width="24" height="24" alt=":arrow_right_hook:" /> `:arrow_right_hook:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png?v7" width="24" height="24" alt=":arrow_up:" /> `:arrow_up:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2195.png?v7" width="24" height="24" alt=":arrow_up_down:" /> `:arrow_up_down:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f53c.png?v7" width="24" height="24" alt=":arrow_up_small:" /> `:arrow_up_small:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2196.png?v7" width="24" height="24" alt=":arrow_upper_left:" /> `:arrow_upper_left:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2197.png?v7" width="24" height="24" alt=":arrow_upper_right:" /> `:arrow_upper_right:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f503.png?v7" width="24" height="24" alt=":arrows_clockwise:" /> `:arrows_clockwise:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f504.png?v7" width="24" height="24" alt=":arrows_counterclockwise:" /> `:arrows_counterclockwise:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png?v7" width="24" height="24" alt=":art:" /> `:art:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f69b.png?v7" width="24" height="24" alt=":articulated_lorry:" /> `:articulated_lorry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f0.png?v7" width="24" height="24" alt=":artificial_satellite:" /> `:artificial_satellite:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1fc.png?v7" width="24" height="24" alt=":aruba:" /> `:aruba:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/002a-20e3.png?v7" width="24" height="24" alt=":asterisk:" /> `:asterisk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f632.png?v7" width="24" height="24" alt=":astonished:" /> `:astonished:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45f.png?v7" width="24" height="24" alt=":athletic_shoe:" /> `:athletic_shoe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e7.png?v7" width="24" height="24" alt=":atm:" /> `:atm:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/atom.png?v7" width="24" height="24" alt=":atom:" /> `:atom:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png?v7" width="24" height="24" alt=":atom_symbol:" /> `:atom_symbol:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1fa.png?v7" width="24" height="24" alt=":australia:" /> `:australia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1f9.png?v7" width="24" height="24" alt=":austria:" /> `:austria:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f951.png?v7" width="24" height="24" alt=":avocado:" /> `:avocado:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ff.png?v7" width="24" height="24" alt=":azerbaijan:" /> `:azerbaijan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f171.png?v7" width="24" height="24" alt=":b:" /> `:b:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f476.png?v7" width="24" height="24" alt=":baby:" /> `:baby:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37c.png?v7" width="24" height="24" alt=":baby_bottle:" /> `:baby_bottle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f424.png?v7" width="24" height="24" alt=":baby_chick:" /> `:baby_chick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bc.png?v7" width="24" height="24" alt=":baby_symbol:" /> `:baby_symbol:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f519.png?v7" width="24" height="24" alt=":back:" /> `:back:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f953.png?v7" width="24" height="24" alt=":bacon:" /> `:bacon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f8.png?v7" width="24" height="24" alt=":badminton:" /> `:badminton:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c4.png?v7" width="24" height="24" alt=":baggage_claim:" /> `:baggage_claim:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f956.png?v7" width="24" height="24" alt=":baguette_bread:" /> `:baguette_bread:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f8.png?v7" width="24" height="24" alt=":bahamas:" /> `:bahamas:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ed.png?v7" width="24" height="24" alt=":bahrain:" /> `:bahrain:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2696.png?v7" width="24" height="24" alt=":balance_scale:" /> `:balance_scale:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v7" width="24" height="24" alt=":balloon:" /> `:balloon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5f3.png?v7" width="24" height="24" alt=":ballot_box:" /> `:ballot_box:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2611.png?v7" width="24" height="24" alt=":ballot_box_with_check:" /> `:ballot_box_with_check:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f38d.png?v7" width="24" height="24" alt=":bamboo:" /> `:bamboo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34c.png?v7" width="24" height="24" alt=":banana:" /> `:banana:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/203c.png?v7" width="24" height="24" alt=":bangbang:" /> `:bangbang:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1e9.png?v7" width="24" height="24" alt=":bangladesh:" /> `:bangladesh:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e6.png?v7" width="24" height="24" alt=":bank:" /> `:bank:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ca.png?v7" width="24" height="24" alt=":bar_chart:" /> `:bar_chart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1e7.png?v7" width="24" height="24" alt=":barbados:" /> `:barbados:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f488.png?v7" width="24" height="24" alt=":barber:" /> `:barber:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26be.png?v7" width="24" height="24" alt=":baseball:" /> `:baseball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/basecamp.png?v7" width="24" height="24" alt=":basecamp:" /> `:basecamp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/basecampy.png?v7" width="24" height="24" alt=":basecampy:" /> `:basecampy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c0.png?v7" width="24" height="24" alt=":basketball:" /> `:basketball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f9.png?v7" width="24" height="24" alt=":basketball_man:" /> `:basketball_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f9-2640.png?v7" width="24" height="24" alt=":basketball_woman:" /> `:basketball_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f987.png?v7" width="24" height="24" alt=":bat:" /> `:bat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c0.png?v7" width="24" height="24" alt=":bath:" /> `:bath:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c1.png?v7" width="24" height="24" alt=":bathtub:" /> `:bathtub:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50b.png?v7" width="24" height="24" alt=":battery:" /> `:battery:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d6.png?v7" width="24" height="24" alt=":beach_umbrella:" /> `:beach_umbrella:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43b.png?v7" width="24" height="24" alt=":bear:" /> `:bear:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cf.png?v7" width="24" height="24" alt=":bed:" /> `:bed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41d.png?v7" width="24" height="24" alt=":bee:" /> `:bee:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37a.png?v7" width="24" height="24" alt=":beer:" /> `:beer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37b.png?v7" width="24" height="24" alt=":beers:" /> `:beers:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41e.png?v7" width="24" height="24" alt=":beetle:" /> `:beetle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f530.png?v7" width="24" height="24" alt=":beginner:" /> `:beginner:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1fe.png?v7" width="24" height="24" alt=":belarus:" /> `:belarus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ea.png?v7" width="24" height="24" alt=":belgium:" /> `:belgium:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ff.png?v7" width="24" height="24" alt=":belize:" /> `:belize:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f514.png?v7" width="24" height="24" alt=":bell:" /> `:bell:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ce.png?v7" width="24" height="24" alt=":bellhop_bell:" /> `:bellhop_bell:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ef.png?v7" width="24" height="24" alt=":benin:" /> `:benin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f371.png?v7" width="24" height="24" alt=":bento:" /> `:bento:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f2.png?v7" width="24" height="24" alt=":bermuda:" /> `:bermuda:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f9.png?v7" width="24" height="24" alt=":bhutan:" /> `:bhutan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b4.png?v7" width="24" height="24" alt=":bicyclist:" /> `:bicyclist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b2.png?v7" width="24" height="24" alt=":bike:" /> `:bike:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b4.png?v7" width="24" height="24" alt=":biking_man:" /> `:biking_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b4-2640.png?v7" width="24" height="24" alt=":biking_woman:" /> `:biking_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f459.png?v7" width="24" height="24" alt=":bikini:" /> `:bikini:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2623.png?v7" width="24" height="24" alt=":biohazard:" /> `:biohazard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f426.png?v7" width="24" height="24" alt=":bird:" /> `:bird:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f382.png?v7" width="24" height="24" alt=":birthday:" /> `:birthday:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26ab.png?v7" width="24" height="24" alt=":black_circle:" /> `:black_circle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f4.png?v7" width="24" height="24" alt=":black_flag:" /> `:black_flag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5a4.png?v7" width="24" height="24" alt=":black_heart:" /> `:black_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f0cf.png?v7" width="24" height="24" alt=":black_joker:" /> `:black_joker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b1b.png?v7" width="24" height="24" alt=":black_large_square:" /> `:black_large_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25fe.png?v7" width="24" height="24" alt=":black_medium_small_square:" /> `:black_medium_small_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25fc.png?v7" width="24" height="24" alt=":black_medium_square:" /> `:black_medium_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2712.png?v7" width="24" height="24" alt=":black_nib:" /> `:black_nib:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25aa.png?v7" width="24" height="24" alt=":black_small_square:" /> `:black_small_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f532.png?v7" width="24" height="24" alt=":black_square_button:" /> `:black_square_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f471.png?v7" width="24" height="24" alt=":blonde_man:" /> `:blonde_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f471-2640.png?v7" width="24" height="24" alt=":blonde_woman:" /> `:blonde_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33c.png?v7" width="24" height="24" alt=":blossom:" /> `:blossom:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f421.png?v7" width="24" height="24" alt=":blowfish:" /> `:blowfish:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d8.png?v7" width="24" height="24" alt=":blue_book:" /> `:blue_book:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f699.png?v7" width="24" height="24" alt=":blue_car:" /> `:blue_car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f499.png?v7" width="24" height="24" alt=":blue_heart:" /> `:blue_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60a.png?v7" width="24" height="24" alt=":blush:" /> `:blush:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f417.png?v7" width="24" height="24" alt=":boar:" /> `:boar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f5.png?v7" width="24" height="24" alt=":boat:" /> `:boat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f4.png?v7" width="24" height="24" alt=":bolivia:" /> `:bolivia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a3.png?v7" width="24" height="24" alt=":bomb:" /> `:bomb:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png?v7" width="24" height="24" alt=":book:" /> `:book:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f516.png?v7" width="24" height="24" alt=":bookmark:" /> `:bookmark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d1.png?v7" width="24" height="24" alt=":bookmark_tabs:" /> `:bookmark_tabs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png?v7" width="24" height="24" alt=":books:" /> `:books:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a5.png?v7" width="24" height="24" alt=":boom:" /> `:boom:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f462.png?v7" width="24" height="24" alt=":boot:" /> `:boot:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1e6.png?v7" width="24" height="24" alt=":bosnia_herzegovina:" /> `:bosnia_herzegovina:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1fc.png?v7" width="24" height="24" alt=":botswana:" /> `:botswana:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f490.png?v7" width="24" height="24" alt=":bouquet:" /> `:bouquet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f647.png?v7" width="24" height="24" alt=":bow:" /> `:bow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f9.png?v7" width="24" height="24" alt=":bow_and_arrow:" /> `:bow_and_arrow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f647.png?v7" width="24" height="24" alt=":bowing_man:" /> `:bowing_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f647-2640.png?v7" width="24" height="24" alt=":bowing_woman:" /> `:bowing_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b3.png?v7" width="24" height="24" alt=":bowling:" /> `:bowling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/bowtie.png?v7" width="24" height="24" alt=":bowtie:" /> `:bowtie:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f94a.png?v7" width="24" height="24" alt=":boxing_glove:" /> `:boxing_glove:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f466.png?v7" width="24" height="24" alt=":boy:" /> `:boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v7" width="24" height="24" alt=":brazil:" /> `:brazil:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f35e.png?v7" width="24" height="24" alt=":bread:" /> `:bread:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f470.png?v7" width="24" height="24" alt=":bride_with_veil:" /> `:bride_with_veil:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f309.png?v7" width="24" height="24" alt=":bridge_at_night:" /> `:bridge_at_night:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bc.png?v7" width="24" height="24" alt=":briefcase:" /> `:briefcase:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f4.png?v7" width="24" height="24" alt=":british_indian_ocean_territory:" /> `:british_indian_ocean_territory:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1ec.png?v7" width="24" height="24" alt=":british_virgin_islands:" /> `:british_virgin_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f494.png?v7" width="24" height="24" alt=":broken_heart:" /> `:broken_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f3.png?v7" width="24" height="24" alt=":brunei:" /> `:brunei:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41b.png?v7" width="24" height="24" alt=":bug:" /> `:bug:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d7.png?v7" width="24" height="24" alt=":building_construction:" /> `:building_construction:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a1.png?v7" width="24" height="24" alt=":bulb:" /> `:bulb:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ec.png?v7" width="24" height="24" alt=":bulgaria:" /> `:bulgaria:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f685.png?v7" width="24" height="24" alt=":bullettrain_front:" /> `:bullettrain_front:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f684.png?v7" width="24" height="24" alt=":bullettrain_side:" /> `:bullettrain_side:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1eb.png?v7" width="24" height="24" alt=":burkina_faso:" /> `:burkina_faso:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f32f.png?v7" width="24" height="24" alt=":burrito:" /> `:burrito:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1ee.png?v7" width="24" height="24" alt=":burundi:" /> `:burundi:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f68c.png?v7" width="24" height="24" alt=":bus:" /> `:bus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f574.png?v7" width="24" height="24" alt=":business_suit_levitating:" /> `:business_suit_levitating:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f68f.png?v7" width="24" height="24" alt=":busstop:" /> `:busstop:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f464.png?v7" width="24" height="24" alt=":bust_in_silhouette:" /> `:bust_in_silhouette:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f465.png?v7" width="24" height="24" alt=":busts_in_silhouette:" /> `:busts_in_silhouette:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f98b.png?v7" width="24" height="24" alt=":butterfly:" /> `:butterfly:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f335.png?v7" width="24" height="24" alt=":cactus:" /> `:cactus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f370.png?v7" width="24" height="24" alt=":cake:" /> `:cake:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c6.png?v7" width="24" height="24" alt=":calendar:" /> `:calendar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f919.png?v7" width="24" height="24" alt=":call_me_hand:" /> `:call_me_hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f2.png?v7" width="24" height="24" alt=":calling:" /> `:calling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ed.png?v7" width="24" height="24" alt=":cambodia:" /> `:cambodia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42b.png?v7" width="24" height="24" alt=":camel:" /> `:camel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f7.png?v7" width="24" height="24" alt=":camera:" /> `:camera:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f8.png?v7" width="24" height="24" alt=":camera_flash:" /> `:camera_flash:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f2.png?v7" width="24" height="24" alt=":cameroon:" /> `:cameroon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d5.png?v7" width="24" height="24" alt=":camping:" /> `:camping:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1e6.png?v7" width="24" height="24" alt=":canada:" /> `:canada:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1e8.png?v7" width="24" height="24" alt=":canary_islands:" /> `:canary_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/264b.png?v7" width="24" height="24" alt=":cancer:" /> `:cancer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f56f.png?v7" width="24" height="24" alt=":candle:" /> `:candle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36c.png?v7" width="24" height="24" alt=":candy:" /> `:candy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f6.png?v7" width="24" height="24" alt=":canoe:" /> `:canoe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fb.png?v7" width="24" height="24" alt=":cape_verde:" /> `:cape_verde:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f520.png?v7" width="24" height="24" alt=":capital_abcd:" /> `:capital_abcd:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2651.png?v7" width="24" height="24" alt=":capricorn:" /> `:capricorn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f697.png?v7" width="24" height="24" alt=":car:" /> `:car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5c3.png?v7" width="24" height="24" alt=":card_file_box:" /> `:card_file_box:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c7.png?v7" width="24" height="24" alt=":card_index:" /> `:card_index:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5c2.png?v7" width="24" height="24" alt=":card_index_dividers:" /> `:card_index_dividers:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f6.png?v7" width="24" height="24" alt=":caribbean_netherlands:" /> `:caribbean_netherlands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a0.png?v7" width="24" height="24" alt=":carousel_horse:" /> `:carousel_horse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f955.png?v7" width="24" height="24" alt=":carrot:" /> `:carrot:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f431.png?v7" width="24" height="24" alt=":cat:" /> `:cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f408.png?v7" width="24" height="24" alt=":cat2:" /> `:cat2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1fe.png?v7" width="24" height="24" alt=":cayman_islands:" /> `:cayman_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bf.png?v7" width="24" height="24" alt=":cd:" /> `:cd:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1eb.png?v7" width="24" height="24" alt=":central_african_republic:" /> `:central_african_republic:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1e9.png?v7" width="24" height="24" alt=":chad:" /> `:chad:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26d3.png?v7" width="24" height="24" alt=":chains:" /> `:chains:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37e.png?v7" width="24" height="24" alt=":champagne:" /> `:champagne:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b9.png?v7" width="24" height="24" alt=":chart:" /> `:chart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c9.png?v7" width="24" height="24" alt=":chart_with_downwards_trend:" /> `:chart_with_downwards_trend:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c8.png?v7" width="24" height="24" alt=":chart_with_upwards_trend:" /> `:chart_with_upwards_trend:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c1.png?v7" width="24" height="24" alt=":checkered_flag:" /> `:checkered_flag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f9c0.png?v7" width="24" height="24" alt=":cheese:" /> `:cheese:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f352.png?v7" width="24" height="24" alt=":cherries:" /> `:cherries:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f338.png?v7" width="24" height="24" alt=":cherry_blossom:" /> `:cherry_blossom:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f330.png?v7" width="24" height="24" alt=":chestnut:" /> `:chestnut:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f414.png?v7" width="24" height="24" alt=":chicken:" /> `:chicken:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b8.png?v7" width="24" height="24" alt=":children_crossing:" /> `:children_crossing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f1.png?v7" width="24" height="24" alt=":chile:" /> `:chile:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43f.png?v7" width="24" height="24" alt=":chipmunk:" /> `:chipmunk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36b.png?v7" width="24" height="24" alt=":chocolate_bar:" /> `:chocolate_bar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fd.png?v7" width="24" height="24" alt=":christmas_island:" /> `:christmas_island:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f384.png?v7" width="24" height="24" alt=":christmas_tree:" /> `:christmas_tree:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26ea.png?v7" width="24" height="24" alt=":church:" /> `:church:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a6.png?v7" width="24" height="24" alt=":cinema:" /> `:cinema:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3aa.png?v7" width="24" height="24" alt=":circus_tent:" /> `:circus_tent:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f307.png?v7" width="24" height="24" alt=":city_sunrise:" /> `:city_sunrise:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f306.png?v7" width="24" height="24" alt=":city_sunset:" /> `:city_sunset:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d9.png?v7" width="24" height="24" alt=":cityscape:" /> `:cityscape:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f191.png?v7" width="24" height="24" alt=":cl:" /> `:cl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5dc.png?v7" width="24" height="24" alt=":clamp:" /> `:clamp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44f.png?v7" width="24" height="24" alt=":clap:" /> `:clap:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ac.png?v7" width="24" height="24" alt=":clapper:" /> `:clapper:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3db.png?v7" width="24" height="24" alt=":classical_building:" /> `:classical_building:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f942.png?v7" width="24" height="24" alt=":clinking_glasses:" /> `:clinking_glasses:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cb.png?v7" width="24" height="24" alt=":clipboard:" /> `:clipboard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f550.png?v7" width="24" height="24" alt=":clock1:" /> `:clock1:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f559.png?v7" width="24" height="24" alt=":clock10:" /> `:clock10:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f565.png?v7" width="24" height="24" alt=":clock1030:" /> `:clock1030:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55a.png?v7" width="24" height="24" alt=":clock11:" /> `:clock11:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f566.png?v7" width="24" height="24" alt=":clock1130:" /> `:clock1130:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55b.png?v7" width="24" height="24" alt=":clock12:" /> `:clock12:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f567.png?v7" width="24" height="24" alt=":clock1230:" /> `:clock1230:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55c.png?v7" width="24" height="24" alt=":clock130:" /> `:clock130:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f551.png?v7" width="24" height="24" alt=":clock2:" /> `:clock2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55d.png?v7" width="24" height="24" alt=":clock230:" /> `:clock230:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f552.png?v7" width="24" height="24" alt=":clock3:" /> `:clock3:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55e.png?v7" width="24" height="24" alt=":clock330:" /> `:clock330:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f553.png?v7" width="24" height="24" alt=":clock4:" /> `:clock4:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55f.png?v7" width="24" height="24" alt=":clock430:" /> `:clock430:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f554.png?v7" width="24" height="24" alt=":clock5:" /> `:clock5:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f560.png?v7" width="24" height="24" alt=":clock530:" /> `:clock530:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f555.png?v7" width="24" height="24" alt=":clock6:" /> `:clock6:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f561.png?v7" width="24" height="24" alt=":clock630:" /> `:clock630:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f556.png?v7" width="24" height="24" alt=":clock7:" /> `:clock7:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f562.png?v7" width="24" height="24" alt=":clock730:" /> `:clock730:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f557.png?v7" width="24" height="24" alt=":clock8:" /> `:clock8:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f563.png?v7" width="24" height="24" alt=":clock830:" /> `:clock830:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f558.png?v7" width="24" height="24" alt=":clock9:" /> `:clock9:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f564.png?v7" width="24" height="24" alt=":clock930:" /> `:clock930:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d5.png?v7" width="24" height="24" alt=":closed_book:" /> `:closed_book:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f510.png?v7" width="24" height="24" alt=":closed_lock_with_key:" /> `:closed_lock_with_key:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f302.png?v7" width="24" height="24" alt=":closed_umbrella:" /> `:closed_umbrella:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2601.png?v7" width="24" height="24" alt=":cloud:" /> `:cloud:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f329.png?v7" width="24" height="24" alt=":cloud_with_lightning:" /> `:cloud_with_lightning:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26c8.png?v7" width="24" height="24" alt=":cloud_with_lightning_and_rain:" /> `:cloud_with_lightning_and_rain:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f327.png?v7" width="24" height="24" alt=":cloud_with_rain:" /> `:cloud_with_rain:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f328.png?v7" width="24" height="24" alt=":cloud_with_snow:" /> `:cloud_with_snow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f921.png?v7" width="24" height="24" alt=":clown_face:" /> `:clown_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2663.png?v7" width="24" height="24" alt=":clubs:" /> `:clubs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png?v7" width="24" height="24" alt=":cn:" /> `:cn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f378.png?v7" width="24" height="24" alt=":cocktail:" /> `:cocktail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1e8.png?v7" width="24" height="24" alt=":cocos_islands:" /> `:cocos_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2615.png?v7" width="24" height="24" alt=":coffee:" /> `:coffee:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26b0.png?v7" width="24" height="24" alt=":coffin:" /> `:coffin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f630.png?v7" width="24" height="24" alt=":cold_sweat:" /> `:cold_sweat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a5.png?v7" width="24" height="24" alt=":collision:" /> `:collision:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f4.png?v7" width="24" height="24" alt=":colombia:" /> `:colombia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2604.png?v7" width="24" height="24" alt=":comet:" /> `:comet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f2.png?v7" width="24" height="24" alt=":comoros:" /> `:comoros:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png?v7" width="24" height="24" alt=":computer:" /> `:computer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5b1.png?v7" width="24" height="24" alt=":computer_mouse:" /> `:computer_mouse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f38a.png?v7" width="24" height="24" alt=":confetti_ball:" /> `:confetti_ball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f616.png?v7" width="24" height="24" alt=":confounded:" /> `:confounded:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f615.png?v7" width="24" height="24" alt=":confused:" /> `:confused:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ec.png?v7" width="24" height="24" alt=":congo_brazzaville:" /> `:congo_brazzaville:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1e9.png?v7" width="24" height="24" alt=":congo_kinshasa:" /> `:congo_kinshasa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/3297.png?v7" width="24" height="24" alt=":congratulations:" /> `:congratulations:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a7.png?v7" width="24" height="24" alt=":construction:" /> `:construction:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f477.png?v7" width="24" height="24" alt=":construction_worker:" /> `:construction_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f477.png?v7" width="24" height="24" alt=":construction_worker_man:" /> `:construction_worker_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f477-2640.png?v7" width="24" height="24" alt=":construction_worker_woman:" /> `:construction_worker_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f39b.png?v7" width="24" height="24" alt=":control_knobs:" /> `:control_knobs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ea.png?v7" width="24" height="24" alt=":convenience_store:" /> `:convenience_store:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f0.png?v7" width="24" height="24" alt=":cook_islands:" /> `:cook_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36a.png?v7" width="24" height="24" alt=":cookie:" /> `:cookie:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f192.png?v7" width="24" height="24" alt=":cool:" /> `:cool:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46e.png?v7" width="24" height="24" alt=":cop:" /> `:cop:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/00a9.png?v7" width="24" height="24" alt=":copyright:" /> `:copyright:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33d.png?v7" width="24" height="24" alt=":corn:" /> `:corn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f7.png?v7" width="24" height="24" alt=":costa_rica:" /> `:costa_rica:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ee.png?v7" width="24" height="24" alt=":cote_divoire:" /> `:cote_divoire:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cb.png?v7" width="24" height="24" alt=":couch_and_lamp:" /> `:couch_and_lamp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46b.png?v7" width="24" height="24" alt=":couple:" /> `:couple:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f491.png?v7" width="24" height="24" alt=":couple_with_heart:" /> `:couple_with_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2764-1f468.png?v7" width="24" height="24" alt=":couple_with_heart_man_man:" /> `:couple_with_heart_man_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f491.png?v7" width="24" height="24" alt=":couple_with_heart_woman_man:" /> `:couple_with_heart_woman_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2764-1f469.png?v7" width="24" height="24" alt=":couple_with_heart_woman_woman:" /> `:couple_with_heart_woman_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2764-1f48b-1f468.png?v7" width="24" height="24" alt=":couplekiss_man_man:" /> `:couplekiss_man_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f48f.png?v7" width="24" height="24" alt=":couplekiss_man_woman:" /> `:couplekiss_man_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2764-1f48b-1f469.png?v7" width="24" height="24" alt=":couplekiss_woman_woman:" /> `:couplekiss_woman_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42e.png?v7" width="24" height="24" alt=":cow:" /> `:cow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f404.png?v7" width="24" height="24" alt=":cow2:" /> `:cow2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f920.png?v7" width="24" height="24" alt=":cowboy_hat_face:" /> `:cowboy_hat_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f980.png?v7" width="24" height="24" alt=":crab:" /> `:crab:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f58d.png?v7" width="24" height="24" alt=":crayon:" /> `:crayon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b3.png?v7" width="24" height="24" alt=":credit_card:" /> `:credit_card:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f319.png?v7" width="24" height="24" alt=":crescent_moon:" /> `:crescent_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cf.png?v7" width="24" height="24" alt=":cricket:" /> `:cricket:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f7.png?v7" width="24" height="24" alt=":croatia:" /> `:croatia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f40a.png?v7" width="24" height="24" alt=":crocodile:" /> `:crocodile:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f950.png?v7" width="24" height="24" alt=":croissant:" /> `:croissant:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f91e.png?v7" width="24" height="24" alt=":crossed_fingers:" /> `:crossed_fingers:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f38c.png?v7" width="24" height="24" alt=":crossed_flags:" /> `:crossed_flags:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2694.png?v7" width="24" height="24" alt=":crossed_swords:" /> `:crossed_swords:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f451.png?v7" width="24" height="24" alt=":crown:" /> `:crown:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f622.png?v7" width="24" height="24" alt=":cry:" /> `:cry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63f.png?v7" width="24" height="24" alt=":crying_cat_face:" /> `:crying_cat_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52e.png?v7" width="24" height="24" alt=":crystal_ball:" /> `:crystal_ball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fa.png?v7" width="24" height="24" alt=":cuba:" /> `:cuba:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f952.png?v7" width="24" height="24" alt=":cucumber:" /> `:cucumber:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f498.png?v7" width="24" height="24" alt=":cupid:" /> `:cupid:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fc.png?v7" width="24" height="24" alt=":curacao:" /> `:curacao:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/27b0.png?v7" width="24" height="24" alt=":curly_loop:" /> `:curly_loop:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b1.png?v7" width="24" height="24" alt=":currency_exchange:" /> `:currency_exchange:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f35b.png?v7" width="24" height="24" alt=":curry:" /> `:curry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36e.png?v7" width="24" height="24" alt=":custard:" /> `:custard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c3.png?v7" width="24" height="24" alt=":customs:" /> `:customs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f300.png?v7" width="24" height="24" alt=":cyclone:" /> `:cyclone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1fe.png?v7" width="24" height="24" alt=":cyprus:" /> `:cyprus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ff.png?v7" width="24" height="24" alt=":czech_republic:" /> `:czech_republic:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5e1.png?v7" width="24" height="24" alt=":dagger:" /> `:dagger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f483.png?v7" width="24" height="24" alt=":dancer:" /> `:dancer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46f.png?v7" width="24" height="24" alt=":dancers:" /> `:dancers:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46f-2642.png?v7" width="24" height="24" alt=":dancing_men:" /> `:dancing_men:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46f.png?v7" width="24" height="24" alt=":dancing_women:" /> `:dancing_women:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f361.png?v7" width="24" height="24" alt=":dango:" /> `:dango:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f576.png?v7" width="24" height="24" alt=":dark_sunglasses:" /> `:dark_sunglasses:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3af.png?v7" width="24" height="24" alt=":dart:" /> `:dart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a8.png?v7" width="24" height="24" alt=":dash:" /> `:dash:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c5.png?v7" width="24" height="24" alt=":date:" /> `:date:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ea.png?v7" width="24" height="24" alt=":de:" /> `:de:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f333.png?v7" width="24" height="24" alt=":deciduous_tree:" /> `:deciduous_tree:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f98c.png?v7" width="24" height="24" alt=":deer:" /> `:deer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1f0.png?v7" width="24" height="24" alt=":denmark:" /> `:denmark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ec.png?v7" width="24" height="24" alt=":department_store:" /> `:department_store:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3da.png?v7" width="24" height="24" alt=":derelict_house:" /> `:derelict_house:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3dc.png?v7" width="24" height="24" alt=":desert:" /> `:desert:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3dd.png?v7" width="24" height="24" alt=":desert_island:" /> `:desert_island:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5a5.png?v7" width="24" height="24" alt=":desktop_computer:" /> `:desktop_computer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f575.png?v7" width="24" height="24" alt=":detective:" /> `:detective:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a0.png?v7" width="24" height="24" alt=":diamond_shape_with_a_dot_inside:" /> `:diamond_shape_with_a_dot_inside:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2666.png?v7" width="24" height="24" alt=":diamonds:" /> `:diamonds:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61e.png?v7" width="24" height="24" alt=":disappointed:" /> `:disappointed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f625.png?v7" width="24" height="24" alt=":disappointed_relieved:" /> `:disappointed_relieved:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ab.png?v7" width="24" height="24" alt=":dizzy:" /> `:dizzy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f635.png?v7" width="24" height="24" alt=":dizzy_face:" /> `:dizzy_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ef.png?v7" width="24" height="24" alt=":djibouti:" /> `:djibouti:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6af.png?v7" width="24" height="24" alt=":do_not_litter:" /> `:do_not_litter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f436.png?v7" width="24" height="24" alt=":dog:" /> `:dog:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f415.png?v7" width="24" height="24" alt=":dog2:" /> `:dog2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b5.png?v7" width="24" height="24" alt=":dollar:" /> `:dollar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f38e.png?v7" width="24" height="24" alt=":dolls:" /> `:dolls:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42c.png?v7" width="24" height="24" alt=":dolphin:" /> `:dolphin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1f2.png?v7" width="24" height="24" alt=":dominica:" /> `:dominica:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1f4.png?v7" width="24" height="24" alt=":dominican_republic:" /> `:dominican_republic:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6aa.png?v7" width="24" height="24" alt=":door:" /> `:door:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f369.png?v7" width="24" height="24" alt=":doughnut:" /> `:doughnut:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f54a.png?v7" width="24" height="24" alt=":dove:" /> `:dove:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f409.png?v7" width="24" height="24" alt=":dragon:" /> `:dragon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f432.png?v7" width="24" height="24" alt=":dragon_face:" /> `:dragon_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f457.png?v7" width="24" height="24" alt=":dress:" /> `:dress:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42a.png?v7" width="24" height="24" alt=":dromedary_camel:" /> `:dromedary_camel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f924.png?v7" width="24" height="24" alt=":drooling_face:" /> `:drooling_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png?v7" width="24" height="24" alt=":droplet:" /> `:droplet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f941.png?v7" width="24" height="24" alt=":drum:" /> `:drum:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f986.png?v7" width="24" height="24" alt=":duck:" /> `:duck:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c0.png?v7" width="24" height="24" alt=":dvd:" /> `:dvd:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e7.png?v7" width="24" height="24" alt=":e-mail:" /> `:e-mail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f985.png?v7" width="24" height="24" alt=":eagle:" /> `:eagle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f442.png?v7" width="24" height="24" alt=":ear:" /> `:ear:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33e.png?v7" width="24" height="24" alt=":ear_of_rice:" /> `:ear_of_rice:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30d.png?v7" width="24" height="24" alt=":earth_africa:" /> `:earth_africa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30e.png?v7" width="24" height="24" alt=":earth_americas:" /> `:earth_americas:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30f.png?v7" width="24" height="24" alt=":earth_asia:" /> `:earth_asia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1e8.png?v7" width="24" height="24" alt=":ecuador:" /> `:ecuador:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f95a.png?v7" width="24" height="24" alt=":egg:" /> `:egg:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f346.png?v7" width="24" height="24" alt=":eggplant:" /> `:eggplant:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1ec.png?v7" width="24" height="24" alt=":egypt:" /> `:egypt:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0038-20e3.png?v7" width="24" height="24" alt=":eight:" /> `:eight:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2734.png?v7" width="24" height="24" alt=":eight_pointed_black_star:" /> `:eight_pointed_black_star:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2733.png?v7" width="24" height="24" alt=":eight_spoked_asterisk:" /> `:eight_spoked_asterisk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1fb.png?v7" width="24" height="24" alt=":el_salvador:" /> `:el_salvador:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50c.png?v7" width="24" height="24" alt=":electric_plug:" /> `:electric_plug:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/electron.png?v7" width="24" height="24" alt=":electron:" /> `:electron:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f418.png?v7" width="24" height="24" alt=":elephant:" /> `:elephant:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png?v7" width="24" height="24" alt=":email:" /> `:email:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f51a.png?v7" width="24" height="24" alt=":end:" /> `:end:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png?v7" width="24" height="24" alt=":envelope:" /> `:envelope:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e9.png?v7" width="24" height="24" alt=":envelope_with_arrow:" /> `:envelope_with_arrow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f6.png?v7" width="24" height="24" alt=":equatorial_guinea:" /> `:equatorial_guinea:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f7.png?v7" width="24" height="24" alt=":eritrea:" /> `:eritrea:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v7" width="24" height="24" alt=":es:" /> `:es:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1ea.png?v7" width="24" height="24" alt=":estonia:" /> `:estonia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v7" width="24" height="24" alt=":ethiopia:" /> `:ethiopia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v7" width="24" height="24" alt=":eu:" /> `:eu:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b6.png?v7" width="24" height="24" alt=":euro:" /> `:euro:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f0.png?v7" width="24" height="24" alt=":european_castle:" /> `:european_castle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e4.png?v7" width="24" height="24" alt=":european_post_office:" /> `:european_post_office:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v7" width="24" height="24" alt=":european_union:" /> `:european_union:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f332.png?v7" width="24" height="24" alt=":evergreen_tree:" /> `:evergreen_tree:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png?v7" width="24" height="24" alt=":exclamation:" /> `:exclamation:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f611.png?v7" width="24" height="24" alt=":expressionless:" /> `:expressionless:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f441.png?v7" width="24" height="24" alt=":eye:" /> `:eye:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f441-1f5e8.png?v7" width="24" height="24" alt=":eye_speech_bubble:" /> `:eye_speech_bubble:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f453.png?v7" width="24" height="24" alt=":eyeglasses:" /> `:eyeglasses:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f440.png?v7" width="24" height="24" alt=":eyes:" /> `:eyes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f915.png?v7" width="24" height="24" alt=":face_with_head_bandage:" /> `:face_with_head_bandage:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f912.png?v7" width="24" height="24" alt=":face_with_thermometer:" /> `:face_with_thermometer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v7" width="24" height="24" alt=":facepunch:" /> `:facepunch:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ed.png?v7" width="24" height="24" alt=":factory:" /> `:factory:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f0.png?v7" width="24" height="24" alt=":falkland_islands:" /> `:falkland_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f342.png?v7" width="24" height="24" alt=":fallen_leaf:" /> `:fallen_leaf:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46a.png?v7" width="24" height="24" alt=":family:" /> `:family:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f466.png?v7" width="24" height="24" alt=":family_man_boy:" /> `:family_man_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f466-1f466.png?v7" width="24" height="24" alt=":family_man_boy_boy:" /> `:family_man_boy_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f467.png?v7" width="24" height="24" alt=":family_man_girl:" /> `:family_man_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f467-1f466.png?v7" width="24" height="24" alt=":family_man_girl_boy:" /> `:family_man_girl_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f467-1f467.png?v7" width="24" height="24" alt=":family_man_girl_girl:" /> `:family_man_girl_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f466.png?v7" width="24" height="24" alt=":family_man_man_boy:" /> `:family_man_man_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f466-1f466.png?v7" width="24" height="24" alt=":family_man_man_boy_boy:" /> `:family_man_man_boy_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f467.png?v7" width="24" height="24" alt=":family_man_man_girl:" /> `:family_man_man_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f466.png?v7" width="24" height="24" alt=":family_man_man_girl_boy:" /> `:family_man_man_girl_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f467.png?v7" width="24" height="24" alt=":family_man_man_girl_girl:" /> `:family_man_man_girl_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46a.png?v7" width="24" height="24" alt=":family_man_woman_boy:" /> `:family_man_woman_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f466-1f466.png?v7" width="24" height="24" alt=":family_man_woman_boy_boy:" /> `:family_man_woman_boy_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f467.png?v7" width="24" height="24" alt=":family_man_woman_girl:" /> `:family_man_woman_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f466.png?v7" width="24" height="24" alt=":family_man_woman_girl_boy:" /> `:family_man_woman_girl_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f467.png?v7" width="24" height="24" alt=":family_man_woman_girl_girl:" /> `:family_man_woman_girl_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f466.png?v7" width="24" height="24" alt=":family_woman_boy:" /> `:family_woman_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f466-1f466.png?v7" width="24" height="24" alt=":family_woman_boy_boy:" /> `:family_woman_boy_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f467.png?v7" width="24" height="24" alt=":family_woman_girl:" /> `:family_woman_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f467-1f466.png?v7" width="24" height="24" alt=":family_woman_girl_boy:" /> `:family_woman_girl_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f467-1f467.png?v7" width="24" height="24" alt=":family_woman_girl_girl:" /> `:family_woman_girl_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f466.png?v7" width="24" height="24" alt=":family_woman_woman_boy:" /> `:family_woman_woman_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f466-1f466.png?v7" width="24" height="24" alt=":family_woman_woman_boy_boy:" /> `:family_woman_woman_boy_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f467.png?v7" width="24" height="24" alt=":family_woman_woman_girl:" /> `:family_woman_woman_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f466.png?v7" width="24" height="24" alt=":family_woman_woman_girl_boy:" /> `:family_woman_woman_girl_boy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f467.png?v7" width="24" height="24" alt=":family_woman_woman_girl_girl:" /> `:family_woman_woman_girl_girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f4.png?v7" width="24" height="24" alt=":faroe_islands:" /> `:faroe_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23e9.png?v7" width="24" height="24" alt=":fast_forward:" /> `:fast_forward:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e0.png?v7" width="24" height="24" alt=":fax:" /> `:fax:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f628.png?v7" width="24" height="24" alt=":fearful:" /> `:fearful:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/feelsgood.png?v7" width="24" height="24" alt=":feelsgood:" /> `:feelsgood:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43e.png?v7" width="24" height="24" alt=":feet:" /> `:feet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f575-2640.png?v7" width="24" height="24" alt=":female_detective:" /> `:female_detective:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a1.png?v7" width="24" height="24" alt=":ferris_wheel:" /> `:ferris_wheel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f4.png?v7" width="24" height="24" alt=":ferry:" /> `:ferry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d1.png?v7" width="24" height="24" alt=":field_hockey:" /> `:field_hockey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1ef.png?v7" width="24" height="24" alt=":fiji:" /> `:fiji:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5c4.png?v7" width="24" height="24" alt=":file_cabinet:" /> `:file_cabinet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c1.png?v7" width="24" height="24" alt=":file_folder:" /> `:file_folder:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fd.png?v7" width="24" height="24" alt=":film_projector:" /> `:film_projector:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f39e.png?v7" width="24" height="24" alt=":film_strip:" /> `:film_strip:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1ee.png?v7" width="24" height="24" alt=":finland:" /> `:finland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/finnadie.png?v7" width="24" height="24" alt=":finnadie:" /> `:finnadie:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png?v7" width="24" height="24" alt=":fire:" /> `:fire:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f692.png?v7" width="24" height="24" alt=":fire_engine:" /> `:fire_engine:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f386.png?v7" width="24" height="24" alt=":fireworks:" /> `:fireworks:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f313.png?v7" width="24" height="24" alt=":first_quarter_moon:" /> `:first_quarter_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31b.png?v7" width="24" height="24" alt=":first_quarter_moon_with_face:" /> `:first_quarter_moon_with_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41f.png?v7" width="24" height="24" alt=":fish:" /> `:fish:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f365.png?v7" width="24" height="24" alt=":fish_cake:" /> `:fish_cake:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a3.png?v7" width="24" height="24" alt=":fishing_pole_and_fish:" /> `:fishing_pole_and_fish:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270a.png?v7" width="24" height="24" alt=":fist:" /> `:fist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f91b.png?v7" width="24" height="24" alt=":fist_left:" /> `:fist_left:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v7" width="24" height="24" alt=":fist_oncoming:" /> `:fist_oncoming:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270a.png?v7" width="24" height="24" alt=":fist_raised:" /> `:fist_raised:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f91c.png?v7" width="24" height="24" alt=":fist_right:" /> `:fist_right:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0035-20e3.png?v7" width="24" height="24" alt=":five:" /> `:five:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f38f.png?v7" width="24" height="24" alt=":flags:" /> `:flags:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f526.png?v7" width="24" height="24" alt=":flashlight:" /> `:flashlight:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/269c.png?v7" width="24" height="24" alt=":fleur_de_lis:" /> `:fleur_de_lis:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ec.png?v7" width="24" height="24" alt=":flight_arrival:" /> `:flight_arrival:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6eb.png?v7" width="24" height="24" alt=":flight_departure:" /> `:flight_departure:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42c.png?v7" width="24" height="24" alt=":flipper:" /> `:flipper:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png?v7" width="24" height="24" alt=":floppy_disk:" /> `:floppy_disk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b4.png?v7" width="24" height="24" alt=":flower_playing_cards:" /> `:flower_playing_cards:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png?v7" width="24" height="24" alt=":flushed:" /> `:flushed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f32b.png?v7" width="24" height="24" alt=":fog:" /> `:fog:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f301.png?v7" width="24" height="24" alt=":foggy:" /> `:foggy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c8.png?v7" width="24" height="24" alt=":football:" /> `:football:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f463.png?v7" width="24" height="24" alt=":footprints:" /> `:footprints:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f374.png?v7" width="24" height="24" alt=":fork_and_knife:" /> `:fork_and_knife:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f2.png?v7" width="24" height="24" alt=":fountain:" /> `:fountain:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f58b.png?v7" width="24" height="24" alt=":fountain_pen:" /> `:fountain_pen:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0034-20e3.png?v7" width="24" height="24" alt=":four:" /> `:four:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f340.png?v7" width="24" height="24" alt=":four_leaf_clover:" /> `:four_leaf_clover:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f98a.png?v7" width="24" height="24" alt=":fox_face:" /> `:fox_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v7" width="24" height="24" alt=":fr:" /> `:fr:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5bc.png?v7" width="24" height="24" alt=":framed_picture:" /> `:framed_picture:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f193.png?v7" width="24" height="24" alt=":free:" /> `:free:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1eb.png?v7" width="24" height="24" alt=":french_guiana:" /> `:french_guiana:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1eb.png?v7" width="24" height="24" alt=":french_polynesia:" /> `:french_polynesia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1eb.png?v7" width="24" height="24" alt=":french_southern_territories:" /> `:french_southern_territories:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f373.png?v7" width="24" height="24" alt=":fried_egg:" /> `:fried_egg:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f364.png?v7" width="24" height="24" alt=":fried_shrimp:" /> `:fried_shrimp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f35f.png?v7" width="24" height="24" alt=":fries:" /> `:fries:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f438.png?v7" width="24" height="24" alt=":frog:" /> `:frog:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f626.png?v7" width="24" height="24" alt=":frowning:" /> `:frowning:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2639.png?v7" width="24" height="24" alt=":frowning_face:" /> `:frowning_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d-2642.png?v7" width="24" height="24" alt=":frowning_man:" /> `:frowning_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d.png?v7" width="24" height="24" alt=":frowning_woman:" /> `:frowning_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f595.png?v7" width="24" height="24" alt=":fu:" /> `:fu:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26fd.png?v7" width="24" height="24" alt=":fuelpump:" /> `:fuelpump:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f315.png?v7" width="24" height="24" alt=":full_moon:" /> `:full_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31d.png?v7" width="24" height="24" alt=":full_moon_with_face:" /> `:full_moon_with_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26b1.png?v7" width="24" height="24" alt=":funeral_urn:" /> `:funeral_urn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e6.png?v7" width="24" height="24" alt=":gabon:" /> `:gabon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f2.png?v7" width="24" height="24" alt=":gambia:" /> `:gambia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v7" width="24" height="24" alt=":game_die:" /> `:game_die:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v7" width="24" height="24" alt=":gb:" /> `:gb:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2699.png?v7" width="24" height="24" alt=":gear:" /> `:gear:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f48e.png?v7" width="24" height="24" alt=":gem:" /> `:gem:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/264a.png?v7" width="24" height="24" alt=":gemini:" /> `:gemini:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ea.png?v7" width="24" height="24" alt=":georgia:" /> `:georgia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ed.png?v7" width="24" height="24" alt=":ghana:" /> `:ghana:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47b.png?v7" width="24" height="24" alt=":ghost:" /> `:ghost:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ee.png?v7" width="24" height="24" alt=":gibraltar:" /> `:gibraltar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f381.png?v7" width="24" height="24" alt=":gift:" /> `:gift:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49d.png?v7" width="24" height="24" alt=":gift_heart:" /> `:gift_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f467.png?v7" width="24" height="24" alt=":girl:" /> `:girl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f310.png?v7" width="24" height="24" alt=":globe_with_meridians:" /> `:globe_with_meridians:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f945.png?v7" width="24" height="24" alt=":goal_net:" /> `:goal_net:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f410.png?v7" width="24" height="24" alt=":goat:" /> `:goat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/goberserk.png?v7" width="24" height="24" alt=":goberserk:" /> `:goberserk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/godmode.png?v7" width="24" height="24" alt=":godmode:" /> `:godmode:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f3.png?v7" width="24" height="24" alt=":golf:" /> `:golf:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cc.png?v7" width="24" height="24" alt=":golfing_man:" /> `:golfing_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cc-2640.png?v7" width="24" height="24" alt=":golfing_woman:" /> `:golfing_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f98d.png?v7" width="24" height="24" alt=":gorilla:" /> `:gorilla:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f347.png?v7" width="24" height="24" alt=":grapes:" /> `:grapes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f7.png?v7" width="24" height="24" alt=":greece:" /> `:greece:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34f.png?v7" width="24" height="24" alt=":green_apple:" /> `:green_apple:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d7.png?v7" width="24" height="24" alt=":green_book:" /> `:green_book:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49a.png?v7" width="24" height="24" alt=":green_heart:" /> `:green_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f957.png?v7" width="24" height="24" alt=":green_salad:" /> `:green_salad:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f1.png?v7" width="24" height="24" alt=":greenland:" /> `:greenland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e9.png?v7" width="24" height="24" alt=":grenada:" /> `:grenada:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2755.png?v7" width="24" height="24" alt=":grey_exclamation:" /> `:grey_exclamation:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2754.png?v7" width="24" height="24" alt=":grey_question:" /> `:grey_question:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62c.png?v7" width="24" height="24" alt=":grimacing:" /> `:grimacing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png?v7" width="24" height="24" alt=":grin:" /> `:grin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png?v7" width="24" height="24" alt=":grinning:" /> `:grinning:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f5.png?v7" width="24" height="24" alt=":guadeloupe:" /> `:guadeloupe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1fa.png?v7" width="24" height="24" alt=":guam:" /> `:guam:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f482.png?v7" width="24" height="24" alt=":guardsman:" /> `:guardsman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f482-2640.png?v7" width="24" height="24" alt=":guardswoman:" /> `:guardswoman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f9.png?v7" width="24" height="24" alt=":guatemala:" /> `:guatemala:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1ec.png?v7" width="24" height="24" alt=":guernsey:" /> `:guernsey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f3.png?v7" width="24" height="24" alt=":guinea:" /> `:guinea:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1fc.png?v7" width="24" height="24" alt=":guinea_bissau:" /> `:guinea_bissau:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b8.png?v7" width="24" height="24" alt=":guitar:" /> `:guitar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52b.png?v7" width="24" height="24" alt=":gun:" /> `:gun:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1fe.png?v7" width="24" height="24" alt=":guyana:" /> `:guyana:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f487.png?v7" width="24" height="24" alt=":haircut:" /> `:haircut:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f487-2642.png?v7" width="24" height="24" alt=":haircut_man:" /> `:haircut_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f487.png?v7" width="24" height="24" alt=":haircut_woman:" /> `:haircut_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f9.png?v7" width="24" height="24" alt=":haiti:" /> `:haiti:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f354.png?v7" width="24" height="24" alt=":hamburger:" /> `:hamburger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f528.png?v7" width="24" height="24" alt=":hammer:" /> `:hammer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2692.png?v7" width="24" height="24" alt=":hammer_and_pick:" /> `:hammer_and_pick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e0.png?v7" width="24" height="24" alt=":hammer_and_wrench:" /> `:hammer_and_wrench:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f439.png?v7" width="24" height="24" alt=":hamster:" /> `:hamster:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270b.png?v7" width="24" height="24" alt=":hand:" /> `:hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45c.png?v7" width="24" height="24" alt=":handbag:" /> `:handbag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f91d.png?v7" width="24" height="24" alt=":handshake:" /> `:handshake:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png?v7" width="24" height="24" alt=":hankey:" /> `:hankey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0023-20e3.png?v7" width="24" height="24" alt=":hash:" /> `:hash:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f425.png?v7" width="24" height="24" alt=":hatched_chick:" /> `:hatched_chick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f423.png?v7" width="24" height="24" alt=":hatching_chick:" /> `:hatching_chick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a7.png?v7" width="24" height="24" alt=":headphones:" /> `:headphones:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f649.png?v7" width="24" height="24" alt=":hear_no_evil:" /> `:hear_no_evil:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png?v7" width="24" height="24" alt=":heart:" /> `:heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49f.png?v7" width="24" height="24" alt=":heart_decoration:" /> `:heart_decoration:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60d.png?v7" width="24" height="24" alt=":heart_eyes:" /> `:heart_eyes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63b.png?v7" width="24" height="24" alt=":heart_eyes_cat:" /> `:heart_eyes_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f493.png?v7" width="24" height="24" alt=":heartbeat:" /> `:heartbeat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f497.png?v7" width="24" height="24" alt=":heartpulse:" /> `:heartpulse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2665.png?v7" width="24" height="24" alt=":hearts:" /> `:hearts:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2714.png?v7" width="24" height="24" alt=":heavy_check_mark:" /> `:heavy_check_mark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2797.png?v7" width="24" height="24" alt=":heavy_division_sign:" /> `:heavy_division_sign:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b2.png?v7" width="24" height="24" alt=":heavy_dollar_sign:" /> `:heavy_dollar_sign:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png?v7" width="24" height="24" alt=":heavy_exclamation_mark:" /> `:heavy_exclamation_mark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2763.png?v7" width="24" height="24" alt=":heavy_heart_exclamation:" /> `:heavy_heart_exclamation:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2796.png?v7" width="24" height="24" alt=":heavy_minus_sign:" /> `:heavy_minus_sign:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2716.png?v7" width="24" height="24" alt=":heavy_multiplication_x:" /> `:heavy_multiplication_x:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2795.png?v7" width="24" height="24" alt=":heavy_plus_sign:" /> `:heavy_plus_sign:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f681.png?v7" width="24" height="24" alt=":helicopter:" /> `:helicopter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33f.png?v7" width="24" height="24" alt=":herb:" /> `:herb:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33a.png?v7" width="24" height="24" alt=":hibiscus:" /> `:hibiscus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f506.png?v7" width="24" height="24" alt=":high_brightness:" /> `:high_brightness:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f460.png?v7" width="24" height="24" alt=":high_heel:" /> `:high_heel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52a.png?v7" width="24" height="24" alt=":hocho:" /> `:hocho:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f573.png?v7" width="24" height="24" alt=":hole:" /> `:hole:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f3.png?v7" width="24" height="24" alt=":honduras:" /> `:honduras:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36f.png?v7" width="24" height="24" alt=":honey_pot:" /> `:honey_pot:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41d.png?v7" width="24" height="24" alt=":honeybee:" /> `:honeybee:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1f0.png?v7" width="24" height="24" alt=":hong_kong:" /> `:hong_kong:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f434.png?v7" width="24" height="24" alt=":horse:" /> `:horse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c7.png?v7" width="24" height="24" alt=":horse_racing:" /> `:horse_racing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e5.png?v7" width="24" height="24" alt=":hospital:" /> `:hospital:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f336.png?v7" width="24" height="24" alt=":hot_pepper:" /> `:hot_pepper:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f32d.png?v7" width="24" height="24" alt=":hotdog:" /> `:hotdog:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e8.png?v7" width="24" height="24" alt=":hotel:" /> `:hotel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2668.png?v7" width="24" height="24" alt=":hotsprings:" /> `:hotsprings:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/231b.png?v7" width="24" height="24" alt=":hourglass:" /> `:hourglass:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23f3.png?v7" width="24" height="24" alt=":hourglass_flowing_sand:" /> `:hourglass_flowing_sand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png?v7" width="24" height="24" alt=":house:" /> `:house:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e1.png?v7" width="24" height="24" alt=":house_with_garden:" /> `:house_with_garden:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d8.png?v7" width="24" height="24" alt=":houses:" /> `:houses:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f917.png?v7" width="24" height="24" alt=":hugs:" /> `:hugs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ed-1f1fa.png?v7" width="24" height="24" alt=":hungary:" /> `:hungary:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/hurtrealbad.png?v7" width="24" height="24" alt=":hurtrealbad:" /> `:hurtrealbad:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62f.png?v7" width="24" height="24" alt=":hushed:" /> `:hushed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f368.png?v7" width="24" height="24" alt=":ice_cream:" /> `:ice_cream:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d2.png?v7" width="24" height="24" alt=":ice_hockey:" /> `:ice_hockey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f8.png?v7" width="24" height="24" alt=":ice_skate:" /> `:ice_skate:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f366.png?v7" width="24" height="24" alt=":icecream:" /> `:icecream:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f8.png?v7" width="24" height="24" alt=":iceland:" /> `:iceland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f194.png?v7" width="24" height="24" alt=":id:" /> `:id:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f250.png?v7" width="24" height="24" alt=":ideograph_advantage:" /> `:ideograph_advantage:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47f.png?v7" width="24" height="24" alt=":imp:" /> `:imp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e5.png?v7" width="24" height="24" alt=":inbox_tray:" /> `:inbox_tray:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e8.png?v7" width="24" height="24" alt=":incoming_envelope:" /> `:incoming_envelope:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v7" width="24" height="24" alt=":india:" /> `:india:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v7" width="24" height="24" alt=":indonesia:" /> `:indonesia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f481.png?v7" width="24" height="24" alt=":information_desk_person:" /> `:information_desk_person:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2139.png?v7" width="24" height="24" alt=":information_source:" /> `:information_source:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png?v7" width="24" height="24" alt=":innocent:" /> `:innocent:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2049.png?v7" width="24" height="24" alt=":interrobang:" /> `:interrobang:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f1.png?v7" width="24" height="24" alt=":iphone:" /> `:iphone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f7.png?v7" width="24" height="24" alt=":iran:" /> `:iran:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f6.png?v7" width="24" height="24" alt=":iraq:" /> `:iraq:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1ea.png?v7" width="24" height="24" alt=":ireland:" /> `:ireland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f2.png?v7" width="24" height="24" alt=":isle_of_man:" /> `:isle_of_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f1.png?v7" width="24" height="24" alt=":israel:" /> `:israel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f9.png?v7" width="24" height="24" alt=":it:" /> `:it:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ee.png?v7" width="24" height="24" alt=":izakaya_lantern:" /> `:izakaya_lantern:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f383.png?v7" width="24" height="24" alt=":jack_o_lantern:" /> `:jack_o_lantern:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f2.png?v7" width="24" height="24" alt=":jamaica:" /> `:jamaica:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fe.png?v7" width="24" height="24" alt=":japan:" /> `:japan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ef.png?v7" width="24" height="24" alt=":japanese_castle:" /> `:japanese_castle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47a.png?v7" width="24" height="24" alt=":japanese_goblin:" /> `:japanese_goblin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f479.png?v7" width="24" height="24" alt=":japanese_ogre:" /> `:japanese_ogre:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f456.png?v7" width="24" height="24" alt=":jeans:" /> `:jeans:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1ea.png?v7" width="24" height="24" alt=":jersey:" /> `:jersey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f4.png?v7" width="24" height="24" alt=":jordan:" /> `:jordan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" width="24" height="24" alt=":joy:" /> `:joy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f639.png?v7" width="24" height="24" alt=":joy_cat:" /> `:joy_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f579.png?v7" width="24" height="24" alt=":joystick:" /> `:joystick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f5.png?v7" width="24" height="24" alt=":jp:" /> `:jp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f54b.png?v7" width="24" height="24" alt=":kaaba:" /> `:kaaba:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ff.png?v7" width="24" height="24" alt=":kazakhstan:" /> `:kazakhstan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ea.png?v7" width="24" height="24" alt=":kenya:" /> `:kenya:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f511.png?v7" width="24" height="24" alt=":key:" /> `:key:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2328.png?v7" width="24" height="24" alt=":keyboard:" /> `:keyboard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f51f.png?v7" width="24" height="24" alt=":keycap_ten:" /> `:keycap_ten:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f4.png?v7" width="24" height="24" alt=":kick_scooter:" /> `:kick_scooter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f458.png?v7" width="24" height="24" alt=":kimono:" /> `:kimono:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ee.png?v7" width="24" height="24" alt=":kiribati:" /> `:kiribati:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f48b.png?v7" width="24" height="24" alt=":kiss:" /> `:kiss:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f617.png?v7" width="24" height="24" alt=":kissing:" /> `:kissing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63d.png?v7" width="24" height="24" alt=":kissing_cat:" /> `:kissing_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61a.png?v7" width="24" height="24" alt=":kissing_closed_eyes:" /> `:kissing_closed_eyes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png?v7" width="24" height="24" alt=":kissing_heart:" /> `:kissing_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f619.png?v7" width="24" height="24" alt=":kissing_smiling_eyes:" /> `:kissing_smiling_eyes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f95d.png?v7" width="24" height="24" alt=":kiwi_fruit:" /> `:kiwi_fruit:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52a.png?v7" width="24" height="24" alt=":knife:" /> `:knife:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f428.png?v7" width="24" height="24" alt=":koala:" /> `:koala:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f201.png?v7" width="24" height="24" alt=":koko:" /> `:koko:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fd-1f1f0.png?v7" width="24" height="24" alt=":kosovo:" /> `:kosovo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f7.png?v7" width="24" height="24" alt=":kr:" /> `:kr:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1fc.png?v7" width="24" height="24" alt=":kuwait:" /> `:kuwait:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1ec.png?v7" width="24" height="24" alt=":kyrgyzstan:" /> `:kyrgyzstan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f7.png?v7" width="24" height="24" alt=":label:" /> `:label:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ee.png?v7" width="24" height="24" alt=":lantern:" /> `:lantern:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1e6.png?v7" width="24" height="24" alt=":laos:" /> `:laos:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f535.png?v7" width="24" height="24" alt=":large_blue_circle:" /> `:large_blue_circle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f537.png?v7" width="24" height="24" alt=":large_blue_diamond:" /> `:large_blue_diamond:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f536.png?v7" width="24" height="24" alt=":large_orange_diamond:" /> `:large_orange_diamond:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f317.png?v7" width="24" height="24" alt=":last_quarter_moon:" /> `:last_quarter_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31c.png?v7" width="24" height="24" alt=":last_quarter_moon_with_face:" /> `:last_quarter_moon_with_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/271d.png?v7" width="24" height="24" alt=":latin_cross:" /> `:latin_cross:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1fb.png?v7" width="24" height="24" alt=":latvia:" /> `:latvia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png?v7" width="24" height="24" alt=":laughing:" /> `:laughing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f343.png?v7" width="24" height="24" alt=":leaves:" /> `:leaves:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1e7.png?v7" width="24" height="24" alt=":lebanon:" /> `:lebanon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d2.png?v7" width="24" height="24" alt=":ledger:" /> `:ledger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c5.png?v7" width="24" height="24" alt=":left_luggage:" /> `:left_luggage:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2194.png?v7" width="24" height="24" alt=":left_right_arrow:" /> `:left_right_arrow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/21a9.png?v7" width="24" height="24" alt=":leftwards_arrow_with_hook:" /> `:leftwards_arrow_with_hook:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34b.png?v7" width="24" height="24" alt=":lemon:" /> `:lemon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/264c.png?v7" width="24" height="24" alt=":leo:" /> `:leo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f406.png?v7" width="24" height="24" alt=":leopard:" /> `:leopard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f8.png?v7" width="24" height="24" alt=":lesotho:" /> `:lesotho:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f39a.png?v7" width="24" height="24" alt=":level_slider:" /> `:level_slider:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f7.png?v7" width="24" height="24" alt=":liberia:" /> `:liberia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/264e.png?v7" width="24" height="24" alt=":libra:" /> `:libra:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1fe.png?v7" width="24" height="24" alt=":libya:" /> `:libya:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1ee.png?v7" width="24" height="24" alt=":liechtenstein:" /> `:liechtenstein:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f688.png?v7" width="24" height="24" alt=":light_rail:" /> `:light_rail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f517.png?v7" width="24" height="24" alt=":link:" /> `:link:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f981.png?v7" width="24" height="24" alt=":lion:" /> `:lion:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f444.png?v7" width="24" height="24" alt=":lips:" /> `:lips:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f484.png?v7" width="24" height="24" alt=":lipstick:" /> `:lipstick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f9.png?v7" width="24" height="24" alt=":lithuania:" /> `:lithuania:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f98e.png?v7" width="24" height="24" alt=":lizard:" /> `:lizard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f512.png?v7" width="24" height="24" alt=":lock:" /> `:lock:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50f.png?v7" width="24" height="24" alt=":lock_with_ink_pen:" /> `:lock_with_ink_pen:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36d.png?v7" width="24" height="24" alt=":lollipop:" /> `:lollipop:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/27bf.png?v7" width="24" height="24" alt=":loop:" /> `:loop:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50a.png?v7" width="24" height="24" alt=":loud_sound:" /> `:loud_sound:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e2.png?v7" width="24" height="24" alt=":loudspeaker:" /> `:loudspeaker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e9.png?v7" width="24" height="24" alt=":love_hotel:" /> `:love_hotel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f48c.png?v7" width="24" height="24" alt=":love_letter:" /> `:love_letter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f505.png?v7" width="24" height="24" alt=":low_brightness:" /> `:low_brightness:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1fa.png?v7" width="24" height="24" alt=":luxembourg:" /> `:luxembourg:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f925.png?v7" width="24" height="24" alt=":lying_face:" /> `:lying_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/24c2.png?v7" width="24" height="24" alt=":m:" /> `:m:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f4.png?v7" width="24" height="24" alt=":macau:" /> `:macau:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f0.png?v7" width="24" height="24" alt=":macedonia:" /> `:macedonia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ec.png?v7" width="24" height="24" alt=":madagascar:" /> `:madagascar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50d.png?v7" width="24" height="24" alt=":mag:" /> `:mag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50e.png?v7" width="24" height="24" alt=":mag_right:" /> `:mag_right:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f004.png?v7" width="24" height="24" alt=":mahjong:" /> `:mahjong:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4eb.png?v7" width="24" height="24" alt=":mailbox:" /> `:mailbox:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ea.png?v7" width="24" height="24" alt=":mailbox_closed:" /> `:mailbox_closed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ec.png?v7" width="24" height="24" alt=":mailbox_with_mail:" /> `:mailbox_with_mail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ed.png?v7" width="24" height="24" alt=":mailbox_with_no_mail:" /> `:mailbox_with_no_mail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fc.png?v7" width="24" height="24" alt=":malawi:" /> `:malawi:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fe.png?v7" width="24" height="24" alt=":malaysia:" /> `:malaysia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fb.png?v7" width="24" height="24" alt=":maldives:" /> `:maldives:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f575.png?v7" width="24" height="24" alt=":male_detective:" /> `:male_detective:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f1.png?v7" width="24" height="24" alt=":mali:" /> `:mali:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f9.png?v7" width="24" height="24" alt=":malta:" /> `:malta:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468.png?v7" width="24" height="24" alt=":man:" /> `:man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3a8.png?v7" width="24" height="24" alt=":man_artist:" /> `:man_artist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f680.png?v7" width="24" height="24" alt=":man_astronaut:" /> `:man_astronaut:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f938-2642.png?v7" width="24" height="24" alt=":man_cartwheeling:" /> `:man_cartwheeling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f373.png?v7" width="24" height="24" alt=":man_cook:" /> `:man_cook:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f57a.png?v7" width="24" height="24" alt=":man_dancing:" /> `:man_dancing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f926-2642.png?v7" width="24" height="24" alt=":man_facepalming:" /> `:man_facepalming:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3ed.png?v7" width="24" height="24" alt=":man_factory_worker:" /> `:man_factory_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f33e.png?v7" width="24" height="24" alt=":man_farmer:" /> `:man_farmer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f692.png?v7" width="24" height="24" alt=":man_firefighter:" /> `:man_firefighter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2695.png?v7" width="24" height="24" alt=":man_health_worker:" /> `:man_health_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f935.png?v7" width="24" height="24" alt=":man_in_tuxedo:" /> `:man_in_tuxedo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2696.png?v7" width="24" height="24" alt=":man_judge:" /> `:man_judge:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f939-2642.png?v7" width="24" height="24" alt=":man_juggling:" /> `:man_juggling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f527.png?v7" width="24" height="24" alt=":man_mechanic:" /> `:man_mechanic:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f4bc.png?v7" width="24" height="24" alt=":man_office_worker:" /> `:man_office_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-2708.png?v7" width="24" height="24" alt=":man_pilot:" /> `:man_pilot:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93e-2642.png?v7" width="24" height="24" alt=":man_playing_handball:" /> `:man_playing_handball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93d-2642.png?v7" width="24" height="24" alt=":man_playing_water_polo:" /> `:man_playing_water_polo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f52c.png?v7" width="24" height="24" alt=":man_scientist:" /> `:man_scientist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f937-2642.png?v7" width="24" height="24" alt=":man_shrugging:" /> `:man_shrugging:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3a4.png?v7" width="24" height="24" alt=":man_singer:" /> `:man_singer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f393.png?v7" width="24" height="24" alt=":man_student:" /> `:man_student:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f3eb.png?v7" width="24" height="24" alt=":man_teacher:" /> `:man_teacher:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f468-1f4bb.png?v7" width="24" height="24" alt=":man_technologist:" /> `:man_technologist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f472.png?v7" width="24" height="24" alt=":man_with_gua_pi_mao:" /> `:man_with_gua_pi_mao:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f473.png?v7" width="24" height="24" alt=":man_with_turban:" /> `:man_with_turban:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v7" width="24" height="24" alt=":mandarin:" /> `:mandarin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45e.png?v7" width="24" height="24" alt=":mans_shoe:" /> `:mans_shoe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f570.png?v7" width="24" height="24" alt=":mantelpiece_clock:" /> `:mantelpiece_clock:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f341.png?v7" width="24" height="24" alt=":maple_leaf:" /> `:maple_leaf:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ed.png?v7" width="24" height="24" alt=":marshall_islands:" /> `:marshall_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f94b.png?v7" width="24" height="24" alt=":martial_arts_uniform:" /> `:martial_arts_uniform:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f6.png?v7" width="24" height="24" alt=":martinique:" /> `:martinique:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f637.png?v7" width="24" height="24" alt=":mask:" /> `:mask:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f486.png?v7" width="24" height="24" alt=":massage:" /> `:massage:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f486-2642.png?v7" width="24" height="24" alt=":massage_man:" /> `:massage_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f486.png?v7" width="24" height="24" alt=":massage_woman:" /> `:massage_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f7.png?v7" width="24" height="24" alt=":mauritania:" /> `:mauritania:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fa.png?v7" width="24" height="24" alt=":mauritius:" /> `:mauritius:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fe-1f1f9.png?v7" width="24" height="24" alt=":mayotte:" /> `:mayotte:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f356.png?v7" width="24" height="24" alt=":meat_on_bone:" /> `:meat_on_bone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f396.png?v7" width="24" height="24" alt=":medal_military:" /> `:medal_military:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c5.png?v7" width="24" height="24" alt=":medal_sports:" /> `:medal_sports:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e3.png?v7" width="24" height="24" alt=":mega:" /> `:mega:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f348.png?v7" width="24" height="24" alt=":melon:" /> `:melon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png?v7" width="24" height="24" alt=":memo:" /> `:memo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93c-2642.png?v7" width="24" height="24" alt=":men_wrestling:" /> `:men_wrestling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f54e.png?v7" width="24" height="24" alt=":menorah:" /> `:menorah:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b9.png?v7" width="24" height="24" alt=":mens:" /> `:mens:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f918.png?v7" width="24" height="24" alt=":metal:" /> `:metal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f687.png?v7" width="24" height="24" alt=":metro:" /> `:metro:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1fd.png?v7" width="24" height="24" alt=":mexico:" /> `:mexico:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f2.png?v7" width="24" height="24" alt=":micronesia:" /> `:micronesia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a4.png?v7" width="24" height="24" alt=":microphone:" /> `:microphone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52c.png?v7" width="24" height="24" alt=":microscope:" /> `:microscope:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f595.png?v7" width="24" height="24" alt=":middle_finger:" /> `:middle_finger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f95b.png?v7" width="24" height="24" alt=":milk_glass:" /> `:milk_glass:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30c.png?v7" width="24" height="24" alt=":milky_way:" /> `:milky_way:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f690.png?v7" width="24" height="24" alt=":minibus:" /> `:minibus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bd.png?v7" width="24" height="24" alt=":minidisc:" /> `:minidisc:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f4.png?v7" width="24" height="24" alt=":mobile_phone_off:" /> `:mobile_phone_off:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1e9.png?v7" width="24" height="24" alt=":moldova:" /> `:moldova:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1e8.png?v7" width="24" height="24" alt=":monaco:" /> `:monaco:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f911.png?v7" width="24" height="24" alt=":money_mouth_face:" /> `:money_mouth_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b8.png?v7" width="24" height="24" alt=":money_with_wings:" /> `:money_with_wings:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b0.png?v7" width="24" height="24" alt=":moneybag:" /> `:moneybag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f3.png?v7" width="24" height="24" alt=":mongolia:" /> `:mongolia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f412.png?v7" width="24" height="24" alt=":monkey:" /> `:monkey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f435.png?v7" width="24" height="24" alt=":monkey_face:" /> `:monkey_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f69d.png?v7" width="24" height="24" alt=":monorail:" /> `:monorail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ea.png?v7" width="24" height="24" alt=":montenegro:" /> `:montenegro:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f8.png?v7" width="24" height="24" alt=":montserrat:" /> `:montserrat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f314.png?v7" width="24" height="24" alt=":moon:" /> `:moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1e6.png?v7" width="24" height="24" alt=":morocco:" /> `:morocco:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png?v7" width="24" height="24" alt=":mortar_board:" /> `:mortar_board:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f54c.png?v7" width="24" height="24" alt=":mosque:" /> `:mosque:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e5.png?v7" width="24" height="24" alt=":motor_boat:" /> `:motor_boat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f5.png?v7" width="24" height="24" alt=":motor_scooter:" /> `:motor_scooter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cd.png?v7" width="24" height="24" alt=":motorcycle:" /> `:motorcycle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e3.png?v7" width="24" height="24" alt=":motorway:" /> `:motorway:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fb.png?v7" width="24" height="24" alt=":mount_fuji:" /> `:mount_fuji:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f0.png?v7" width="24" height="24" alt=":mountain:" /> `:mountain:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5.png?v7" width="24" height="24" alt=":mountain_bicyclist:" /> `:mountain_bicyclist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5.png?v7" width="24" height="24" alt=":mountain_biking_man:" /> `:mountain_biking_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b5-2640.png?v7" width="24" height="24" alt=":mountain_biking_woman:" /> `:mountain_biking_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a0.png?v7" width="24" height="24" alt=":mountain_cableway:" /> `:mountain_cableway:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f69e.png?v7" width="24" height="24" alt=":mountain_railway:" /> `:mountain_railway:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d4.png?v7" width="24" height="24" alt=":mountain_snow:" /> `:mountain_snow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42d.png?v7" width="24" height="24" alt=":mouse:" /> `:mouse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f401.png?v7" width="24" height="24" alt=":mouse2:" /> `:mouse2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a5.png?v7" width="24" height="24" alt=":movie_camera:" /> `:movie_camera:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5ff.png?v7" width="24" height="24" alt=":moyai:" /> `:moyai:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1ff.png?v7" width="24" height="24" alt=":mozambique:" /> `:mozambique:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f936.png?v7" width="24" height="24" alt=":mrs_claus:" /> `:mrs_claus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4aa.png?v7" width="24" height="24" alt=":muscle:" /> `:muscle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f344.png?v7" width="24" height="24" alt=":mushroom:" /> `:mushroom:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b9.png?v7" width="24" height="24" alt=":musical_keyboard:" /> `:musical_keyboard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b5.png?v7" width="24" height="24" alt=":musical_note:" /> `:musical_note:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bc.png?v7" width="24" height="24" alt=":musical_score:" /> `:musical_score:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f507.png?v7" width="24" height="24" alt=":mute:" /> `:mute:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f2.png?v7" width="24" height="24" alt=":myanmar:" /> `:myanmar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f485.png?v7" width="24" height="24" alt=":nail_care:" /> `:nail_care:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4db.png?v7" width="24" height="24" alt=":name_badge:" /> `:name_badge:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1e6.png?v7" width="24" height="24" alt=":namibia:" /> `:namibia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3de.png?v7" width="24" height="24" alt=":national_park:" /> `:national_park:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f7.png?v7" width="24" height="24" alt=":nauru:" /> `:nauru:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f922.png?v7" width="24" height="24" alt=":nauseated_face:" /> `:nauseated_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/neckbeard.png?v7" width="24" height="24" alt=":neckbeard:" /> `:neckbeard:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f454.png?v7" width="24" height="24" alt=":necktie:" /> `:necktie:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/274e.png?v7" width="24" height="24" alt=":negative_squared_cross_mark:" /> `:negative_squared_cross_mark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f5.png?v7" width="24" height="24" alt=":nepal:" /> `:nepal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f913.png?v7" width="24" height="24" alt=":nerd_face:" /> `:nerd_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f1.png?v7" width="24" height="24" alt=":netherlands:" /> `:netherlands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f610.png?v7" width="24" height="24" alt=":neutral_face:" /> `:neutral_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f195.png?v7" width="24" height="24" alt=":new:" /> `:new:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1e8.png?v7" width="24" height="24" alt=":new_caledonia:" /> `:new_caledonia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f311.png?v7" width="24" height="24" alt=":new_moon:" /> `:new_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" width="24" height="24" alt=":new_moon_with_face:" /> `:new_moon_with_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ff.png?v7" width="24" height="24" alt=":new_zealand:" /> `:new_zealand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f0.png?v7" width="24" height="24" alt=":newspaper:" /> `:newspaper:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5de.png?v7" width="24" height="24" alt=":newspaper_roll:" /> `:newspaper_roll:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23ed.png?v7" width="24" height="24" alt=":next_track_button:" /> `:next_track_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f196.png?v7" width="24" height="24" alt=":ng:" /> `:ng:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f645-2642.png?v7" width="24" height="24" alt=":ng_man:" /> `:ng_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v7" width="24" height="24" alt=":ng_woman:" /> `:ng_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ee.png?v7" width="24" height="24" alt=":nicaragua:" /> `:nicaragua:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ea.png?v7" width="24" height="24" alt=":niger:" /> `:niger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1ec.png?v7" width="24" height="24" alt=":nigeria:" /> `:nigeria:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f303.png?v7" width="24" height="24" alt=":night_with_stars:" /> `:night_with_stars:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0039-20e3.png?v7" width="24" height="24" alt=":nine:" /> `:nine:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1fa.png?v7" width="24" height="24" alt=":niue:" /> `:niue:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f515.png?v7" width="24" height="24" alt=":no_bell:" /> `:no_bell:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b3.png?v7" width="24" height="24" alt=":no_bicycles:" /> `:no_bicycles:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26d4.png?v7" width="24" height="24" alt=":no_entry:" /> `:no_entry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ab.png?v7" width="24" height="24" alt=":no_entry_sign:" /> `:no_entry_sign:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v7" width="24" height="24" alt=":no_good:" /> `:no_good:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f645-2642.png?v7" width="24" height="24" alt=":no_good_man:" /> `:no_good_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f645.png?v7" width="24" height="24" alt=":no_good_woman:" /> `:no_good_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f5.png?v7" width="24" height="24" alt=":no_mobile_phones:" /> `:no_mobile_phones:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f636.png?v7" width="24" height="24" alt=":no_mouth:" /> `:no_mouth:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b7.png?v7" width="24" height="24" alt=":no_pedestrians:" /> `:no_pedestrians:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ad.png?v7" width="24" height="24" alt=":no_smoking:" /> `:no_smoking:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b1.png?v7" width="24" height="24" alt=":non-potable_water:" /> `:non-potable_water:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1eb.png?v7" width="24" height="24" alt=":norfolk_island:" /> `:norfolk_island:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f5.png?v7" width="24" height="24" alt=":north_korea:" /> `:north_korea:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f2-1f1f5.png?v7" width="24" height="24" alt=":northern_mariana_islands:" /> `:northern_mariana_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f3-1f1f4.png?v7" width="24" height="24" alt=":norway:" /> `:norway:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f443.png?v7" width="24" height="24" alt=":nose:" /> `:nose:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d3.png?v7" width="24" height="24" alt=":notebook:" /> `:notebook:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d4.png?v7" width="24" height="24" alt=":notebook_with_decorative_cover:" /> `:notebook_with_decorative_cover:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b6.png?v7" width="24" height="24" alt=":notes:" /> `:notes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f529.png?v7" width="24" height="24" alt=":nut_and_bolt:" /> `:nut_and_bolt:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b55.png?v7" width="24" height="24" alt=":o:" /> `:o:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f17e.png?v7" width="24" height="24" alt=":o2:" /> `:o2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30a.png?v7" width="24" height="24" alt=":ocean:" /> `:ocean:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png?v7" width="24" height="24" alt=":octocat:" /> `:octocat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f419.png?v7" width="24" height="24" alt=":octopus:" /> `:octopus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f362.png?v7" width="24" height="24" alt=":oden:" /> `:oden:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e2.png?v7" width="24" height="24" alt=":office:" /> `:office:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e2.png?v7" width="24" height="24" alt=":oil_drum:" /> `:oil_drum:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f197.png?v7" width="24" height="24" alt=":ok:" /> `:ok:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44c.png?v7" width="24" height="24" alt=":ok_hand:" /> `:ok_hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f646-2642.png?v7" width="24" height="24" alt=":ok_man:" /> `:ok_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f646.png?v7" width="24" height="24" alt=":ok_woman:" /> `:ok_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5dd.png?v7" width="24" height="24" alt=":old_key:" /> `:old_key:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f474.png?v7" width="24" height="24" alt=":older_man:" /> `:older_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f475.png?v7" width="24" height="24" alt=":older_woman:" /> `:older_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f549.png?v7" width="24" height="24" alt=":om:" /> `:om:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f4-1f1f2.png?v7" width="24" height="24" alt=":oman:" /> `:oman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f51b.png?v7" width="24" height="24" alt=":on:" /> `:on:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f698.png?v7" width="24" height="24" alt=":oncoming_automobile:" /> `:oncoming_automobile:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f68d.png?v7" width="24" height="24" alt=":oncoming_bus:" /> `:oncoming_bus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f694.png?v7" width="24" height="24" alt=":oncoming_police_car:" /> `:oncoming_police_car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f696.png?v7" width="24" height="24" alt=":oncoming_taxi:" /> `:oncoming_taxi:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0031-20e3.png?v7" width="24" height="24" alt=":one:" /> `:one:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png?v7" width="24" height="24" alt=":open_book:" /> `:open_book:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c2.png?v7" width="24" height="24" alt=":open_file_folder:" /> `:open_file_folder:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f450.png?v7" width="24" height="24" alt=":open_hands:" /> `:open_hands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62e.png?v7" width="24" height="24" alt=":open_mouth:" /> `:open_mouth:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2602.png?v7" width="24" height="24" alt=":open_umbrella:" /> `:open_umbrella:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26ce.png?v7" width="24" height="24" alt=":ophiuchus:" /> `:ophiuchus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v7" width="24" height="24" alt=":orange:" /> `:orange:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d9.png?v7" width="24" height="24" alt=":orange_book:" /> `:orange_book:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2626.png?v7" width="24" height="24" alt=":orthodox_cross:" /> `:orthodox_cross:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e4.png?v7" width="24" height="24" alt=":outbox_tray:" /> `:outbox_tray:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f989.png?v7" width="24" height="24" alt=":owl:" /> `:owl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f402.png?v7" width="24" height="24" alt=":ox:" /> `:ox:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png?v7" width="24" height="24" alt=":package:" /> `:package:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c4.png?v7" width="24" height="24" alt=":page_facing_up:" /> `:page_facing_up:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c3.png?v7" width="24" height="24" alt=":page_with_curl:" /> `:page_with_curl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4df.png?v7" width="24" height="24" alt=":pager:" /> `:pager:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f58c.png?v7" width="24" height="24" alt=":paintbrush:" /> `:paintbrush:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f0.png?v7" width="24" height="24" alt=":pakistan:" /> `:pakistan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1fc.png?v7" width="24" height="24" alt=":palau:" /> `:palau:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f8.png?v7" width="24" height="24" alt=":palestinian_territories:" /> `:palestinian_territories:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f334.png?v7" width="24" height="24" alt=":palm_tree:" /> `:palm_tree:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1e6.png?v7" width="24" height="24" alt=":panama:" /> `:panama:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f95e.png?v7" width="24" height="24" alt=":pancakes:" /> `:pancakes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43c.png?v7" width="24" height="24" alt=":panda_face:" /> `:panda_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ce.png?v7" width="24" height="24" alt=":paperclip:" /> `:paperclip:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f587.png?v7" width="24" height="24" alt=":paperclips:" /> `:paperclips:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1ec.png?v7" width="24" height="24" alt=":papua_new_guinea:" /> `:papua_new_guinea:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1fe.png?v7" width="24" height="24" alt=":paraguay:" /> `:paraguay:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f1.png?v7" width="24" height="24" alt=":parasol_on_ground:" /> `:parasol_on_ground:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f17f.png?v7" width="24" height="24" alt=":parking:" /> `:parking:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/303d.png?v7" width="24" height="24" alt=":part_alternation_mark:" /> `:part_alternation_mark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26c5.png?v7" width="24" height="24" alt=":partly_sunny:" /> `:partly_sunny:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6f3.png?v7" width="24" height="24" alt=":passenger_ship:" /> `:passenger_ship:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6c2.png?v7" width="24" height="24" alt=":passport_control:" /> `:passport_control:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23f8.png?v7" width="24" height="24" alt=":pause_button:" /> `:pause_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43e.png?v7" width="24" height="24" alt=":paw_prints:" /> `:paw_prints:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/262e.png?v7" width="24" height="24" alt=":peace_symbol:" /> `:peace_symbol:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f351.png?v7" width="24" height="24" alt=":peach:" /> `:peach:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f95c.png?v7" width="24" height="24" alt=":peanuts:" /> `:peanuts:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f350.png?v7" width="24" height="24" alt=":pear:" /> `:pear:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f58a.png?v7" width="24" height="24" alt=":pen:" /> `:pen:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png?v7" width="24" height="24" alt=":pencil:" /> `:pencil:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270f.png?v7" width="24" height="24" alt=":pencil2:" /> `:pencil2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f427.png?v7" width="24" height="24" alt=":penguin:" /> `:penguin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f614.png?v7" width="24" height="24" alt=":pensive:" /> `:pensive:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ad.png?v7" width="24" height="24" alt=":performing_arts:" /> `:performing_arts:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f623.png?v7" width="24" height="24" alt=":persevere:" /> `:persevere:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93a.png?v7" width="24" height="24" alt=":person_fencing:" /> `:person_fencing:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64d.png?v7" width="24" height="24" alt=":person_frowning:" /> `:person_frowning:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f471.png?v7" width="24" height="24" alt=":person_with_blond_hair:" /> `:person_with_blond_hair:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64e.png?v7" width="24" height="24" alt=":person_with_pouting_face:" /> `:person_with_pouting_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1ea.png?v7" width="24" height="24" alt=":peru:" /> `:peru:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1ed.png?v7" width="24" height="24" alt=":philippines:" /> `:philippines:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/260e.png?v7" width="24" height="24" alt=":phone:" /> `:phone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26cf.png?v7" width="24" height="24" alt=":pick:" /> `:pick:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f437.png?v7" width="24" height="24" alt=":pig:" /> `:pig:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f416.png?v7" width="24" height="24" alt=":pig2:" /> `:pig2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43d.png?v7" width="24" height="24" alt=":pig_nose:" /> `:pig_nose:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f48a.png?v7" width="24" height="24" alt=":pill:" /> `:pill:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34d.png?v7" width="24" height="24" alt=":pineapple:" /> `:pineapple:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d3.png?v7" width="24" height="24" alt=":ping_pong:" /> `:ping_pong:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2653.png?v7" width="24" height="24" alt=":pisces:" /> `:pisces:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f3.png?v7" width="24" height="24" alt=":pitcairn_islands:" /> `:pitcairn_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f355.png?v7" width="24" height="24" alt=":pizza:" /> `:pizza:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6d0.png?v7" width="24" height="24" alt=":place_of_worship:" /> `:place_of_worship:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37d.png?v7" width="24" height="24" alt=":plate_with_cutlery:" /> `:plate_with_cutlery:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23ef.png?v7" width="24" height="24" alt=":play_or_pause_button:" /> `:play_or_pause_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f447.png?v7" width="24" height="24" alt=":point_down:" /> `:point_down:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f448.png?v7" width="24" height="24" alt=":point_left:" /> `:point_left:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png?v7" width="24" height="24" alt=":point_right:" /> `:point_right:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png?v7" width="24" height="24" alt=":point_up:" /> `:point_up:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f446.png?v7" width="24" height="24" alt=":point_up_2:" /> `:point_up_2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f1.png?v7" width="24" height="24" alt=":poland:" /> `:poland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f693.png?v7" width="24" height="24" alt=":police_car:" /> `:police_car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46e.png?v7" width="24" height="24" alt=":policeman:" /> `:policeman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46e-2640.png?v7" width="24" height="24" alt=":policewoman:" /> `:policewoman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f429.png?v7" width="24" height="24" alt=":poodle:" /> `:poodle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png?v7" width="24" height="24" alt=":poop:" /> `:poop:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37f.png?v7" width="24" height="24" alt=":popcorn:" /> `:popcorn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f9.png?v7" width="24" height="24" alt=":portugal:" /> `:portugal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e3.png?v7" width="24" height="24" alt=":post_office:" /> `:post_office:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ef.png?v7" width="24" height="24" alt=":postal_horn:" /> `:postal_horn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ee.png?v7" width="24" height="24" alt=":postbox:" /> `:postbox:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b0.png?v7" width="24" height="24" alt=":potable_water:" /> `:potable_water:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f954.png?v7" width="24" height="24" alt=":potato:" /> `:potato:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45d.png?v7" width="24" height="24" alt=":pouch:" /> `:pouch:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f357.png?v7" width="24" height="24" alt=":poultry_leg:" /> `:poultry_leg:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b7.png?v7" width="24" height="24" alt=":pound:" /> `:pound:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f621.png?v7" width="24" height="24" alt=":pout:" /> `:pout:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63e.png?v7" width="24" height="24" alt=":pouting_cat:" /> `:pouting_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64e-2642.png?v7" width="24" height="24" alt=":pouting_man:" /> `:pouting_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64e.png?v7" width="24" height="24" alt=":pouting_woman:" /> `:pouting_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64f.png?v7" width="24" height="24" alt=":pray:" /> `:pray:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ff.png?v7" width="24" height="24" alt=":prayer_beads:" /> `:prayer_beads:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f930.png?v7" width="24" height="24" alt=":pregnant_woman:" /> `:pregnant_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23ee.png?v7" width="24" height="24" alt=":previous_track_button:" /> `:previous_track_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f934.png?v7" width="24" height="24" alt=":prince:" /> `:prince:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f478.png?v7" width="24" height="24" alt=":princess:" /> `:princess:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5a8.png?v7" width="24" height="24" alt=":printer:" /> `:printer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f7.png?v7" width="24" height="24" alt=":puerto_rico:" /> `:puerto_rico:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44a.png?v7" width="24" height="24" alt=":punch:" /> `:punch:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49c.png?v7" width="24" height="24" alt=":purple_heart:" /> `:purple_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45b.png?v7" width="24" height="24" alt=":purse:" /> `:purse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cc.png?v7" width="24" height="24" alt=":pushpin:" /> `:pushpin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ae.png?v7" width="24" height="24" alt=":put_litter_in_its_place:" /> `:put_litter_in_its_place:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f6-1f1e6.png?v7" width="24" height="24" alt=":qatar:" /> `:qatar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2753.png?v7" width="24" height="24" alt=":question:" /> `:question:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f430.png?v7" width="24" height="24" alt=":rabbit:" /> `:rabbit:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f407.png?v7" width="24" height="24" alt=":rabbit2:" /> `:rabbit2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f40e.png?v7" width="24" height="24" alt=":racehorse:" /> `:racehorse:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ce.png?v7" width="24" height="24" alt=":racing_car:" /> `:racing_car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fb.png?v7" width="24" height="24" alt=":radio:" /> `:radio:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f518.png?v7" width="24" height="24" alt=":radio_button:" /> `:radio_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2622.png?v7" width="24" height="24" alt=":radioactive:" /> `:radioactive:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f621.png?v7" width="24" height="24" alt=":rage:" /> `:rage:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/rage1.png?v7" width="24" height="24" alt=":rage1:" /> `:rage1:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/rage2.png?v7" width="24" height="24" alt=":rage2:" /> `:rage2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/rage3.png?v7" width="24" height="24" alt=":rage3:" /> `:rage3:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/rage4.png?v7" width="24" height="24" alt=":rage4:" /> `:rage4:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f683.png?v7" width="24" height="24" alt=":railway_car:" /> `:railway_car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e4.png?v7" width="24" height="24" alt=":railway_track:" /> `:railway_track:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f308.png?v7" width="24" height="24" alt=":rainbow:" /> `:rainbow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f3-1f308.png?v7" width="24" height="24" alt=":rainbow_flag:" /> `:rainbow_flag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f91a.png?v7" width="24" height="24" alt=":raised_back_of_hand:" /> `:raised_back_of_hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270b.png?v7" width="24" height="24" alt=":raised_hand:" /> `:raised_hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f590.png?v7" width="24" height="24" alt=":raised_hand_with_fingers_splayed:" /> `:raised_hand_with_fingers_splayed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png?v7" width="24" height="24" alt=":raised_hands:" /> `:raised_hands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b.png?v7" width="24" height="24" alt=":raising_hand:" /> `:raising_hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b-2642.png?v7" width="24" height="24" alt=":raising_hand_man:" /> `:raising_hand_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b.png?v7" width="24" height="24" alt=":raising_hand_woman:" /> `:raising_hand_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f40f.png?v7" width="24" height="24" alt=":ram:" /> `:ram:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f35c.png?v7" width="24" height="24" alt=":ramen:" /> `:ramen:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f400.png?v7" width="24" height="24" alt=":rat:" /> `:rat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23fa.png?v7" width="24" height="24" alt=":record_button:" /> `:record_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/267b.png?v7" width="24" height="24" alt=":recycle:" /> `:recycle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f697.png?v7" width="24" height="24" alt=":red_car:" /> `:red_car:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png?v7" width="24" height="24" alt=":red_circle:" /> `:red_circle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/00ae.png?v7" width="24" height="24" alt=":registered:" /> `:registered:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/263a.png?v7" width="24" height="24" alt=":relaxed:" /> `:relaxed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60c.png?v7" width="24" height="24" alt=":relieved:" /> `:relieved:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f397.png?v7" width="24" height="24" alt=":reminder_ribbon:" /> `:reminder_ribbon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f501.png?v7" width="24" height="24" alt=":repeat:" /> `:repeat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f502.png?v7" width="24" height="24" alt=":repeat_one:" /> `:repeat_one:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26d1.png?v7" width="24" height="24" alt=":rescue_worker_helmet:" /> `:rescue_worker_helmet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bb.png?v7" width="24" height="24" alt=":restroom:" /> `:restroom:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1ea.png?v7" width="24" height="24" alt=":reunion:" /> `:reunion:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49e.png?v7" width="24" height="24" alt=":revolving_hearts:" /> `:revolving_hearts:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23ea.png?v7" width="24" height="24" alt=":rewind:" /> `:rewind:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f98f.png?v7" width="24" height="24" alt=":rhinoceros:" /> `:rhinoceros:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f380.png?v7" width="24" height="24" alt=":ribbon:" /> `:ribbon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f35a.png?v7" width="24" height="24" alt=":rice:" /> `:rice:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f359.png?v7" width="24" height="24" alt=":rice_ball:" /> `:rice_ball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f358.png?v7" width="24" height="24" alt=":rice_cracker:" /> `:rice_cracker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f391.png?v7" width="24" height="24" alt=":rice_scene:" /> `:rice_scene:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5ef.png?v7" width="24" height="24" alt=":right_anger_bubble:" /> `:right_anger_bubble:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f48d.png?v7" width="24" height="24" alt=":ring:" /> `:ring:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png?v7" width="24" height="24" alt=":robot:" /> `:robot:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png?v7" width="24" height="24" alt=":rocket:" /> `:rocket:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f923.png?v7" width="24" height="24" alt=":rofl:" /> `:rofl:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f644.png?v7" width="24" height="24" alt=":roll_eyes:" /> `:roll_eyes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a2.png?v7" width="24" height="24" alt=":roller_coaster:" /> `:roller_coaster:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1f4.png?v7" width="24" height="24" alt=":romania:" /> `:romania:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f413.png?v7" width="24" height="24" alt=":rooster:" /> `:rooster:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f339.png?v7" width="24" height="24" alt=":rose:" /> `:rose:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f5.png?v7" width="24" height="24" alt=":rosette:" /> `:rosette:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a8.png?v7" width="24" height="24" alt=":rotating_light:" /> `:rotating_light:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cd.png?v7" width="24" height="24" alt=":round_pushpin:" /> `:round_pushpin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a3.png?v7" width="24" height="24" alt=":rowboat:" /> `:rowboat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a3.png?v7" width="24" height="24" alt=":rowing_man:" /> `:rowing_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a3-2640.png?v7" width="24" height="24" alt=":rowing_woman:" /> `:rowing_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1fa.png?v7" width="24" height="24" alt=":ru:" /> `:ru:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c9.png?v7" width="24" height="24" alt=":rugby_football:" /> `:rugby_football:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3.png?v7" width="24" height="24" alt=":runner:" /> `:runner:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3.png?v7" width="24" height="24" alt=":running:" /> `:running:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3.png?v7" width="24" height="24" alt=":running_man:" /> `:running_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bd.png?v7" width="24" height="24" alt=":running_shirt_with_sash:" /> `:running_shirt_with_sash:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c3-2640.png?v7" width="24" height="24" alt=":running_woman:" /> `:running_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v7" width="24" height="24" alt=":rwanda:" /> `:rwanda:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f202.png?v7" width="24" height="24" alt=":sa:" /> `:sa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2650.png?v7" width="24" height="24" alt=":sagittarius:" /> `:sagittarius:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f5.png?v7" width="24" height="24" alt=":sailboat:" /> `:sailboat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f376.png?v7" width="24" height="24" alt=":sake:" /> `:sake:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fc-1f1f8.png?v7" width="24" height="24" alt=":samoa:" /> `:samoa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f2.png?v7" width="24" height="24" alt=":san_marino:" /> `:san_marino:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f461.png?v7" width="24" height="24" alt=":sandal:" /> `:sandal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f385.png?v7" width="24" height="24" alt=":santa:" /> `:santa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f9.png?v7" width="24" height="24" alt=":sao_tome_principe:" /> `:sao_tome_principe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e1.png?v7" width="24" height="24" alt=":satellite:" /> `:satellite:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png?v7" width="24" height="24" alt=":satisfied:" /> `:satisfied:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e6.png?v7" width="24" height="24" alt=":saudi_arabia:" /> `:saudi_arabia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b7.png?v7" width="24" height="24" alt=":saxophone:" /> `:saxophone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3eb.png?v7" width="24" height="24" alt=":school:" /> `:school:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f392.png?v7" width="24" height="24" alt=":school_satchel:" /> `:school_satchel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2702.png?v7" width="24" height="24" alt=":scissors:" /> `:scissors:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f982.png?v7" width="24" height="24" alt=":scorpion:" /> `:scorpion:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/264f.png?v7" width="24" height="24" alt=":scorpius:" /> `:scorpius:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f631.png?v7" width="24" height="24" alt=":scream:" /> `:scream:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f640.png?v7" width="24" height="24" alt=":scream_cat:" /> `:scream_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dc.png?v7" width="24" height="24" alt=":scroll:" /> `:scroll:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ba.png?v7" width="24" height="24" alt=":seat:" /> `:seat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/3299.png?v7" width="24" height="24" alt=":secret:" /> `:secret:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f648.png?v7" width="24" height="24" alt=":see_no_evil:" /> `:see_no_evil:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f331.png?v7" width="24" height="24" alt=":seedling:" /> `:seedling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f933.png?v7" width="24" height="24" alt=":selfie:" /> `:selfie:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f3.png?v7" width="24" height="24" alt=":senegal:" /> `:senegal:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1f8.png?v7" width="24" height="24" alt=":serbia:" /> `:serbia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0037-20e3.png?v7" width="24" height="24" alt=":seven:" /> `:seven:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e8.png?v7" width="24" height="24" alt=":seychelles:" /> `:seychelles:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f958.png?v7" width="24" height="24" alt=":shallow_pan_of_food:" /> `:shallow_pan_of_food:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2618.png?v7" width="24" height="24" alt=":shamrock:" /> `:shamrock:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f988.png?v7" width="24" height="24" alt=":shark:" /> `:shark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f367.png?v7" width="24" height="24" alt=":shaved_ice:" /> `:shaved_ice:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f411.png?v7" width="24" height="24" alt=":sheep:" /> `:sheep:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41a.png?v7" width="24" height="24" alt=":shell:" /> `:shell:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e1.png?v7" width="24" height="24" alt=":shield:" /> `:shield:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26e9.png?v7" width="24" height="24" alt=":shinto_shrine:" /> `:shinto_shrine:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a2.png?v7" width="24" height="24" alt=":ship:" /> `:ship:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/shipit.png?v7" width="24" height="24" alt=":shipit:" /> `:shipit:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f455.png?v7" width="24" height="24" alt=":shirt:" /> `:shirt:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a9.png?v7" width="24" height="24" alt=":shit:" /> `:shit:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45e.png?v7" width="24" height="24" alt=":shoe:" /> `:shoe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cd.png?v7" width="24" height="24" alt=":shopping:" /> `:shopping:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6d2.png?v7" width="24" height="24" alt=":shopping_cart:" /> `:shopping_cart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bf.png?v7" width="24" height="24" alt=":shower:" /> `:shower:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f990.png?v7" width="24" height="24" alt=":shrimp:" /> `:shrimp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f1.png?v7" width="24" height="24" alt=":sierra_leone:" /> `:sierra_leone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f6.png?v7" width="24" height="24" alt=":signal_strength:" /> `:signal_strength:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ec.png?v7" width="24" height="24" alt=":singapore:" /> `:singapore:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1fd.png?v7" width="24" height="24" alt=":sint_maarten:" /> `:sint_maarten:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0036-20e3.png?v7" width="24" height="24" alt=":six:" /> `:six:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52f.png?v7" width="24" height="24" alt=":six_pointed_star:" /> `:six_pointed_star:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bf.png?v7" width="24" height="24" alt=":ski:" /> `:ski:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26f7.png?v7" width="24" height="24" alt=":skier:" /> `:skier:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f480.png?v7" width="24" height="24" alt=":skull:" /> `:skull:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2620.png?v7" width="24" height="24" alt=":skull_and_crossbones:" /> `:skull_and_crossbones:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f634.png?v7" width="24" height="24" alt=":sleeping:" /> `:sleeping:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6cc.png?v7" width="24" height="24" alt=":sleeping_bed:" /> `:sleeping_bed:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62a.png?v7" width="24" height="24" alt=":sleepy:" /> `:sleepy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f641.png?v7" width="24" height="24" alt=":slightly_frowning_face:" /> `:slightly_frowning_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f642.png?v7" width="24" height="24" alt=":slightly_smiling_face:" /> `:slightly_smiling_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b0.png?v7" width="24" height="24" alt=":slot_machine:" /> `:slot_machine:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f0.png?v7" width="24" height="24" alt=":slovakia:" /> `:slovakia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ee.png?v7" width="24" height="24" alt=":slovenia:" /> `:slovenia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6e9.png?v7" width="24" height="24" alt=":small_airplane:" /> `:small_airplane:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f539.png?v7" width="24" height="24" alt=":small_blue_diamond:" /> `:small_blue_diamond:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f538.png?v7" width="24" height="24" alt=":small_orange_diamond:" /> `:small_orange_diamond:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f53a.png?v7" width="24" height="24" alt=":small_red_triangle:" /> `:small_red_triangle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f53b.png?v7" width="24" height="24" alt=":small_red_triangle_down:" /> `:small_red_triangle_down:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png?v7" width="24" height="24" alt=":smile:" /> `:smile:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f638.png?v7" width="24" height="24" alt=":smile_cat:" /> `:smile_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png?v7" width="24" height="24" alt=":smiley:" /> `:smiley:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63a.png?v7" width="24" height="24" alt=":smiley_cat:" /> `:smiley_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f608.png?v7" width="24" height="24" alt=":smiling_imp:" /> `:smiling_imp:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60f.png?v7" width="24" height="24" alt=":smirk:" /> `:smirk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png?v7" width="24" height="24" alt=":smirk_cat:" /> `:smirk_cat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ac.png?v7" width="24" height="24" alt=":smoking:" /> `:smoking:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f40c.png?v7" width="24" height="24" alt=":snail:" /> `:snail:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f40d.png?v7" width="24" height="24" alt=":snake:" /> `:snake:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f927.png?v7" width="24" height="24" alt=":sneezing_face:" /> `:sneezing_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c2.png?v7" width="24" height="24" alt=":snowboarder:" /> `:snowboarder:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2744.png?v7" width="24" height="24" alt=":snowflake:" /> `:snowflake:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26c4.png?v7" width="24" height="24" alt=":snowman:" /> `:snowman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2603.png?v7" width="24" height="24" alt=":snowman_with_snow:" /> `:snowman_with_snow:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png?v7" width="24" height="24" alt=":sob:" /> `:sob:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26bd.png?v7" width="24" height="24" alt=":soccer:" /> `:soccer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e7.png?v7" width="24" height="24" alt=":solomon_islands:" /> `:solomon_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f4.png?v7" width="24" height="24" alt=":somalia:" /> `:somalia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f51c.png?v7" width="24" height="24" alt=":soon:" /> `:soon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f198.png?v7" width="24" height="24" alt=":sos:" /> `:sos:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f509.png?v7" width="24" height="24" alt=":sound:" /> `:sound:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ff-1f1e6.png?v7" width="24" height="24" alt=":south_africa:" /> `:south_africa:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1f8.png?v7" width="24" height="24" alt=":south_georgia_south_sandwich_islands:" /> `:south_georgia_south_sandwich_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f8.png?v7" width="24" height="24" alt=":south_sudan:" /> `:south_sudan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47e.png?v7" width="24" height="24" alt=":space_invader:" /> `:space_invader:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2660.png?v7" width="24" height="24" alt=":spades:" /> `:spades:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f35d.png?v7" width="24" height="24" alt=":spaghetti:" /> `:spaghetti:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2747.png?v7" width="24" height="24" alt=":sparkle:" /> `:sparkle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f387.png?v7" width="24" height="24" alt=":sparkler:" /> `:sparkler:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png?v7" width="24" height="24" alt=":sparkles:" /> `:sparkles:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f496.png?v7" width="24" height="24" alt=":sparkling_heart:" /> `:sparkling_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64a.png?v7" width="24" height="24" alt=":speak_no_evil:" /> `:speak_no_evil:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f508.png?v7" width="24" height="24" alt=":speaker:" /> `:speaker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5e3.png?v7" width="24" height="24" alt=":speaking_head:" /> `:speaking_head:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ac.png?v7" width="24" height="24" alt=":speech_balloon:" /> `:speech_balloon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a4.png?v7" width="24" height="24" alt=":speedboat:" /> `:speedboat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f577.png?v7" width="24" height="24" alt=":spider:" /> `:spider:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f578.png?v7" width="24" height="24" alt=":spider_web:" /> `:spider_web:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5d3.png?v7" width="24" height="24" alt=":spiral_calendar:" /> `:spiral_calendar:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5d2.png?v7" width="24" height="24" alt=":spiral_notepad:" /> `:spiral_notepad:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f944.png?v7" width="24" height="24" alt=":spoon:" /> `:spoon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f991.png?v7" width="24" height="24" alt=":squid:" /> `:squid:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/shipit.png?v7" width="24" height="24" alt=":squirrel:" /> `:squirrel:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1f0.png?v7" width="24" height="24" alt=":sri_lanka:" /> `:sri_lanka:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e7-1f1f1.png?v7" width="24" height="24" alt=":st_barthelemy:" /> `:st_barthelemy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ed.png?v7" width="24" height="24" alt=":st_helena:" /> `:st_helena:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f0-1f1f3.png?v7" width="24" height="24" alt=":st_kitts_nevis:" /> `:st_kitts_nevis:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f1-1f1e8.png?v7" width="24" height="24" alt=":st_lucia:" /> `:st_lucia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f5-1f1f2.png?v7" width="24" height="24" alt=":st_pierre_miquelon:" /> `:st_pierre_miquelon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1e8.png?v7" width="24" height="24" alt=":st_vincent_grenadines:" /> `:st_vincent_grenadines:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3df.png?v7" width="24" height="24" alt=":stadium:" /> `:stadium:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b50.png?v7" width="24" height="24" alt=":star:" /> `:star:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31f.png?v7" width="24" height="24" alt=":star2:" /> `:star2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/262a.png?v7" width="24" height="24" alt=":star_and_crescent:" /> `:star_and_crescent:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2721.png?v7" width="24" height="24" alt=":star_of_david:" /> `:star_of_david:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f320.png?v7" width="24" height="24" alt=":stars:" /> `:stars:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f689.png?v7" width="24" height="24" alt=":station:" /> `:station:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fd.png?v7" width="24" height="24" alt=":statue_of_liberty:" /> `:statue_of_liberty:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f682.png?v7" width="24" height="24" alt=":steam_locomotive:" /> `:steam_locomotive:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f372.png?v7" width="24" height="24" alt=":stew:" /> `:stew:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23f9.png?v7" width="24" height="24" alt=":stop_button:" /> `:stop_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6d1.png?v7" width="24" height="24" alt=":stop_sign:" /> `:stop_sign:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23f1.png?v7" width="24" height="24" alt=":stopwatch:" /> `:stopwatch:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cf.png?v7" width="24" height="24" alt=":straight_ruler:" /> `:straight_ruler:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f353.png?v7" width="24" height="24" alt=":strawberry:" /> `:strawberry:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61b.png?v7" width="24" height="24" alt=":stuck_out_tongue:" /> `:stuck_out_tongue:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61d.png?v7" width="24" height="24" alt=":stuck_out_tongue_closed_eyes:" /> `:stuck_out_tongue_closed_eyes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png?v7" width="24" height="24" alt=":stuck_out_tongue_winking_eye:" /> `:stuck_out_tongue_winking_eye:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f399.png?v7" width="24" height="24" alt=":studio_microphone:" /> `:studio_microphone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f959.png?v7" width="24" height="24" alt=":stuffed_flatbread:" /> `:stuffed_flatbread:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1e9.png?v7" width="24" height="24" alt=":sudan:" /> `:sudan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f325.png?v7" width="24" height="24" alt=":sun_behind_large_cloud:" /> `:sun_behind_large_cloud:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f326.png?v7" width="24" height="24" alt=":sun_behind_rain_cloud:" /> `:sun_behind_rain_cloud:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f324.png?v7" width="24" height="24" alt=":sun_behind_small_cloud:" /> `:sun_behind_small_cloud:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31e.png?v7" width="24" height="24" alt=":sun_with_face:" /> `:sun_with_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f33b.png?v7" width="24" height="24" alt=":sunflower:" /> `:sunflower:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png?v7" width="24" height="24" alt=":sunglasses:" /> `:sunglasses:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2600.png?v7" width="24" height="24" alt=":sunny:" /> `:sunny:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f305.png?v7" width="24" height="24" alt=":sunrise:" /> `:sunrise:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f304.png?v7" width="24" height="24" alt=":sunrise_over_mountains:" /> `:sunrise_over_mountains:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c4.png?v7" width="24" height="24" alt=":surfer:" /> `:surfer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c4.png?v7" width="24" height="24" alt=":surfing_man:" /> `:surfing_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c4-2640.png?v7" width="24" height="24" alt=":surfing_woman:" /> `:surfing_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1f7.png?v7" width="24" height="24" alt=":suriname:" /> `:suriname:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f363.png?v7" width="24" height="24" alt=":sushi:" /> `:sushi:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/suspect.png?v7" width="24" height="24" alt=":suspect:" /> `:suspect:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f69f.png?v7" width="24" height="24" alt=":suspension_railway:" /> `:suspension_railway:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ff.png?v7" width="24" height="24" alt=":swaziland:" /> `:swaziland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f613.png?v7" width="24" height="24" alt=":sweat:" /> `:sweat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a6.png?v7" width="24" height="24" alt=":sweat_drops:" /> `:sweat_drops:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png?v7" width="24" height="24" alt=":sweat_smile:" /> `:sweat_smile:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1ea.png?v7" width="24" height="24" alt=":sweden:" /> `:sweden:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f360.png?v7" width="24" height="24" alt=":sweet_potato:" /> `:sweet_potato:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ca.png?v7" width="24" height="24" alt=":swimmer:" /> `:swimmer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ca.png?v7" width="24" height="24" alt=":swimming_man:" /> `:swimming_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ca-2640.png?v7" width="24" height="24" alt=":swimming_woman:" /> `:swimming_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1ed.png?v7" width="24" height="24" alt=":switzerland:" /> `:switzerland:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f523.png?v7" width="24" height="24" alt=":symbols:" /> `:symbols:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f54d.png?v7" width="24" height="24" alt=":synagogue:" /> `:synagogue:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f8-1f1fe.png?v7" width="24" height="24" alt=":syria:" /> `:syria:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f489.png?v7" width="24" height="24" alt=":syringe:" /> `:syringe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f32e.png?v7" width="24" height="24" alt=":taco:" /> `:taco:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png?v7" width="24" height="24" alt=":tada:" /> `:tada:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1fc.png?v7" width="24" height="24" alt=":taiwan:" /> `:taiwan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ef.png?v7" width="24" height="24" alt=":tajikistan:" /> `:tajikistan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f38b.png?v7" width="24" height="24" alt=":tanabata_tree:" /> `:tanabata_tree:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f34a.png?v7" width="24" height="24" alt=":tangerine:" /> `:tangerine:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ff.png?v7" width="24" height="24" alt=":tanzania:" /> `:tanzania:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2649.png?v7" width="24" height="24" alt=":taurus:" /> `:taurus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f695.png?v7" width="24" height="24" alt=":taxi:" /> `:taxi:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f375.png?v7" width="24" height="24" alt=":tea:" /> `:tea:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/260e.png?v7" width="24" height="24" alt=":telephone:" /> `:telephone:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4de.png?v7" width="24" height="24" alt=":telephone_receiver:" /> `:telephone_receiver:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f52d.png?v7" width="24" height="24" alt=":telescope:" /> `:telescope:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3be.png?v7" width="24" height="24" alt=":tennis:" /> `:tennis:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26fa.png?v7" width="24" height="24" alt=":tent:" /> `:tent:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ed.png?v7" width="24" height="24" alt=":thailand:" /> `:thailand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f321.png?v7" width="24" height="24" alt=":thermometer:" /> `:thermometer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f914.png?v7" width="24" height="24" alt=":thinking:" /> `:thinking:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ad.png?v7" width="24" height="24" alt=":thought_balloon:" /> `:thought_balloon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0033-20e3.png?v7" width="24" height="24" alt=":three:" /> `:three:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44e.png?v7" width="24" height="24" alt=":thumbsdown:" /> `:thumbsdown:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v7" width="24" height="24" alt=":thumbsup:" /> `:thumbsup:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ab.png?v7" width="24" height="24" alt=":ticket:" /> `:ticket:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f39f.png?v7" width="24" height="24" alt=":tickets:" /> `:tickets:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42f.png?v7" width="24" height="24" alt=":tiger:" /> `:tiger:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f405.png?v7" width="24" height="24" alt=":tiger2:" /> `:tiger2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/23f2.png?v7" width="24" height="24" alt=":timer_clock:" /> `:timer_clock:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f1.png?v7" width="24" height="24" alt=":timor_leste:" /> `:timor_leste:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f481-2642.png?v7" width="24" height="24" alt=":tipping_hand_man:" /> `:tipping_hand_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f481.png?v7" width="24" height="24" alt=":tipping_hand_woman:" /> `:tipping_hand_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62b.png?v7" width="24" height="24" alt=":tired_face:" /> `:tired_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2122.png?v7" width="24" height="24" alt=":tm:" /> `:tm:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1ec.png?v7" width="24" height="24" alt=":togo:" /> `:togo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6bd.png?v7" width="24" height="24" alt=":toilet:" /> `:toilet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f0.png?v7" width="24" height="24" alt=":tokelau:" /> `:tokelau:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fc.png?v7" width="24" height="24" alt=":tokyo_tower:" /> `:tokyo_tower:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f345.png?v7" width="24" height="24" alt=":tomato:" /> `:tomato:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f4.png?v7" width="24" height="24" alt=":tonga:" /> `:tonga:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f445.png?v7" width="24" height="24" alt=":tongue:" /> `:tongue:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f51d.png?v7" width="24" height="24" alt=":top:" /> `:top:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a9.png?v7" width="24" height="24" alt=":tophat:" /> `:tophat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f32a.png?v7" width="24" height="24" alt=":tornado:" /> `:tornado:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f7.png?v7" width="24" height="24" alt=":tr:" /> `:tr:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5b2.png?v7" width="24" height="24" alt=":trackball:" /> `:trackball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f69c.png?v7" width="24" height="24" alt=":tractor:" /> `:tractor:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a5.png?v7" width="24" height="24" alt=":traffic_light:" /> `:traffic_light:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f68b.png?v7" width="24" height="24" alt=":train:" /> `:train:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f686.png?v7" width="24" height="24" alt=":train2:" /> `:train2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f68a.png?v7" width="24" height="24" alt=":tram:" /> `:tram:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a9.png?v7" width="24" height="24" alt=":triangular_flag_on_post:" /> `:triangular_flag_on_post:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d0.png?v7" width="24" height="24" alt=":triangular_ruler:" /> `:triangular_ruler:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f531.png?v7" width="24" height="24" alt=":trident:" /> `:trident:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f9.png?v7" width="24" height="24" alt=":trinidad_tobago:" /> `:trinidad_tobago:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f624.png?v7" width="24" height="24" alt=":triumph:" /> `:triumph:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f68e.png?v7" width="24" height="24" alt=":trolleybus:" /> `:trolleybus:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/trollface.png?v7" width="24" height="24" alt=":trollface:" /> `:trollface:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3c6.png?v7" width="24" height="24" alt=":trophy:" /> `:trophy:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f379.png?v7" width="24" height="24" alt=":tropical_drink:" /> `:tropical_drink:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f420.png?v7" width="24" height="24" alt=":tropical_fish:" /> `:tropical_fish:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f69a.png?v7" width="24" height="24" alt=":truck:" /> `:truck:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ba.png?v7" width="24" height="24" alt=":trumpet:" /> `:trumpet:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f455.png?v7" width="24" height="24" alt=":tshirt:" /> `:tshirt:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f337.png?v7" width="24" height="24" alt=":tulip:" /> `:tulip:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f943.png?v7" width="24" height="24" alt=":tumbler_glass:" /> `:tumbler_glass:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f3.png?v7" width="24" height="24" alt=":tunisia:" /> `:tunisia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f983.png?v7" width="24" height="24" alt=":turkey:" /> `:turkey:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1f2.png?v7" width="24" height="24" alt=":turkmenistan:" /> `:turkmenistan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1e8.png?v7" width="24" height="24" alt=":turks_caicos_islands:" /> `:turks_caicos_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png?v7" width="24" height="24" alt=":turtle:" /> `:turtle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1fb.png?v7" width="24" height="24" alt=":tuvalu:" /> `:tuvalu:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fa.png?v7" width="24" height="24" alt=":tv:" /> `:tv:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f500.png?v7" width="24" height="24" alt=":twisted_rightwards_arrows:" /> `:twisted_rightwards_arrows:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0032-20e3.png?v7" width="24" height="24" alt=":two:" /> `:two:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f495.png?v7" width="24" height="24" alt=":two_hearts:" /> `:two_hearts:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46c.png?v7" width="24" height="24" alt=":two_men_holding_hands:" /> `:two_men_holding_hands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f46d.png?v7" width="24" height="24" alt=":two_women_holding_hands:" /> `:two_women_holding_hands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f239.png?v7" width="24" height="24" alt=":u5272:" /> `:u5272:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f234.png?v7" width="24" height="24" alt=":u5408:" /> `:u5408:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f23a.png?v7" width="24" height="24" alt=":u55b6:" /> `:u55b6:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f22f.png?v7" width="24" height="24" alt=":u6307:" /> `:u6307:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f237.png?v7" width="24" height="24" alt=":u6708:" /> `:u6708:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f236.png?v7" width="24" height="24" alt=":u6709:" /> `:u6709:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f235.png?v7" width="24" height="24" alt=":u6e80:" /> `:u6e80:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f21a.png?v7" width="24" height="24" alt=":u7121:" /> `:u7121:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f238.png?v7" width="24" height="24" alt=":u7533:" /> `:u7533:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f232.png?v7" width="24" height="24" alt=":u7981:" /> `:u7981:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f233.png?v7" width="24" height="24" alt=":u7a7a:" /> `:u7a7a:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1ec.png?v7" width="24" height="24" alt=":uganda:" /> `:uganda:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v7" width="24" height="24" alt=":uk:" /> `:uk:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1e6.png?v7" width="24" height="24" alt=":ukraine:" /> `:ukraine:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2614.png?v7" width="24" height="24" alt=":umbrella:" /> `:umbrella:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f612.png?v7" width="24" height="24" alt=":unamused:" /> `:unamused:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f51e.png?v7" width="24" height="24" alt=":underage:" /> `:underage:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f984.png?v7" width="24" height="24" alt=":unicorn:" /> `:unicorn:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e6-1f1ea.png?v7" width="24" height="24" alt=":united_arab_emirates:" /> `:united_arab_emirates:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f513.png?v7" width="24" height="24" alt=":unlock:" /> `:unlock:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f199.png?v7" width="24" height="24" alt=":up:" /> `:up:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f643.png?v7" width="24" height="24" alt=":upside_down_face:" /> `:upside_down_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1fe.png?v7" width="24" height="24" alt=":uruguay:" /> `:uruguay:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v7" width="24" height="24" alt=":us:" /> `:us:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1ee.png?v7" width="24" height="24" alt=":us_virgin_islands:" /> `:us_virgin_islands:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1ff.png?v7" width="24" height="24" alt=":uzbekistan:" /> `:uzbekistan:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270c.png?v7" width="24" height="24" alt=":v:" /> `:v:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1fa.png?v7" width="24" height="24" alt=":vanuatu:" /> `:vanuatu:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1e6.png?v7" width="24" height="24" alt=":vatican_city:" /> `:vatican_city:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1ea.png?v7" width="24" height="24" alt=":venezuela:" /> `:venezuela:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6a6.png?v7" width="24" height="24" alt=":vertical_traffic_light:" /> `:vertical_traffic_light:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4fc.png?v7" width="24" height="24" alt=":vhs:" /> `:vhs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f3.png?v7" width="24" height="24" alt=":vibration_mode:" /> `:vibration_mode:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png?v7" width="24" height="24" alt=":video_camera:" /> `:video_camera:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png?v7" width="24" height="24" alt=":video_game:" /> `:video_game:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fb-1f1f3.png?v7" width="24" height="24" alt=":vietnam:" /> `:vietnam:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bb.png?v7" width="24" height="24" alt=":violin:" /> `:violin:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/264d.png?v7" width="24" height="24" alt=":virgo:" /> `:virgo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30b.png?v7" width="24" height="24" alt=":volcano:" /> `:volcano:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3d0.png?v7" width="24" height="24" alt=":volleyball:" /> `:volleyball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f19a.png?v7" width="24" height="24" alt=":vs:" /> `:vs:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png?v7" width="24" height="24" alt=":vulcan_salute:" /> `:vulcan_salute:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b6.png?v7" width="24" height="24" alt=":walking:" /> `:walking:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b6.png?v7" width="24" height="24" alt=":walking_man:" /> `:walking_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6b6-2640.png?v7" width="24" height="24" alt=":walking_woman:" /> `:walking_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fc-1f1eb.png?v7" width="24" height="24" alt=":wallis_futuna:" /> `:wallis_futuna:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f318.png?v7" width="24" height="24" alt=":waning_crescent_moon:" /> `:waning_crescent_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f316.png?v7" width="24" height="24" alt=":waning_gibbous_moon:" /> `:waning_gibbous_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png?v7" width="24" height="24" alt=":warning:" /> `:warning:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5d1.png?v7" width="24" height="24" alt=":wastebasket:" /> `:wastebasket:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/231a.png?v7" width="24" height="24" alt=":watch:" /> `:watch:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f403.png?v7" width="24" height="24" alt=":water_buffalo:" /> `:water_buffalo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f349.png?v7" width="24" height="24" alt=":watermelon:" /> `:watermelon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44b.png?v7" width="24" height="24" alt=":wave:" /> `:wave:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/3030.png?v7" width="24" height="24" alt=":wavy_dash:" /> `:wavy_dash:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f312.png?v7" width="24" height="24" alt=":waxing_crescent_moon:" /> `:waxing_crescent_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f314.png?v7" width="24" height="24" alt=":waxing_gibbous_moon:" /> `:waxing_gibbous_moon:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6be.png?v7" width="24" height="24" alt=":wc:" /> `:wc:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f629.png?v7" width="24" height="24" alt=":weary:" /> `:weary:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f492.png?v7" width="24" height="24" alt=":wedding:" /> `:wedding:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cb.png?v7" width="24" height="24" alt=":weight_lifting_man:" /> `:weight_lifting_man:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3cb-2640.png?v7" width="24" height="24" alt=":weight_lifting_woman:" /> `:weight_lifting_woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1ed.png?v7" width="24" height="24" alt=":western_sahara:" /> `:western_sahara:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f433.png?v7" width="24" height="24" alt=":whale:" /> `:whale:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f40b.png?v7" width="24" height="24" alt=":whale2:" /> `:whale2:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2638.png?v7" width="24" height="24" alt=":wheel_of_dharma:" /> `:wheel_of_dharma:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/267f.png?v7" width="24" height="24" alt=":wheelchair:" /> `:wheelchair:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png?v7" width="24" height="24" alt=":white_check_mark:" /> `:white_check_mark:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png?v7" width="24" height="24" alt=":white_circle:" /> `:white_circle:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f3.png?v7" width="24" height="24" alt=":white_flag:" /> `:white_flag:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ae.png?v7" width="24" height="24" alt=":white_flower:" /> `:white_flower:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b1c.png?v7" width="24" height="24" alt=":white_large_square:" /> `:white_large_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25fd.png?v7" width="24" height="24" alt=":white_medium_small_square:" /> `:white_medium_small_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25fb.png?v7" width="24" height="24" alt=":white_medium_square:" /> `:white_medium_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/25ab.png?v7" width="24" height="24" alt=":white_small_square:" /> `:white_small_square:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f533.png?v7" width="24" height="24" alt=":white_square_button:" /> `:white_square_button:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f940.png?v7" width="24" height="24" alt=":wilted_flower:" /> `:wilted_flower:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f390.png?v7" width="24" height="24" alt=":wind_chime:" /> `:wind_chime:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f32c.png?v7" width="24" height="24" alt=":wind_face:" /> `:wind_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f377.png?v7" width="24" height="24" alt=":wine_glass:" /> `:wine_glass:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png?v7" width="24" height="24" alt=":wink:" /> `:wink:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43a.png?v7" width="24" height="24" alt=":wolf:" /> `:wolf:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469.png?v7" width="24" height="24" alt=":woman:" /> `:woman:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3a8.png?v7" width="24" height="24" alt=":woman_artist:" /> `:woman_artist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f680.png?v7" width="24" height="24" alt=":woman_astronaut:" /> `:woman_astronaut:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f938-2640.png?v7" width="24" height="24" alt=":woman_cartwheeling:" /> `:woman_cartwheeling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f373.png?v7" width="24" height="24" alt=":woman_cook:" /> `:woman_cook:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f926-2640.png?v7" width="24" height="24" alt=":woman_facepalming:" /> `:woman_facepalming:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3ed.png?v7" width="24" height="24" alt=":woman_factory_worker:" /> `:woman_factory_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f33e.png?v7" width="24" height="24" alt=":woman_farmer:" /> `:woman_farmer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f692.png?v7" width="24" height="24" alt=":woman_firefighter:" /> `:woman_firefighter:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2695.png?v7" width="24" height="24" alt=":woman_health_worker:" /> `:woman_health_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2696.png?v7" width="24" height="24" alt=":woman_judge:" /> `:woman_judge:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f939-2640.png?v7" width="24" height="24" alt=":woman_juggling:" /> `:woman_juggling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f527.png?v7" width="24" height="24" alt=":woman_mechanic:" /> `:woman_mechanic:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f4bc.png?v7" width="24" height="24" alt=":woman_office_worker:" /> `:woman_office_worker:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-2708.png?v7" width="24" height="24" alt=":woman_pilot:" /> `:woman_pilot:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93e-2640.png?v7" width="24" height="24" alt=":woman_playing_handball:" /> `:woman_playing_handball:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93d-2640.png?v7" width="24" height="24" alt=":woman_playing_water_polo:" /> `:woman_playing_water_polo:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f52c.png?v7" width="24" height="24" alt=":woman_scientist:" /> `:woman_scientist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f937-2640.png?v7" width="24" height="24" alt=":woman_shrugging:" /> `:woman_shrugging:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3a4.png?v7" width="24" height="24" alt=":woman_singer:" /> `:woman_singer:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f393.png?v7" width="24" height="24" alt=":woman_student:" /> `:woman_student:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f3eb.png?v7" width="24" height="24" alt=":woman_teacher:" /> `:woman_teacher:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f469-1f4bb.png?v7" width="24" height="24" alt=":woman_technologist:" /> `:woman_technologist:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f473-2640.png?v7" width="24" height="24" alt=":woman_with_turban:" /> `:woman_with_turban:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f45a.png?v7" width="24" height="24" alt=":womans_clothes:" /> `:womans_clothes:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f452.png?v7" width="24" height="24" alt=":womans_hat:" /> `:womans_hat:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f93c-2640.png?v7" width="24" height="24" alt=":women_wrestling:" /> `:women_wrestling:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f6ba.png?v7" width="24" height="24" alt=":womens:" /> `:womens:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f5fa.png?v7" width="24" height="24" alt=":world_map:" /> `:world_map:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61f.png?v7" width="24" height="24" alt=":worried:" /> `:worried:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f527.png?v7" width="24" height="24" alt=":wrench:" /> `:wrench:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/270d.png?v7" width="24" height="24" alt=":writing_hand:" /> `:writing_hand:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/274c.png?v7" width="24" height="24" alt=":x:" /> `:x:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49b.png?v7" width="24" height="24" alt=":yellow_heart:" /> `:yellow_heart:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fe-1f1ea.png?v7" width="24" height="24" alt=":yemen:" /> `:yemen:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b4.png?v7" width="24" height="24" alt=":yen:" /> `:yen:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/262f.png?v7" width="24" height="24" alt=":yin_yang:" /> `:yin_yang:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60b.png?v7" width="24" height="24" alt=":yum:" /> `:yum:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ff-1f1f2.png?v7" width="24" height="24" alt=":zambia:" /> `:zambia:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png?v7" width="24" height="24" alt=":zap:" /> `:zap:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/0030-20e3.png?v7" width="24" height="24" alt=":zero:" /> `:zero:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ff-1f1fc.png?v7" width="24" height="24" alt=":zimbabwe:" /> `:zimbabwe:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f910.png?v7" width="24" height="24" alt=":zipper_mouth_face:" /> `:zipper_mouth_face:` 
+ - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a4.png?v7" width="24" height="24" alt=":zzz:" /> `:zzz:` 
