@@ -13,4 +13,4 @@ echo "### gitmoji list" > README.md
 # 对比 gogs & github
 #   (comm <(cd gogs;ls|sed 's,\..*,,'|sort) <(awk '{print $1}' github_api.txt|sort)|sed 's,\t,=,g') > comm.tmp
 echo "### github emoji list" >> README.md
-(LINE="";COUNT=0;cat github_api.txt|awk '{print "<img src=\""$2"\" width=\"24\" height=\"24\" alt=\":"$1":\" /> `:"$1":` "}' |while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done) >> README.md
+(LINE="";COUNT=0;cat github_api.txt|awk '{print ":"$1": `:"$1":` "}' |while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo " - $LINE" ; LINE=""; } || { LINE="$LINE $line"; };done) >> README.md
