@@ -47,9 +47,9 @@
  - :speech_balloon: `:speech_balloon:` Updating text and literals.
  - :card_file_box: `:card_file_box:` Performing database related changes.
 ### github emoji list
-
-:+1: `:+1:` | :-1: `:-1:` | :100: `:100:`
+    |    |    
 ----|----|----
+:+1: `:+1:` | :-1: `:-1:` | :100: `:100:`
 :1234: `:1234:` | :1st_place_medal: `:1st_place_medal:` | :2nd_place_medal: `:2nd_place_medal:`
 :3rd_place_medal: `:3rd_place_medal:` | :8ball: `:8ball:` | :a: `:a:`
 :ab: `:ab:` | :abc: `:abc:` | :abcd: `:abcd:`

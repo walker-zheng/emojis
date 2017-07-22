@@ -13,6 +13,8 @@ echo "### gitmoji list" > README.md
 # 对比 gogs & github
 #   (comm <(cd gogs;ls|sed 's,\..*,,'|sort) <(awk '{print $1}' github_api.txt|sort)|sed 's,\t,=,g') > comm.tmp
 echo "### github emoji list" >> README.md
+HEADER=$(for ((i=0; i<ROWS-1; ++i)); do echo -n "    |";done;echo -n '    ')
 TABLE=$(for ((i=0; i<ROWS-1; ++i)); do echo -n "----|";done;echo -n '----')
-echo >> README.md
-(LINE="";COUNT=0;cat github_api.txt|awk '{print ":"$1": `:"$1":` "}' |while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { (( ! (COUNT / ROWS - 2) )) && echo $TABLE; echo "$LINE | $line"|sed 's,^ ,,' ; LINE=""; } || { (( ! (COUNT % ROWS - (ROWS - 1)))) && LINE="$LINE $line" || LINE="$LINE $line |"; };done) >> README.md
+echo "$HEADER" >> README.md
+echo "$TABLE" >> README.md
+(LINE="";COUNT=0;cat github_api.txt|awk '{print ":"$1": `:"$1":` "}' |while read line;do (( COUNT+=1 )); (( ! (COUNT % ROWS) )) && { echo "$LINE | $line"|sed 's,^ ,,' ; LINE=""; } || { (( ! (COUNT % ROWS - (ROWS - 1)))) && LINE="$LINE $line" || LINE="$LINE $line |"; };done) >> README.md
